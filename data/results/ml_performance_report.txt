@@ -1,0 +1,14 @@
+Mean ROC-AUC: 0.979
+Accuracy: 0.994
+Precision: 1.000
+Recall: 0.882
+F1 Score: 0.938
+
+Feature Importances:
+n_proteins                0.670875
+ratio_transport           0.116472
+ratio_kinase              0.085536
+ratio_receptor            0.069458
+ratio_ion                 0.051021
+ratio_neurotransmitter    0.006638
+ratio_cofactor            0.000000

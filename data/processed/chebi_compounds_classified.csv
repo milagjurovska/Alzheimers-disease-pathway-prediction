@@ -1,0 +1,1079 @@
+ChEBI_ID,Name,Definition,Stars,Category
+CHEBI:10642,scyllo-inositol,,,Metabolite
+CHEBI:10980,(R)-3-(4-hydroxyphenyl)lactate,,,Metabolite
+CHEBI:10983,(R)-3-hydroxybutyrate,The conjugate base of (<i>R</i>)-3-hydroxybutyric acid.,,Metabolite
+CHEBI:1156,2-hydroxyestrone,A 2-hydroxy steroid that is estrone substituted by a hydroxy group at position 2.,,Metabolite
+CHEBI:116314,oleamide,A fatty amide derived from oleic acid.,,Metabolite
+CHEBI:11892,N-carbamoyl-beta-alaninate,A monocarboxylic acid anion that is the conjugate base of <em>N</em>-carbamoyl-β-alanine arising from deprotonation of the carboxy group.,,Metabolite
+CHEBI:11893,"3alpha,12alpha-dihydroxy-7-oxo-5beta-cholanate",,,Metabolite
+CHEBI:131705,2'-deoxynucleoside 3'-monophosphate(2-),An organophosphate oxoanion obtained by deprotonation of the phosphate OH groups of any 2'-deoxynucleoside 3'-monophosphate; major species at pH 7.3.,,Metabolite
+CHEBI:131725,coproporphyrin III(4-),A cyclic tetrapyrrole anion obtained by deprotonation of the four carboxy groups of coproporphyrin III; major species at pH 7.3.,,Metabolite
+CHEBI:131859,oxo-ETE anion,An icosanoid anion arising from deprotonation of the carboxylic acid function of any oxoicosatetraenoic acid.,,Ion
+CHEBI:13193,hydrogen acceptor,A molecular entity that can undergo reduction by the gain of hydrogen atom(s).,,Metabolite
+CHEBI:131964,"(14S,15R)-EET(1-)","A 14,15-EET(1−) that is the conjugate base of (14<i>S</i>,15<i>R</i>)-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:131965,"(14R,15S)-EET(1-)","A 14,15-EET(1−) that is the conjugate base of (14<i>R</i>,15<i>S</i>)-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:131969,"(11S,12R)-EET(1-)","An 11,12-EET(1−) that is the conjugate base of (11<i>S</i>,12<i>R</i>)-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:13197,ribonucleoside 3'-monophosphate(2-),A ribonucleoside 3'-monophosphate(2−) oxoanion in which both of the acidic hydroxy groups from the phosphate moiety are deprotonated.,,Metabolite
+CHEBI:131970,"(11R,12S)-EET(1-)","An 11,12-EET(1−) that is the conjugate base of (11<i>R</i>,12<i>S</i>)-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:131974,"(8S,9R)-EET(1-)","An 8,9-EET(1−) that is the conjugate base of (8<i>S</i>,9<i>R</i>)-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:132028,tauroursodeoxycholate,An organosulfonate oxoanion that is the conjugate base of tauroursodeoxycholic acid arising from deprotonation of the sulfonate OH group; major species at pH 7.3.,,Metabolite
+CHEBI:132030,glycoursodeoxycholate,A <em>N</em>-acylglycinate that is the conjugate base of glycoursodeoxycholic acid. obtained by deprotonation of the carboxy group; major species at pH 7.3.,,Metabolite
+CHEBI:132049,N-tetracosanoyltaurine(1-),A fatty acid-taurine conjugate obtained by deprotonation of the sulfonate group of <em>N</em>-tetracosanoyltaurine; major species at pH 7.3.,,Metabolite
+CHEBI:132083,18(S)-HEPE(1-),"An 18-HEPE(1−) that is the conjugate base of 18(<i>S</i>)-HEPE, arising from deprotonation of the carboxylic acid group; major species at pH 7.3.",,Metabolite
+CHEBI:132087,15(S)-HEPE(1-),"A HEPE(1−) that is the conjugate base of 15(<i>S</i>)-HEPE, arising from deprotonation of the carboxylic acid group; major species at pH 7.3.",,Metabolite
+CHEBI:132105,O(3)-(N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-(1->3)-beta-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-xylosyl)-L-serine(1-) residue,An organic anionic group obtained by deprotonation of the glucuronosyl carboxy group of <em>O</em><small><sup>3</small></sup>-(<em>N</em>-acetyl-β-<small>D</small>-glucosaminyl-(1→4)-β-<small>D</small>-glucuronosyl-(1→3)-β-<small>D</small>-galactosyl-(1→3)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-xylosyl)-<small>L</small>-serine residue.,,Metabolite
+CHEBI:132124,"1,4-benzoquinones","Any member of the class of benzoquinones that is 1,4-benzoquinone or its <em>C</em>-substituted derivatives.",,Metabolite
+CHEBI:132127,hepoxilin A3(1-),"A hepoxilin anion that is the conjugate base of hepoxilin A<small><sub>3</sub></small>, arising from deprotonation of the carboxylic acid group; major species at pH 7.3.",,Metabolite
+CHEBI:132988,bradykinin(2+),A peptide cation obtained by deprotonation of the carboxy group and protonation of the amino and guanidino groups of bradykinin; major species at pH 7.3.,,Metabolite
+CHEBI:133000,pregnenolone sulfate(1-),"A steroid sulfate oxoanion that is the conjugate base of pregnenolone sulfate, obtained by deprotonation of the sulfo group; major species at pH 7.3.",,Metabolite
+CHEBI:133003,androsterone sulfate(1-),"A steroid sulfate oxoanion that is the conjugate base of androsterone sulfate, obtained by deprotonation of the sulfo group; major species at pH 7.3.",,Metabolite
+CHEBI:133084,prostaglandin G1(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin G<small><sub>1</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:133133,prostaglandin G3(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin G<small><sub>3</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:133134,prostaglandin H3(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin H<small><sub>3</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:133147,Phe-Arg(1+),A peptide cation obtained by deprotonation of the carboxy terminus and protonation of the side-chain guanidino group and the amino terminus of Phe-Arg; major species at pH 7.3.,,Metabolite
+CHEBI:133369,N-acetylglycyl residue,An <em>N</em>-acyl-α-aminoacyl group derived from <em>N</em>-acetylglycine,,Metabolite
+CHEBI:133371,N-acetyl-L-valyl residue,An <em>N</em>-acyl-α-aminoacyl group derived from <em>N</em>-acetyl-<small>L</small>-valine.,,Metabolite
+CHEBI:133372,N-acetyl-L-cysteinyl residue,An <em>N</em>-acyl-α-aminoacyl group derived from <em>N</em>-acetyl-<small>L</small>-cysteine.,,Metabolite
+CHEBI:133375,N-acetyl-L-threonyl residue,An <em>N</em>-acyl-α-aminoacyl group derived from <em>N</em>-acetyl-<small>L</small>-threonine.,,Metabolite
+CHEBI:133524,dopamine 3-O-sulfate zwitterion,A zwitterion obtained by transfer of a proton from the sulfonyl to the amino group of dopamine 3-<em>O</em>-sulfate; major species at pH 7.3.,,Neurotransmitter
+CHEBI:133529,dopamine 4-O-sulfate zwitterion,A zwitterion obtained by transfer of a proton from the sulfonyl to the amino group of dopamine 4-<em>O</em>-sulfate; major species at pH 7.3.,,Neurotransmitter
+CHEBI:133819,13-HODE(1-),"A HODE(1−) that is the conjugate base of 13-HODE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:133820,9-HODE(1-),"A HODE(1−) that is the conjugate base of 9-HODE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:133940,lithocholate sulfate(2-),A steroid sulfate oxoanion obtained by deprotonation of the carboxylic acid and sulfate functions of lithocholic acid sulfate; major species at pH 7.3.,,Metabolite
+CHEBI:133992,N-oleoylglycinate,An <em>N</em>-acylglycinate resulting from the deprotonation of the carboxy group of <em>N</em>-oleoylglycine. It is believed to be an intermediate in oleamide biosynthesis. The major species at pH 7.3.,,Metabolite
+CHEBI:134020,N-oleoyl-L-phenylalaninate,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion resulting from the deprotonation of the carboxy group of <em>N</em>-oleoyl-<small>L</small>-phenylalanine. The major species at pH 7.3.,,Metabolite
+CHEBI:134022,N-arachidonoyl-L-phenylalaninate,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion resulting from the deprotonation of the carboxy group of <em>N</em>-arachidonoyl-<small>L</small>-phenylalanine. The major species at pH 7.3.,,Metabolite
+CHEBI:134031,N-oleoyl-L-serinate,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion resulting from the deprotonation of the carboxy group of <em>N</em>-oleoyl-<small>L</small>-serine. The major species at pH 7.3.,,Metabolite
+CHEBI:134033,N-oleoyl-L-glutaminate,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion resulting from the deprotonation of the carboxy group of <em>N</em>-oleoyl-<small>L</small>-glutamine. The major species at pH 7.3.,,Metabolite
+CHEBI:134035,N-oleoyl-L-leucinate,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion resulting from the deprotonation of the carboxy group of <em>N</em>-oleoyl-<small>L</small>-leucine. The major species at pH 7.3.,,Metabolite
+CHEBI:134344,ergothioneine(1+),An α-amino-acid cation obtained by protonation of the imidazole ring of ergothioneine. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.).,,Ion
+CHEBI:134626,"N-[omega-(9R,10R)-epoxy-(13R)-hydroxy-(11E)-octadecenoyloxy]acyl-beta-D-glucosyl-(1<->1)-sphingosine","A β-<small>D</small>-glucosylceramide in which a β-<small>D</small>-glucosyl residue is attached to the primary hydroxyl group of <em>N</em>-[ω-(9<i>R</i>,10<i>R</i>)-epoxy-(13<i>R</i>)-hydroxy-(11<i>E</i>)-octadecadienoyloxy]acyl-sphing-4<i>E</i>-enine.",,Metabolite
+CHEBI:136117,"14,15-epoxy-(5Z,8Z,11Z)-icosatrienoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of 14,15-epoxy-(5<i>Z</i>,8<i>Z</i>,11<i>Z</i>)-icosatrienoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:136407,"5-hydroxy-(6E,8Z,11Z,14Z)-icosatetraenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of 5-hydroxy-(6<i>E</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-icosatetraenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:136408,"12-hydroxy-(5Z,8Z,10E,14Z)-icosatetraenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of 12-hydroxy-(5<i>Z</i>,8<i>Z</i>,10<i>E</i>,14<i>Z</i>)-icosatetraenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:136409,"15-hydroxy-(5Z,8Z,11Z,13E)-icosatetraenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of 15-hydroxy-(5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,13<i>E</i>)-icosatetraenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:136412,5'-end 2'-deoxyribonucleotide(2-) residue,An organic anionic group obtained by deprotonation of the phosphate OH groups of any 5'-end 2'-deoxyribonucleotide residue; major species at pH 7.3.,,Metabolite
+CHEBI:136416,5'-end 2'-deoxyribonucleoside residue,A nucleoside residue derived from any 2'-deoxyribonucleoside having the linkage point at position 3'.,,Metabolite
+CHEBI:136545,alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosaminide(1-),A carbohydrate acid derivative anion obtained by deprotonation of the carboxy group of any α-<em>N</em>-acetylneuraminyl-(2→3)-β-<small>D</small>-galactosyl-(1→4)-<em>N</em>-acetyl-β-<small>D</small>-glucosaminide; major species ar pH 7.3.,,Metabolite
+CHEBI:136566,(24S)-hydroxycholesterol 24-sulfate(1-),A steroid sulfate oxoanion obtained by deprotonation of the sulfo group of (24<i>S</i>)-hydroxycholesterol 24-sulfate.,,Metabolite
+CHEBI:136567,(24S)-hydroxycholesterol 3-sulfate(1-),A steroid sulfate oxoanion obtained by deprotonation of the sulfo group of (24<i>S</i>)-hydroxycholesterol 3-sulfate.,,Metabolite
+CHEBI:136568,"(24S)-hydroxycholesterol 3,24-disulfate(2-)","A steroid sulfate oxoanion obtained by deprotonation of the sulfo groups of (24<i>S</i>)-hydroxycholesterol 3,24-disulfate.",,Metabolite
+CHEBI:136655,13(R)-HODE(1-),"A 13-HODE(1−) that is the conjugate base of 13(<i>R</i>)-HODE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:137031,19-hydroxy-5alpha-dihydrotestosterone,An androstanoid that is 5α-dihydrotestosterone carrying an additional hydroxy susbstituent at position 19.,,Metabolite
+CHEBI:137032,19-oxo-5alpha-dihydrotestosterone,An androstanoid that is 5α-dihydrotestosterone carrying an additional oxo susbstituent at position 19.,,Metabolite
+CHEBI:13705,acetoacetate,"A 3-oxo monocarboxylic acid anion that is the conjugate base of acetoacetic acid, arising from deprotonation of the carboxy group.",,Metabolite
+CHEBI:137110,17beta-hydroxy-5alpha-estr-1(10)-en-3-one,"A 3-oxo-5α-steroid that is 5α-estrane which is substituted by an oxo group at position 3, a hydroxy group at the 17β position, and which has a double bond between positions 1 and 10. It is a 19-norsteroid arising from successive oxidation of dihydrotestosterone at <em>C</em><small><sub>19</sub></small>.",,Metabolite
+CHEBI:137125,myristamide,A fatty amide of myristic acid.,,Metabolite
+CHEBI:137582,"2-[(11R)-hydroxy-(5Z,8Z,12E,14Z)-icosatetraenoyl]-sn-glycero-3-phosphocholine","A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as (11<i>R</i>)-hydroxy-(5<i>Z</i>,8<i>Z</i>,12<i>E</i>,14<i>Z</i>)-icosatetraenoyl.",,Metabolite
+CHEBI:137583,"2-[(15R)-hydroxy-(5Z,8Z,11Z,13E)-icosatetraenoyl]-sn-glycero-3-phosphocholine","A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as (15<i>R</i>)-hydroxy-(5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,13<i>E</i>)-icosatetraenoyl.",,Metabolite
+CHEBI:137584,"2-[(15S)-hydroxy-(5Z,8Z,11Z,13E)-icosatetraenoyl]-sn-glycero-3-phosphocholine","A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as (15<i>S</i>)-hydroxy-(5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,13<i>E</i>)-icosatetraenoyl.",,Metabolite
+CHEBI:137688,(25R)-26-hydroxycholestanol,A cholestanoid that is cholestanol which is substituted by a hydroxy group at position 26 and has <i>R</i>-configuration at position 25.,,Metabolite
+CHEBI:137830,arachidonoyl amine,A primary fatty amide resulting from the formal condensation of the carboxy group of arachidonic acid with ammonia.,,Metabolite
+CHEBI:137954,N(6)-[(E)-but-2-enoyl]-L-lysine residue,An <em>N</em><small><sup>6</small></sup>-acyl-<small>L</small>-lysine residue derived from <em>N</em><small><sup>6</small></sup>-[(<i>E</i>)-but-2-enoyl]-<small>L</small>-lysine.,,Metabolite
+CHEBI:138002,"(5Z,8S,9S,11Z,14Z)-8,9-dihydroxyicosatrienoate","A (5<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-8,9-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>S</i>,9<i>S</i>,11<i>Z</i>,14<i>Z</i>)-8,9-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138003,"(5Z,8Z,11Z,14R,15R)-14,15-dihydroxyicosatrienoate","A (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>)-14,15-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>R</i>,15<i>R</i>)-14,15-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138004,"(5Z,8Z,11R,12R,14Z)-11,12-dihydroxyicosatrienoate","A (5<i>Z</i>,8<i>Z</i>,14<i>Z</i>)-11,12-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>Z</i>,11<i>R</i>,12<i>R</i>,14<i>Z</i>)-11,12-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138005,"(5Z,8Z,11S,12S,14Z)-11,12-dihydroxyicosatrienoate","A (5<i>Z</i>,8<i>Z</i>,14<i>Z</i>)-11,12-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>Z</i>,11<i>S</i>,12<i>S</i>,14<i>Z</i>)-11,12-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138006,"(5Z,8Z,11Z,14S,15S)-14,15-dihydroxyicosatrienoate","A (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>)-14,15-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>S</i>,15<i>S</i>)-14,15-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138008,"(5Z,8R,9R,11Z,14Z)-8,9-dihydroxyicosatrienoate","A (5<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-8,9-dihydroxyicosatrienoate obtained by deprotonation of the carboxy group of (5<i>Z</i>,8<i>R</i>,9<i>R</i>,11<i>Z</i>,14<i>Z</i>)-8,9-dihydroxyicosatrienoic acid; major species at pH 7.3.",,Metabolite
+CHEBI:138093,N-acyl-aromatic L-alpha-amino-acid anion,An <em>N</em>-acyl-<small>L</small>-α-amino acid anion obtained by deprotonation of the carboxy group of any <em>N</em>-acyl-aromatic <small>L</small>-α-amino-acid; major species at pH 7.3.,,Ion
+CHEBI:138098,"2-[(9S,11R)-epidioxy-(15S)-hydroperoxy-(5Z,13E)-prostadienoyl]-sn-glycero-3-phosphoethanolamine zwitterion","A 2-acyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion obtained by transfer of a proton from the phosphate to the amino group of 2-[(9<i>S</i>,11<i>R</i>)-epidioxy-15(<i>S</i>)-hydroperoxy-(5<i>Z</i>,13<i>E</i>)-prostadienoyl]-<em>sn</em>-glycero-3-phosphoethanolamine; major species at pH 7.3.",,Ion
+CHEBI:138099,"2-[(9S,11R)-epidioxy-(15S)-hydroxy-(5Z,13E)-prostadienoyl]-sn-glycero-3-phosphoethanolamine zwitterion","A 2-acyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion obtained by transfer of a proton from the phosphate to the amino group of 2-[(9<i>S</i>,11<i>R</i>)-epidioxy-(15<i>S</i>)-hydroxy-(5<i>Z</i>,13<i>E</i>)-prostadienoyl]-<em>sn</em>-glycero-3-phosphoethanolamine; major species at pH 7.3.",,Ion
+CHEBI:138100,"2-[(9S,11R)-epidioxy-(15S)-hydroperoxy-(5Z,13E)-prostadienoyl]-sn-glycero-3- phosphocholine","A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as (9<i>S</i>,11<i>R</i>)-epidioxy-(15<i>S</i>)-hydroperoxy-(5<i>Z</i>,13<i>E</i>)-prostadienoyl.",,Metabolite
+CHEBI:138101,"2-[(9S,11R)-epidioxy-(15S)-hydroxy-(5Z,13E)-prostadienoyl]-sn-glycero-3- phosphocholine",A prostanoid-LPC that is the ammonium betaine of a 2-(prostaglandin H<small><sub>2</sub></small>)-<em>sn</em>-glycero-3-phosphocholine arising from deprotonation of the phosphate OH group; major species at pH 7.3.,,Metabolite
+CHEBI:138191,3'-end 3'-(N-acyl-L-alpha-aminoacyl)adenylyl(1-) residue,An organic anionic group obtained by deprotonation of the phosphate OH group of any 3'-end 3'-(<em>N</em>-acyl-<small>L</small>-α-aminoacyl)adenylyl residue; major species at pH 7.3.,,Metabolite
+CHEBI:138195,"1,2-diheptanoyl-sn-glycero-3-phosphocholine",A phosphatidylcholine 14:0 in which both acyl groups are specified as heptanoyl.,,Metabolite
+CHEBI:138266,2-heptanoyl-sn-glycero-3-phosphocholine,A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as heptanoyl.,,Metabolite
+CHEBI:138278,5'-end GTP-ribonucleotide(5-) residue,An organic anionic group obtained by deprotonation of the phosphate and triphosphate OH groups of any 5'-end GTP-ribonucleotide residue; major species at pH 7.3.,,Cofactor
+CHEBI:138284,5'-end ribonucleoside residue,A nucleoside residue derived from any ribonucleoside having the linkage point at position 3'.,,Metabolite
+CHEBI:138442,O(3)-(beta-D-GlcA-(1->3)-beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl)-L-serine(2-) residue,An α-amino-acid residue anion obtained by deprotonation of the carboxy groups of <em>O</em><small><sup>3</small></sup>-(β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-Gal-(1→3)-β-<small>D</small>-Gal-(1→4)-β-<small>D</small>-Xyl)-<small>L</small>-serine residue.,,Metabolite
+CHEBI:138443,O(3)-(beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl)-L-serine(2-) residue,An α-amino-acid residue anion obtained by deprotonation of the carboxy groups of <em>O</em><small><sup>3</small></sup>-(β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-Gal-(1→3)-β-<small>D</small>-Gal-(1→4)-β-<small>D</small>-Xyl)-<small>L</small>-serine residue,,Metabolite
+CHEBI:138444,O(3)-(beta-D-GlcA-(1->3)-poly[beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)]-beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl)-L-serine polyanionic residue,An α-amino-acid residue anion obtained by deprotonation of the carboxy groups of <em>O</em><small><sup>3</small></sup>-(β-<small>D</small>-GlcA-(1→3)-poly[β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)]-β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-Gal-(1→3)-β-<small>D</small>-Gal-(1→4)-β-<small>D</small>-Xyl)-<small>L</small>-serine residue.,,Ion
+CHEBI:138445,O(3)-(poly[beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)]-beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl)-L-serine polyanionic residue,An α-amino-acid residue anion obtained by deprotonation of the carboxy groups of <em>O</em><small><sup>3</small></sup>-(poly[β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)]-β-<small>D</small>-GalNAc-(1→4)-β-<small>D</small>-GlcA-(1→3)-β-<small>D</small>-Gal-(1→3)-β-<small>D</small>-Gal-(1→4)-β-<small>D</small>-Xyl)-<small>L</small>-serine residue,,Ion
+CHEBI:138724,all-trans-retinyl heptanoate,An <i>all</i>-<i>trans</i>-retinyl ester obtained by formal condensation of the carboxy group of heptanoic acid with the hydroxy group of <i>all</i>-<i>trans</i>-retinol.,,Metabolite
+CHEBI:139150,"(S,S)-bis-(3-oleoylglycero)-1-phosphate(1-)","A 3,3'-lysobisphosphatidate obtained by deprotonation of the phosphate OH group of (<i>S</i>,<i>S</i>)-bis-(3-oleoylglycero)-1-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:139161,1-(4-methoxyphenyl)-N-methyl-N-[(3-methyloxetan-3-yl)methyl]methanamine(1+),An ammonium ion obtained by protonation of the amino group of 1-(4-methoxyphenyl)-<em>N</em>-methyl-<em>N</em>-[(3-methyloxetan-3-yl)methyl]methanamine. The major species at pH 7.3.,,Metabolite
+CHEBI:139164,"2-{[(4-methoxybenzyl)(methyl)amino]methyl}-2-methylpropane-1,3-diol(1+)","An ammonium ion resulting from the protonation of the amino group of 2-{[(4-methoxybenzyl)(methyl)amino]methyl}-2-methylpropane-1,3-diol.",,Metabolite
+CHEBI:139252,[8)-alpha-Neu5Ac-(2->]n polyanion,A polyanionic polymer obtained by deprotonation of the carboxy groups of [8)-α-Neu5Ac-(2→]<small><sub><em>n</em></sub></small>; major species at pH 7.3.,,Ion
+CHEBI:139573,"N-acyl-(4E,14Z)-sphingadienine","A ceramide obtained by formal condensation of the carboxy group of any fatty acid with the amino group of (4<i>E</i>,14<i>Z</i>)-sphingadienine.",,Metabolite
+CHEBI:140082,2-octanoyl-sn-glycero-3-phosphocholine,A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as octanoyl.,,Metabolite
+CHEBI:140084,all-trans-retinyl octanoate,An <i>all</i>-<i>trans</i>-retinyl ester obtained by formal condensation of the carboxy group of octanoic acid with the hydroxy group of <i>all</i>-<i>trans</i>-retinol.,,Metabolite
+CHEBI:140088,2-dodecanoyl-sn-glycero-3-phosphocholine,A 2-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as dodecanoyl.,,Metabolite
+CHEBI:140089,all-trans-retinyl dodecanoate,An <i>all</i>-<i>trans</i>-retinyl ester obtained by formal condensation of the carboxy group of dodecanoic (lauric) acid with the hydroxy group of <i>all</i>-<i>trans</i>-retinol.,,Metabolite
+CHEBI:140308,alpha-N-acetylneuraminyl-(2->3)-beta-D-galactoside(1-),"An <em>N</em>-acetylneuraminate that is the conjugate base of any α-<em>N</em>-acetylneuraminyl-(2→3)-β-<small>D</small>-galactoside, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:140309,alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl-(2->3)-beta-D-galactoside(2-),An <em>N</em>-acetylneuraminate obtained by deprotonation of the carboxy groups of any α-<em>N</em>-acetylneuraminyl-(2→8)-α-<em>N</em>-acetylneuraminyl-(2→3)-β-<small>D</small>-galactoside; major species at pH 7.3.,,Metabolite
+CHEBI:140317,phenyl sulfate oxoanion,An aryl sulfate oxoanion obtained by deprotonation of the sulfo group of any phenyl sulfate; major species at pH 7.3.,,Ion
+CHEBI:140395,poly(nucleoside 5'-monophosphate) polyanion,An ionic polymer obtained by deprotonation of the phosphate OH groups of any poly(nucleoside 5'-monophosphate).,,Ion
+CHEBI:140594,ethanediol derivative,A substituted ethane carrying two hydroxy groups.,,Metabolite
+CHEBI:140607,S-(ADP-D-ribosyl)-L-cysteine(2-) residue,An <small>L</small>-α-amino acid residue derived from <em>S</em>-(ADP-<small>D</small>-ribosyl)-<small>L</small>-cysteine.,,Metabolite
+CHEBI:140699,3-sulfinatopyruvate(2-),A 2-oxo monocarboxylic acid anion  obtained by deprotonation of the carboxy and sulfino groups of 3-sulfinylpyruvic acid. Major microspecies at pH 7.3.,,Metabolite
+CHEBI:140994,4-nitrophenyl sulfate,An aryl sulfate oxoanion resulting from the deprotonation of the sulfooxy group of 4-nitrophenyl hydrogen sulfate. The major microspecies at pH 7.3.,,Metabolite
+CHEBI:141128,O-acetyl-L-serine residue,An <small>L</small>-α-amino acid residue derived from <em>O</em>-acetyl-<small>L</small>-serine.,,Metabolite
+CHEBI:141843,(5S)-5-hydroxy-L-lysinium residue,An <small>L</small>-lysinium residue that is substituted by an hydroxy group at position 5 (the 5<i>S</i> stereoisomer); major microspecies at pH 7.3.,,Metabolite
+CHEBI:142491,R-H,Any organic molecular entity that contains at least one activated carbon-hydrogen (C-H) bond. R can be any aliphatic or aromatic group.,,Metabolite
+CHEBI:142558,C-terminal O-(ADP-D-ribosyl)-glycine(2-) residue,An organic anionic group obtained by deprotonation of the diphosphate OH groups of C-terminal <em>O</em>-(ADP-<small>D</small>-ribosyl)-glycine residue.,,Neurotransmitter
+CHEBI:142684,"(9Z,12Z,15Z)-octadecatrienamide",A fatty amide resulting from the formal condensation of the carboxy group of α-linolenic acid with ammonia.,,Metabolite
+CHEBI:142789,5'-methyltriphosphate-guanosine-ribonucleotide(4-) residue,,,Metabolite
+CHEBI:143093,2'-3'-cGAMP(2-),An organophosphate oxoanion obtained by deprotonation of the phosphate OH groups of 2'-3'-cGAMP; major species at pH 7.3.,,Metabolite
+CHEBI:143812,L-Cys-Gly disulfide dizwitterion,,,Ion
+CHEBI:144703,N-palmitoyl-sphingoid base,A ceramide where the <em>N</em>-acyl is a palmitoyl chain but the sphingoid base is not defined,,Metabolite
+CHEBI:146163,"(8Z,11Z,14Z)-icosatrienamide","A primary fatty amide resulting from the formal condensation of the carboxy group of <em>all</em>-<i>cis</i>-icosa-8,11,14-trienoic acid with ammonia.",,Metabolite
+CHEBI:146164,"(11Z,14Z,17Z)-icosatrienamide","A primary fatty amide resulting from the formal condensation of the carboxy group of <em>all</em>-<i>cis</i>-icosa-11,14,17-trienoic acid with ammonia.",,Metabolite
+CHEBI:146165,"(11Z,14Z)-icosadienamide","A primary fatty amide resulting from the formal condensation of the carboxy group of (11<i>Z</i>,14<i>Z</i>)-icosadienoic acid with ammonia.",,Metabolite
+CHEBI:146166,nervonamide,A primary fatty amide resulting from the formal condensation of the carboxy group of (15<i>Z</i>)-tetracosenoic acid with ammonia.,,Metabolite
+CHEBI:146167,gondamide,A primary fatty amide resulting from the formal condensation of the carboxy group of (11<i>Z</i>)-icos-11-enoic acid with ammonia.,,Metabolite
+CHEBI:146168,petroselinamide,A primary fatty amide resulting from the formal condensation of the carboxy group of petroselinic acid with ammonia.,,Metabolite
+CHEBI:146186,N-(docosanoyl)ethanolamine,An <em>N</em>-(long-chain-acyl)ethanolamine that is the ethanolamide of docosanoic acid.,,Metabolite
+CHEBI:146187,N-(15Z-tetracosenoyl)ethanolamine,A <em>N</em>-(long-chain-acyl)ethanolamine that is the ethanolamide of (15<i>Z</i>)-tetracosenoic acid.,,Metabolite
+CHEBI:146191,N-oleoyltaurine(1-),A fatty acid-taurine conjugate obtained by deprotonation of the sulfonate group of <em>N</em>-oleoyltaurine; major species at pH 7.3.,,Metabolite
+CHEBI:146196,N-docosanoyltaurine(1-),A fatty acid-taurine conjugate(1−) obtained by deprotonation of the sulfo group of <em>N</em>-docosanoyltaurine; major species at pH 7.3.,,Metabolite
+CHEBI:146197,N-tricosanoyltaurine(1-),,,Metabolite
+CHEBI:146198,N-nervonoyltaurine(1-),A fatty acid-taurine conjugate obtained by deprotonation of the sulfonate group of <em>N</em>-nervonoyltaurine; major species at pH 7.3.,,Metabolite
+CHEBI:14649,NMN(-),,,Ion
+CHEBI:147350,angiotensin I dizwitterion,A peptide zwitterion that is the dizwitterionic form of angiotensin I having both carboxy groups deprotonated and the aspartyl amino group and arginine side-chain protonated. It is the major species at pH 7.3.,,Ion
+CHEBI:147352,"[des-Phe(8), des-Arg(9)]-bradykinin(1+)","A peptide cation obtained by deprotonation of the carboxy group and protonation of the primary amino and guanidino groups of [des-Phe<small><sup>8</small></sup>, des-Arg<small><sup>9</small></sup>]-bradykinin. It is the major species at pH 7.3.",,Metabolite
+CHEBI:147362,neurotensin(1+),"A peptide cation obtained from the deprotonation of the carboxy groups of <small>L</small>-α-glutamyl and <small>L</small>-leucine residues, and protonation of the side chains of <small>L</small>-lysyl and <small>L</small>-arginyl residues of neurotensin. It is the major species at pH 7.3.",,Metabolite
+CHEBI:147392,His-Leu zwitterion,A dipeptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of His-Leu. Major species at pH 7.3.,,Ion
+CHEBI:149494,S-nitroso-L-cysteine residue,An <small>L</small>-α-amino-acid residue derived from <em>S</em>-nitroso-<small>L</small>-cysteine.,,Metabolite
+CHEBI:149631,"N-hexanoyl-sphinga-4E,14Z-dienine",,,Metabolite
+CHEBI:149697,N-arachidonoyl-L-serine(1-),"A <em>N</em>-(fatty acyl)-<small>L</small>-serine(1−) that is the conjugate base of <em>N</em>-arachidonoyl-<small>L</small>-serine, resulting from the derotonation of the carboxy group. Major species at pH 7.3.",,Metabolite
+CHEBI:149699,N-palmitoyl-L-phenylalanine(1-),,,Metabolite
+CHEBI:149700,N-stearoyl-L-phenylalanine(1-),,,Metabolite
+CHEBI:149701,N-DHA-L-phenylalanine(1-),,,Metabolite
+CHEBI:149730,N-oleoyl-L-asparagine(1-),,,Metabolite
+CHEBI:149731,N-oleoyl-L-lysine zwitterion,,,Ion
+CHEBI:149732,N-oleoyl-L-methionine(1-),,,Ion
+CHEBI:149733,N-oleoyl-L-tryptophan(1-),,,Metabolite
+CHEBI:149734,N-oleoyl-L-tyrosine(1-),,,Metabolite
+CHEBI:149768,1-(10Z-heptadecenoyl)-sn-glycero-3-phosphoethanolamine zwitterion,A 1-acyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion obtained by transfer of a proton from the amino to the phosphate group of 1-(10<i>Z</i>-heptadecenoyl)-<em>sn</em>-glycero-3-phosphoethanolamine.,,Ion
+CHEBI:149769,1-(10Z-heptadecenoyl)-2-arachidonoyl-sn-glycero-3-phosphoethanolamine zwitterion,A phosphatidylethanolamine 37:5 zwitterion in which the acyl groups at positions 1 and 2 are specified as 10<i>Z</i>-heptadecenoyl and arachidonoyl respectively.,,Ion
+CHEBI:149770,1-(10Z-heptadecenoyl)-2-linoleoyl-sn-glycero-3-phosphoethanolamine zwitterion,A phosphatidylethanolamine 35:3 zwitterion in which the acyl groups at positions 1 and 2 are specified as 10<i>Z</i>-heptadecenoyl and linoleoyl respectively.,,Ion
+CHEBI:15035,retinal,"An enal that consists of 3,7-dimethyl-9-nona-2,4,6,8-tetraenal (double bond geometry unspecified) carrying a 2,6,6-trimethylcyclohex-1-en-1-yl group at the 9-position.",,Metabolite
+CHEBI:15036,retinoate,,,Metabolite
+CHEBI:15354,choline,"A choline that is the parent compound of the cholines class, consisting of ethanolamine having three methyl substituents attached to the amino function.",,Metabolite
+CHEBI:15355,acetylcholine,"Actylcholine is an ester of acetic acid and choline, which acts as a neurotransmitter.",,Neurotransmitter
+CHEBI:15361,pyruvate,"A 2-oxo monocarboxylic acid anion that is the conjugate base of pyruvic acid, arising from deprotonation of the carboxy group.",,Metabolite
+CHEBI:15377,water,An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms,,Metabolite
+CHEBI:15378,hydron,"The general name for the hydrogen nucleus, to be used without regard to the hydrogen nuclear mass (either for hydrogen in its natural abundance or where it is not desired to distinguish between the isotopes).",,Metabolite
+CHEBI:15379,dioxygen,,,Metabolite
+CHEBI:15444,(1->4)-alpha-D-glucan,,,Metabolite
+CHEBI:15562,D-threo-isocitrate(3-),The <small>D</small>-<i>threo</i>-form of isocitrate(3−).,,Metabolite
+CHEBI:15588,(R)-malate(2-),An optically active form of malate having (<i>R</i>)-configuration.,,Metabolite
+CHEBI:15589,(S)-malate(2-),An optically active form of malate having (<i>S</i>)-configuration.,,Metabolite
+CHEBI:15621,(4-hydroxyphenyl)acetaldehyde,,,Metabolite
+CHEBI:15636,"(6R)-5,10-methylenetetrahydrofolate(2-)",,,Metabolite
+CHEBI:15740,formate,A monocarboxylic acid anion that is the conjugate base of formic acid. Induces severe metabolic acidosis and ocular injury in human subjects.,,Metabolite
+CHEBI:15759,"2,3-epoxyphylloquinone",,,Metabolite
+CHEBI:15792,malonate(2-),A dicarboxylic acid dianion obtained by the deprotonation of the carboxy groups of malonic acid.,,Metabolite
+CHEBI:15801,(R)-2-hydroxyglutarate(2-),A 2-hydroxyglutarate(2−) that has (2<i>R</i>)-configuration.,,Metabolite
+CHEBI:15858,bromide,,,Metabolite
+CHEBI:15901,"5,6-dihydrouracil","A pyrimidine obtained by formal addition of hydrogen across the 5,6-position of uracil.",,Metabolite
+CHEBI:15994,"5alpha-androstane-3,17-dione","The 5α-stereoisomer of androstane-3,17-dione.",,Ion
+CHEBI:16007,methanethiol,,,Metabolite
+CHEBI:16016,dihydroxyacetone,A ketotriose consisting of acetone bearing hydroxy substituents at positions 1 and 3. The simplest member of the class of ketoses and the parent of the class of glycerones.,,Metabolite
+CHEBI:16032,androsterone,An androstanoid that is 5α-androstane having a hydroxy substituent at the 3α-position and an oxo group at the 17-position. It is a metabolite of dehydroepiandrosterone .,,Metabolite
+CHEBI:16042,halide anion,A monoatomic monoanion resulting from the addition of an electron to any halogen atom.,,Ion
+CHEBI:16062,N-acyl-D-mannosamine,,,Metabolite
+CHEBI:16074,5beta-cholestan-3-one,A 3-oxo-5β-steroid that is 5β-cholestane substituted by an oxo group at position 3.,,Metabolite
+CHEBI:16113,cholesterol,"A cholestanoid consisting of cholestane having a double bond at the 5,6-position as well as a 3β-hydroxy group.",,Metabolite
+CHEBI:16175,cholest-4-en-3-one,A cholestanoid that is cholest-4-ene substituted by an oxo group at position 3.,,Metabolite
+CHEBI:16199,urea,A carbonyl group with two C-bound amine groups. The commercially available fertilizer has an analysis of 46-0-0 (N-P2O5-K2O).,,Metabolite
+CHEBI:16235,guanine,A 2-aminopurine carrying a 6-oxo substituent.,,Metabolite
+CHEBI:16240,hydrogen peroxide,An inorganic peroxide consisting of two hydroxy groups joined by a covalent oxygen-oxygen single bond.,,Metabolite
+CHEBI:16330,17beta-hydroxy-5alpha-androstan-3-one,"A 17β-hydroxy steroid that is testosterone in which the 4,5 double bond has been reduced to a single bond with α-configuration at position 5.",,Metabolite
+CHEBI:16347,(R)-carnitine,The (<i>R</i>)-enantiomer of carnitine.,,Metabolite
+CHEBI:16382,iodide,,,Metabolite
+CHEBI:16389,ubiquinones,"Any benzoquinone derived from 2,3-dimethoxy-5-methylbenzoquinone; one of a group of naturally occurring homologues. The redox-active quinoid moiety usually carries a polyprenoid side chain at position 6, the number of isoprenoid units in which is species-specific. Ubiquinones are involved in the control of mitochondrial electron transport, and are also potent anti-oxidants.",,Metabolite
+CHEBI:16422,"androst-4-ene-3,17-dione",A 3-oxo Δ<small><sup>4</small></sup>-steroid that is androst-4-ene substituted by oxo groups at positions 3 and 17. It is a steroid hormone synthesized in the adrenal glands and gonads.,,Ion
+CHEBI:16424,phenylacetaldehyde,An aldehyde that consists of acetaldehyde bearing a methyl substituent; the parent member of the phenylacetaldehyde class of compounds.,,Metabolite
+CHEBI:16452,oxaloacetate(2-),A C4-dicarboxylate resuting from deprotonation of both carboxy groups of oxaloacetic acid.,,Metabolite
+CHEBI:16469,17beta-estradiol,The 17β-isomer of estradiol.,,Metabolite
+CHEBI:16496,"5beta-cholestane-3alpha,7alpha,12alpha-triol",,,Metabolite
+CHEBI:16521,lanosterol,"A tetracyclic triterpenoid that is lanosta-8,24-diene substituted by a β-hydroxy group at the 3β position. It is the compound from which all steroids are derived.",,Metabolite
+CHEBI:16526,carbon dioxide,"A one-carbon compound with formula CO<small><sub>2</sub></small> in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food.",,Metabolite
+CHEBI:16551,"alpha,alpha-trehalose",A trehalose in which both glucose residues have α-configuration at the anomeric carbon.,,Metabolite
+CHEBI:16581,pregnenolone,A 20-oxo steroid that is pregn-5-ene substituted by a β-hydroxy group at position 3 and an oxo group at position 20.,,Metabolite
+CHEBI:16608,5alpha-cholest-8-en-3beta-ol,A cholestanoid that is 5α-cholestane substituted by a β-hydroxy group at position 3.,,Metabolite
+CHEBI:16651,(S)-lactate,An optically active form of lactate having (<i>S</i>)-configuration.,,Metabolite
+CHEBI:166912,taurochenodeoxycholate 3-sulfate,,,Metabolite
+CHEBI:16723,4-methylthio-2-oxobutanoate,"The 2-oxo monocarboxylic acid anion derived from 4-methylthio-2-oxobutanoic acid. The major microspecies at pH 7.3, it is formed from <small>L</small>-methionine via the action of methionine transaminase.",,Metabolite
+CHEBI:16763,2-oxobutanoate,"A 2-oxo monocarboxylic acid anion that is the conjugate base of 2-oxobutanoic acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:16782,(S)-2-hydroxyglutarate(2-),A 2-hydroxyglutarate(2−) that has (2<i>S</i>)-configuration.,,Metabolite
+CHEBI:16810,2-oxoglutarate(2-),An oxo dicarboxylate obtained by deprotonation of both carboxy groups of 2-oxoglutaric acid.,,Metabolite
+CHEBI:16827,corticosterone,A 21-hydroxy steroid that consists of pregn-4-ene substituted by hydroxy groups at positions 11 and 21 and oxo groups at positions 3 and 20. Corticosterone is a 21-carbon steroid hormone of the corticosteroid type produced in the cortex of the adrenal glands.,,Metabolite
+CHEBI:16842,formaldehyde,An aldehyde resulting from the formal oxidation of methanol.,,Metabolite
+CHEBI:16870,choline alfoscerate,A member of the class of phosphocholines that is the choline ester of <em>sn</em>-glycero-3-phosphate. It is one of the major osmolyte in the renal medullary cells.,,Metabolite
+CHEBI:16947,citrate(3-),"A tricarboxylic acid trianion, obtained by deprotonation of the three carboxy groups of citric acid.",,Metabolite
+CHEBI:16962,cortisone,"A C<small><sub>21</sub></small>-steroid that is pregn-4-ene substituted by hydroxy groups at positions 17 and 21 and oxo group at positions 3, 11 and 20.",,Metabolite
+CHEBI:16973,11-deoxycorticosterone,A mineralocorticoid that is progesterone substituted at position 21 by a hydroxy group.,,Metabolite
+CHEBI:16985,"5beta-androstane-3,17-dione","An androstane-3,17-dione with a 5β-configuration.",,Ion
+CHEBI:17002,cholesteryl ester,A sterol ester obtained by formal condensation of the carboxy group of any carboxylic acid with the 3-hydroxy group of cholesterol.,,Metabolite
+CHEBI:17026,progesterone,"A C<small><sub>21</sub></small>-steroid hormone in which a pregnane skeleton carries oxo substituents at positions 3 and 20 and is unsaturated at C(4)-C(5). As a hormone, it is involved in the female menstrual cycle, pregnancy and embryogenesis of humans and other species.",,Metabolite
+CHEBI:17051,fluoride,,,Metabolite
+CHEBI:17120,hexanoate,A short-chain fatty acid anion that is the conjugate base of hexanoic acid (also known as caproic acid).,,Metabolite
+CHEBI:17154,nicotinamide,A pyridinecarboxamide that is pyridine in which the hydrogen at position 3 is replaced by a carboxamide group.,,Metabolite
+CHEBI:17169,benzaldehyde,An arenecarbaldehyde that consists of benzene bearing a single formyl substituent; the simplest aromatic aldehyde and parent of the class of benzaldehydes.,,Metabolite
+CHEBI:17179,taurolithocholate,,,Metabolite
+CHEBI:17224,4-methylumbelliferone,A hydroxycoumarin that is umbelliferone substituted by a methyl group at position 4.,,Metabolite
+CHEBI:17263,estrone,"A 17-oxo steroid that is estra-1,3,5(10)-triene substituted by an hydroxy group at position 3 and an oxo group at position 17.",,Metabolite
+CHEBI:17268,myo-inositol,An inositol having <i>myo</i>- configuration.,,Metabolite
+CHEBI:17274,aldehydo-N-acyl-D-glucosamine,The open-chain form of an <em>N</em>-acyl-<small>D</small>-glucosamine.,,Metabolite
+CHEBI:173115,poly(RNA)-3'-adenine ribonucleotide polyanion,,,Ion
+CHEBI:17336,all-trans-retinol,A retinol in which all four exocyclic double bonds have <i>E</i>- (<i>trans</i>-) geometry.,,Metabolite
+CHEBI:17347,testosterone,"An androstanoid having 17β-hydroxy and 3-oxo groups, together with unsaturation at C-4‒C-5..",,Metabolite
+CHEBI:17378,D-glyceraldehyde,The <small>D</small>-enantiomer of glyceraldehyde.,,Metabolite
+CHEBI:17389,2-monoglyceride,A monoglyceride in which the acyl substituent is located at position 2.,,Metabolite
+CHEBI:17478,aldehyde,"A compound RC(=O)H, in which a carbonyl group is bonded to one hydrogen atom and to one R group.",,Metabolite
+CHEBI:17479,enol-oxaloacetate,A C<small><sub>4</sub></small>-dicarboxylate resulting from the removal of a proton from both carboxylic acid groups of <em>enol</em>-oxaloacetic acid.,,Metabolite
+CHEBI:17499,hydrogen donor,A molecular entity that can undergo oxidation by the loss of hydrogen atom(s).,,Metabolite
+CHEBI:17544,hydrogencarbonate,The carbon oxoanion resulting from the removal of a proton from carbonic acid.,,Metabolite
+CHEBI:17568,uracil,"A common and naturally occurring pyrimidine nucleobase in which the pyrimidine ring is substituted with two oxo groups at positions 2 and 4. Found in RNA, it base pairs with adenine and replaces thymine during DNA transcription.",,Metabolite
+CHEBI:17585,trans-hexadec-2-enal,A hexadecenal containing a double bond at position 2 (the <i>trans</i>-stereoisomer).,,Metabolite
+CHEBI:17600,hexadecanal,,,Metabolite
+CHEBI:17616,all-trans-retinyl palmitate,"An <i>all</i>-<i>trans</i>-retinyl ester obtained by formal condensation of the carboxy group of palmitic (hexadecanoic acid) with the hydroxy group of <i>all</i>-<i>trans</i>-retinol. It is used in cosmetic products to treat various skin disorders such as acne, skin aging, wrinkles, dark spots, and also protect against psoriasis.",,Metabolite
+CHEBI:17632,nitrate,A nitrogen oxoanion formed by loss of a proton from nitric acid. Principal species present at pH 7.3.,,Metabolite
+CHEBI:17640,3-(indol-3-yl)pyruvate,A indol-3-yl carboxylic acid anion that is the conjugate base of 3-(indol-3-yl)pyruvic acid,,Metabolite
+CHEBI:17650,cortisol,"A 17α-hydroxy-C<small><sub>21</sub></small>-steroid that is pregn-4-ene substituted by oxo groups at positions 3 and 20 and hydroxy groups at positions 11, 17 and 21. Cortisol is a corticosteroid hormone or glucocorticoid produced by zona fasciculata of the adrenal cortex, which is a part of the adrenal gland. It is usually referred to as the ""stress hormone"" as it is involved in response to stress and anxiety, controlled by corticotropin-releasing hormone (CRH). It increases blood pressure and blood sugar, and reduces immune responses.",,Metabolite
+CHEBI:176511,"3,3',5-triiodo-L-thyronine sulfate(1-)",,,Metabolite
+CHEBI:176512,L-thyroxine sulfate(1-),A thyroxine sulfate(1−) that has <small>L</small>-configuration. The major microspecies at pH 7.3.,,Metabolite
+CHEBI:176513,"3,3',5'-triiodo-L-thyronine sulfate(1-)",,,Metabolite
+CHEBI:176514,"3,3'-diiodo-L-thyronine zwitterion",,,Ion
+CHEBI:176515,"3,3'-diiodo-L-thyronine sulfate(1-)",,,Metabolite
+CHEBI:17712,9H-xanthine,An oxopurine in which the purine ring is substituted by oxo groups at positions 2 and 6 and N-9 is protonated.,,Metabolite
+CHEBI:17737,desmosterol,"A cholestanoid that is cholesta-5,24-diene substituted by a β-hydroxy group at position 3. It is an intermediate metabolite obtained during the synthesis of cholesterol.",,Metabolite
+CHEBI:17750,glycine betaine,The amino acid betaine derived from glycine.,,Neurotransmitter
+CHEBI:17754,glycerol,"A triol with a structure of propane substituted at positions 1, 2 and 3 by hydroxy groups.",,Metabolite
+CHEBI:17763,4-methylumbelliferyl acetate,An acetate ester consiting of umbelliferone carrying a 7-<em>O</em>-acetyl group.,,Metabolite
+CHEBI:17790,methanol,"The primary alcohol that is the simplest aliphatic alcohol, comprising a methyl and an alcohol group.",,Metabolite
+CHEBI:17792,organohalogen compound,A compound containing at least one carbon-halogen bond (where X is a halogen atom).,,Metabolite
+CHEBI:17815,"1,2-diacyl-sn-glycerol",,,Metabolite
+CHEBI:17821,thymine,A pyrimidine nucleobase that is uracil in which the hydrogen at position 5 is replaced by a methyl group.,,Metabolite
+CHEBI:17826,methylarsonous acid,A one-carbon compound that is arsonous acid in which the hydrogen attached to arsenic is replaced by a methyl group.,,Metabolite
+CHEBI:17855,triglyceride,"Any glyceride resulting from the condensation of all three hydroxy groups of glycerol (propane-1,2,3-triol) with fatty acids.",,Metabolite
+CHEBI:17865,4-methyl-2-oxopentanoate,A 2-oxo monocarboxylic acid anion that is the conjugate base of 4-methyl-2-oxopentanoic acid.,,Metabolite
+CHEBI:17898,all-trans-retinal,A retinal in which all four exocyclic double bonds have <i>E</i>- (<i>trans</i>-) geometry.,,Metabolite
+CHEBI:17899,7alpha-hydroxycholest-4-en-3-one,"A cholestanoid consisting of a cholesterol core having an oxo group at the 3-position, a C=C bond at the 4,5-position and an α-hydroxy group at the 7-position.",,Metabolite
+CHEBI:17933,calcidiol,"A hydroxycalciol that is calciol in which the hydrogen at position 25 has been replaced by a hydroxy group. A prehormone resulting from the oxidation of calciol in the liver, it is further hydroxylated in the kidney to give calcitriol, the active form of vitamin D<small><sub>3</sub></small>.",,Metabolite
+CHEBI:17968,butyrate,"A short-chain fatty acid anion that is the conjugate base of butyric acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:17976,ubiquinol,,,Metabolite
+CHEBI:17996,chloride,A halide anion formed when chlorine picks up an electron to form an an anion.,,Metabolite
+CHEBI:18005,keto-phenylpyruvate,A 2-oxo monocarboxylic acid anion resulting from deprotonation of the carboxy group of <em>keto</em>-phenylpyruvic acid.,,Metabolite
+CHEBI:18022,thiocyanate,A pseudohalide anion obtained by deprotonation of the thiol group of thiocyanic acid.,,Metabolite
+CHEBI:18035,diglyceride,"A glyceride that is glycerol in which any two of the hydroxy groups have been acylated. In the structure shown, two of the R groups (positions not specified) are acyl groups while the remaining R group can be either H or an alkyl group.",,Metabolite
+CHEBI:18067,phylloquinone,"A member of the class of phylloquinones that consists of 1,4-naphthoquinone having methyl and phytyl groups at positions 2 and 3 respectively. The parent of the class of phylloquinones.",,Metabolite
+CHEBI:18093,"17,21-dihydroxy-5beta-pregnane-3,11,20-trione","A 4,5-dihydrocortisone that has β- configuration at position 5.",,Ion
+CHEBI:180943,"(R)-3,4-dihydroxymandelaldehyde","A 3,4-dihydroxymandelaldehyde that has <i>R</i>-configuration.",,Metabolite
+CHEBI:18110,3-phosphonatooxypyruvate(3-),A carboxyalkyl phosphate oxoanion resuting from deprotonation of the carboxy and phosphate groups of 3-phosphooxypyruvic acid.,,Metabolite
+CHEBI:18252,zymosterol,,,Metabolite
+CHEBI:18262,dodecanoate,A medium-chain fatty acid anion that is the conjugate base of dodecanoic acid (lauric acid); major species at pH 7.3.,,Metabolite
+CHEBI:18313,alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosylceramide,A glycotriaosylceramide having α-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-glucose as the trisaccharide component.,,Metabolite
+CHEBI:18390,N-acyl-beta-D-galactosylsphingosine,An <em>N</em>-acyl-<small>D</small>-galactosylsphingosine in which the anomeric configuration of the galactosyl residue is β; sphingosine substituted at the O-1 position by a β-<small>D</small>-galactosyl group and at the N-2 position by an acyl group.,,Metabolite
+CHEBI:18420,magnesium(2+),,,Cofactor
+CHEBI:18421,superoxide,,,Metabolite
+CHEBI:184385,N6-[(R)-S8-glutaryldihydrolipoyl]-L-lysine(1-) residue,,,Metabolite
+CHEBI:189099,"1D-myo-inositol 3,4,6-trisphosphate(6-)",,,Metabolite
+CHEBI:189631,alpha-L-fucosyl-L-threonyl residue,,,Metabolite
+CHEBI:189632,alpha-L-fucosyl-L-seryl residue,,,Metabolite
+CHEBI:189633,N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl-L-seryl residue,,,Metabolite
+CHEBI:189634,N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl-L-threonyl residue,,,Metabolite
+CHEBI:189868,Met-enkephalin zwitterion,A peptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of Met-enkephalin. Major species at pH 7.3.,,Ion
+CHEBI:189869,Met-enkephalin-Arg-Phe(1+),,,Metabolite
+CHEBI:189870,Arg-Phe(1+),A peptide cation obtained by deprotonation of the carboxy terminus and protonation of the side-chain guanidino group and the amino terminus of Arg-Phe; major species at pH 7.3.,,Metabolite
+CHEBI:190126,"2-deoxy-alpha-D-ribose 1,5-bisphosphate(4-)",,,Metabolite
+CHEBI:190127,"alpha-D-mannose 1,6-bisphosphate(4-)",,,Metabolite
+CHEBI:190135,di-mu-sulfido-diiron,,,Cofactor
+CHEBI:190689,Leu-enkephalin zwitterion,A peptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of Leu-enkephalin. Major species at pH 7.3.,,Ion
+CHEBI:190692,substance P(3+),A peptide cation obtained from the protonation of the amino and guanidino groups of substance P; major species at pH 7.3.,,Metabolite
+CHEBI:190693,substance P(1-9)(2+),,,Metabolite
+CHEBI:190694,substance P(1-8)(2+),,,Metabolite
+CHEBI:190696,substance P(1-6)(2+),,,Metabolite
+CHEBI:190697,L-Phe-L-Phe-Gly-L-Leu-L-Met-NH2(1+),"A peptide cation that is the conjugate acid of <small>L</small>-Phe-<small>L</small>-Phe-Gly-<small>L</small>-Leu-<small>L</small>-Met-NH<small><sub>2</sub></small>, arising from the protonation of the <em>N</em>-terminal amino group. Major species at pH 7.3.",,Metabolite
+CHEBI:190699,Gly-L-Leu-L-Met-NH2(1+),"A peptide cation that is the conjugate acid of Gly-<small>L</small>-Leu-<small>L</small>-Met-NH<small><sub>2</sub></small>, arising from the protonation of the <em>N</em>-terminal amino group. Major species at pH 7.3.",,Metabolite
+CHEBI:190700,L-Leu-L-Met-NH2(1+),"A peptide cation that is the conjugate acid of <small>L</small>-Leu-<small>L</small>-Met-NH<small><sub>2</sub></small>, arising from the protonation of the <em>N</em>-terminal amino group. Major species at pH 7.3.",,Metabolite
+CHEBI:190701,goralatide(1-),A peptide anion obtained by removal of protons from the two carboxy groups as well as protonation of the primary amino group of goralatide; major species at pH 7.3.,,Metabolite
+CHEBI:190702,N-acetyl-L-seryl-L-aspartate(2-),A peptide anion obtained by deprotonation of the two carboxy groups of <em>N</em>-acetyl-<small>L</small>-seryl-<small>L</small>-aspartic acid; major species at pH 7.3.,,Metabolite
+CHEBI:190703,Lys-Pro(1+),A peptide cation obtained by deprotonation of the carboxy terminus and protonation of the side-chain amino group and the amino terminus of Lys-Pro; major species at pH 7.3.,,Metabolite
+CHEBI:190704,neurotensin(1-11)(1+),,,Metabolite
+CHEBI:190706,Ile-Leu zwitterion,A dipeptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of Ile-Leu.,,Ion
+CHEBI:190708,Tyr-Gly-Gly zwitterion,A tripeptide zwitterion resulting from the transfer of a proton from the carboxy group to the amino group of Tyr-Gly-Gly. Major microspecies at pH 7.3.,,Ion
+CHEBI:190709,Phe-Met zwitterion,A dipeptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of Phe-Met.,,Ion
+CHEBI:190710,Phe-Leu zwitterion,A dipeptide zwitterion obtained by transfer of a proton from the carboxy to the amino terminus of Phe-Leu.,,Ion
+CHEBI:19168,17-oxo steroid,Any  oxo steroid carrying the oxo group at position 17.,,Metabolite
+CHEBI:194182,"all-trans-13,14-dihydroretinal",,,Metabolite
+CHEBI:194183,"all-trans-13,14-dihydroretinoate","A retinoid anion that is the conjugate base of <em>all</em>-<i>trans</i>-13,14-dihydroretinoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:194498,"15-deoxy-Delta(12,14)-prostaglandin J2-S-glutathione conjugate(2-)","A prostanoid anion obtained by deprotonation of the three carboxy groups and protonation of the glutamyl α-amino group of 15-deoxy-Δ<small><sup>12,14</small></sup>-prostaglandin J<small><sub>2</sub></small>-<em>S</em>-glutathione conjugate; major species at pH 7.3.",,Ion
+CHEBI:195246,N-acyl-1-deoxysphingosine,,,Metabolite
+CHEBI:195278,N-acyl-sphing-14Z-enine,,,Metabolite
+CHEBI:195366,(6R)-10-formyltetrahydrofolate(2-),,,Metabolite
+CHEBI:195622,3alpha-sulfodeoxycholate(2-),,,Metabolite
+CHEBI:195624,3alpha-sulfoglycodeoxycholate(2-),,,Metabolite
+CHEBI:195625,3alpha-sulfotaurodeoxycholate(2-),,,Metabolite
+CHEBI:197334,alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-beta-D-glucosaminide(2-),,,Metabolite
+CHEBI:197339,alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-D-glucosamine 6-sulfate(3-),,,Metabolite
+CHEBI:197340,alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-N-acetyl-D-glucosamine 6-sulfate(2-),,,Metabolite
+CHEBI:203600,"1D-myo-inositol 1,4,5-trisphosphate(6-)","Hexaanion of 1<small>D</small>-<i>myo</i>-inositol 1,4,5-trisphosphate arising from glabal deprotonation of the phosphate OH groups; major species at pH 7.3.",,Metabolite
+CHEBI:21291,L-fuconate,,,Metabolite
+CHEBI:2150,5beta-dihydrotestosterone,A 17β-hydroxyandrostan-3-one that has β- configuration at position 5. It is a metabolite of testosterone.,,Metabolite
+CHEBI:225237,2-phenylethanaminium,The cation obtained by protonation of the amino group of 2-phenylethylamine.,,Metabolite
+CHEBI:225238,benzylaminium,The conjugate acid of benzylamine; major product at pH 7.3.,,Metabolite
+CHEBI:22801,beta-D-glucosyl-N-acylsphingosine,A <small>D</small>-glucosyl-<em>N</em>-acylsphingosine in which the glucosyl head group has β-configuration at the anomeric centre.,,Metabolite
+CHEBI:2288,"7alpha,12alpha-dihydroxy-5beta-cholestan-3-one",A 3-oxo-5β-steroid that is 5β-cholestan-3-one bearing two additional hydroxy substituents at positions 7α and 12α.,,Metabolite
+CHEBI:228802,alpha-D-galactosyl-D-galactosyl-D-glucosylsphingosine,,,Metabolite
+CHEBI:228803,alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosylsphingoid base,,,Metabolite
+CHEBI:228804,primary methyl ammonium ion,An ammonium ion derivative resulting from the protonation of the nitrogen atom of a primary methyl amino compound. Major species at pH 7.3.,,Ion
+CHEBI:2290,7alpha-hydroxy-5beta-cholestan-3-one,A 3-oxo-5β-steroid that is 5β-cholestan-3-one bearing an additional hydroxy substituent at position 7α .,,Metabolite
+CHEBI:231527,N(6)-[(S)-lactoyl]-L-lysine residue,An <em>N</em><small><sup>6</small></sup>-acyl-<small>L</small>-lysine residue that has (<i>S</i>)-lactoyl as the <em>N</em><small><sup>6</small></sup>-acyl group.,,Metabolite
+CHEBI:231870,ribonucleotidyl-2'-3'-cyclophospho-GMP(2-),An organophosphate oxoanion obtained by deprotonation of the phosphate OH groups of any ribonucleotidyl-2'-3'-cyclophospho-GMP; major species at pH 7.3.,,Metabolite
+CHEBI:231871,5'-end 5'-hydroxy ribonucleotidyl-ribonucleotide(1-),An organic anionic group obtained by deprotonation of the phosphate OH group of any 5'-hydroxy-ribonucleotidyl-ribonucleotide residue.,,Metabolite
+CHEBI:231873,5'-end 5'-hydroxy-deoxyribonucleotidyl-deoxyribonucleotide(1-) residue,An organic anionic group obtained by deprotonation of the phosphate OH group of any 5'-end 5'-hydroxy-deoxyribonucleotidyl-deoxyribonucleotide residue; major species at pH 7.3.,,Metabolite
+CHEBI:232325,"N-[omega-(9R,10R)-epoxy-13-keto-(11E)-octadecenoyloxy]acyl-beta-D-glucosyl-(1<->1)-sphingosine",,,Metabolite
+CHEBI:232393,"(R,S)-glycero-3-phospho-(3'-acyl-1'-glycerol)(1-)","An anionic phospholipid obtained by deprotonation of the phosphate OH group of any (<i>R</i>,<i>S</i>)-glycero-3-phospho-(3'-acyl-1'-glycerol); major species at pH 7.3.",,Metabolite
+CHEBI:232394,"(R,S)-glycero-1-phospho-(3'-(9Z-octadecenoyl)-1'-glycerol)(1-)","An anionic phospholipid obtained by deprotonation of the phosphate OH group of  (<i>R</i>,<i>S</i>)-glycero-1-phospho-(3'-(9<i>Z</i>-octadecenoyl)-1'-glycerol); major species at pH 7.3.",,Metabolite
+CHEBI:233042,serotonin O-sulfate zwitterion,,,Neurotransmitter
+CHEBI:233043,(R)-adrenaline 4'-O-sulfate zwitterion,,,Ion
+CHEBI:233044,(R)-noradrenaline 4'-O-sulfate zwitterion,,,Ion
+CHEBI:23378,copper cation,,,Ion
+CHEBI:233973,N(6)-[(R)-S(8)-isopentanoyldihydrolipoyl]-L-lysine residue,,,Metabolite
+CHEBI:233974,N(6)-{(R)-S(8)-[(S)-2-methylbutanoyl]dihydrolipoyl}-L-lysine residue,,,Metabolite
+CHEBI:234448,11-oxo-5alpha-dihydrotestosterone,An androstanoid that is 5α-dihydrotestosterone carrying an additional oxo substituent at position 11.,,Metabolite
+CHEBI:234449,"11-keto-5alpha-androstane-3alpha,17beta-diol",An androstanoid that is 5α-androstane carrying an oxo group at position 11 and two hydroxy groups at the 3α and 17β positions.,,Metabolite
+CHEBI:234464,alpha-D-fructofuranose 6-phosphate(2-),,,Metabolite
+CHEBI:234465,beta-D-mannopyranose 6-phosphate(2-),,,Metabolite
+CHEBI:234529,ursodeoxycholate 3-sulfate(2-),,,Metabolite
+CHEBI:234530,tauroursodeoxycholate 3-sulfate(2-),,,Metabolite
+CHEBI:234531,glycoursodeoxycholate 3-sulfate(2-),,,Metabolite
+CHEBI:234532,chenodeoxycholate 3-sulfate(2-),,,Metabolite
+CHEBI:234533,glycochenodeoxycholate 3-sulfate(2-),,,Metabolite
+CHEBI:23614,deoxycholate,,,Metabolite
+CHEBI:23858,behenate,"A straight-chain saturated fatty acid anion that is the conjugate base of behenic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:24646,hydroquinones,Benzenediols that have the hydroxy substituents in the 1- and 4-positions.,,Metabolite
+CHEBI:24875,iron cation,,,Ion
+CHEBI:2495,adrenosterone,"A 3-oxo Δ<small><sup>4</small></sup>-steroid that is androst-4-ene carrying three oxo-substituents at positions 3, 11 and 17.",,Metabolite
+CHEBI:25629,octadecanoate,A fatty acid anion 18:0 that is the conjugate base of octadecanoic acid (stearic acid). Stearates have a variety of uses in the pharmaceutical industry.,,Metabolite
+CHEBI:25646,octanoate,A straight-chain saturated fatty acid anion that is the conjugate base of octanoic acid (caprylic acid); believed to block adipogenesis.,,Metabolite
+CHEBI:2700,anandamide,An <em>N</em>-acylethanolamine 20:4 resulting from the formal condensation of carboxy group of arachidonic acid with the amino group of ethanolamine.,,Metabolite
+CHEBI:27468,"5,6-dihydrothymine","A pyrimidone obtained by formal addition of hydrogen across the 5,6-position of thymine.",,Metabolite
+CHEBI:27576,"19-hydroxyandrost-4-ene-3,17-dione",,,Ion
+CHEBI:27584,aldosterone,"A pregnane-based steroidal hormone produced by the outer-section (zona glomerulosa) of the adrenal cortex in the adrenal gland, and acts on the distal tubules and collecting ducts of the kidney to cause the conservation of sodium, secretion of potassium, increased water retention, and increased blood pressure. The overall effect of aldosterone is to increase reabsorption of ions and water in the kidney.",,Metabolite
+CHEBI:27689,decanoate,A fatty acid anion 10:0 that is the conjugate base of decanoic acid.,,Metabolite
+CHEBI:27978,"3,4-dihydroxyphenylacetaldehyde",A phenylacetaldehyde in which the 3 and 4 positions of the phenyl group are substituted by hydroxy groups.,,Metabolite
+CHEBI:28113,"24,25-dihydrolanosterol",A 3β-sterol formed from lanosterol by reduction across the C-24‒C-25 double bond.,,Metabolite
+CHEBI:28433,phyllohydroquinone,,,Metabolite
+CHEBI:28477,"7alpha,12alpha-dihydroxycholest-4-en-3-one",,,Metabolite
+CHEBI:28610,1-O-oleoyl-sn-glycero-3-phosphocholine,An oleoyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group at position 1 is (9<i>Z</i>)-octadecenoyl (oleoyl) and the hydroxy group at position 2 is unsubstituted.,,Metabolite
+CHEBI:28644,2-oxopentanoate,"A 2-oxo monocarboxylic acid anion that is the conjugate base of 2-oxopentanoic acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:28689,dehydroepiandrosterone,An androstanoid that is androst-5-ene substituted by a β-hydroxy group at position 3 and an oxo group at position 17. It is a naturally occurring steroid hormone produced by the adrenal glands.,,Metabolite
+CHEBI:28868,fatty acid anion,"The conjugate base of a fatty acid, arising from deprotonation of the carboxylic acid group of the corresponding fatty acid.",,Ion
+CHEBI:28938,ammonium,An onium cation obtained by protonation of ammonia.,,Metabolite
+CHEBI:28940,calciol,"A hydroxy seco-steroid that is (5<i>Z</i>,7<i>E</i>)-9,10-secocholesta-5,7,10(19)-triene in which the <em>pro</em>-<i>S</i> hydrogen at position 3 has been replaced by a hydroxy group. It is the inactive form of vitamin D<small><sub>3</sub></small>, being hydroxylated in the liver to calcidiol (25-hydroxyvitamin D<small><sub>3</sub></small>), which is then further hydroxylated in the kidney to give calcitriol (1,25-dihydroxyvitamin D<small><sub>3</sub></small>), the active hormone.",,Metabolite
+CHEBI:28952,"5alpha-pregnane-3,20-dione",A C<small><sub>21</sub></small>-steroid hormone that is 5α-pregnane substituted by oxo groups at positions 3 and 20. It is a metabolite of progestrone.,,Ion
+CHEBI:29033,iron(2+),,,Cofactor
+CHEBI:29034,iron(3+),,,Cofactor
+CHEBI:29035,manganese(2+),A divalent metal cation in which the metal is manganese.,,Metabolite
+CHEBI:29036,copper(2+),An ion of copper carrying a double positive charge.,,Cofactor
+CHEBI:29067,carboxylic acid anion,The conjugate base formed when the carboxy group of a carboxylic acid is deprotonated.,,Ion
+CHEBI:29101,sodium(1+),A monoatomic monocation obtained from sodium.,,Metabolite
+CHEBI:29103,potassium(1+),A monoatomic monocation obtained from potassium.,,Metabolite
+CHEBI:29105,zinc(2+),,,Cofactor
+CHEBI:29108,calcium(2+),,,Metabolite
+CHEBI:29256,thiol,"An organosulfur compound in which a thiol group, ‒SH, is attached to a carbon atom of any aliphatic or aromatic moiety.",,Metabolite
+CHEBI:29744,lithocholate,A bile acid anion that is the conjugate base of lithocholic acid.,,Metabolite
+CHEBI:29746,glycocholate,"A cholanic acid conjugate anion that is the conjugate base of glycocholic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:29747,cholate,A bile acid anion that is the conjugate base of cholic acid.,,Metabolite
+CHEBI:29806,fumarate(2-),A C4-dicarboxylate that is the <i>E</i>-isomer of but-2-enedioate(2−),,Metabolite
+CHEBI:29917,thiol group,,,Metabolite
+CHEBI:29919,hydrosulfide,,,Metabolite
+CHEBI:29950,L-cysteine residue,,,Metabolite
+CHEBI:29959,quinolinate(2-),,,Metabolite
+CHEBI:29965,L-argininium residue,,,Metabolite
+CHEBI:29969,L-lysinium residue,,,Metabolite
+CHEBI:29985,L-glutamate(1-),"An α-amino-acid anion that is the conjugate base of <small>L</small>-glutamic acid, having anionic carboxy groups and a cationic amino group",,Neurotransmitter
+CHEBI:29986,D-glutamate(1-),"An α-amino-acid anion that is the conjugate base of <small>D</small>-glutamic acid, having anionic carboxy groups and a cationic amino group",,Neurotransmitter
+CHEBI:29990,D-aspartate(1-),An aspartate(1−) that is the conjugate base of <small>D</small>-aspartic acid.,,Metabolite
+CHEBI:29991,L-aspartate(1-),An aspartate(1−) that is the  conjugate base of <small>L</small>-aspartic acid.,,Metabolite
+CHEBI:29999,L-serine residue,A serine residue that has <small>L</small> configuration.,,Metabolite
+CHEBI:30013,L-threonine residue,,,Metabolite
+CHEBI:30031,succinate(2-),A dicarboxylic acid dianion resulting from the removal of a proton from both of the carboxy groups of succinic acid.,,Metabolite
+CHEBI:30089,acetate,A monocarboxylic acid anion resulting from the removal of a proton from the carboxy group of acetic acid.,,Metabolite
+CHEBI:30154,"5beta-pregnane-3,20-dione",A C<small><sub>21</sub></small>-steroid that is 5β-pregnane with oxo groups at positions 3 and 20.,,Ion
+CHEBI:30245,linoleate,An octadecadienoate with <i>cis</i>- double bonds at the 9- and 12- positions; the conjugate base of linoleic acid.,,Metabolite
+CHEBI:30413,heme,A heme is any tetrapyrrolic chelate of iron.,,Cofactor
+CHEBI:30616,ATP(4-),A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of ATP; major species present at pH 7.3.,,Cofactor
+CHEBI:30780,maleate(2-),A C4-dicarboxylate that is the <i>Z</i>-isomer of but-2-enedioate(2−),,Metabolite
+CHEBI:30807,tetradecanoate,A long-chain fatty acid anion that is the conjugate base of myristic acid; major species at pH 7.3.,,Metabolite
+CHEBI:30823,oleate,"A C<small><sub>18</sub></small>, long straight-chain monounsaturated fatty acid anion; and the conjugate base of oleic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:30825,elaidate,A long-chain fatty acid anion that is the conjugate base of elaidic acid; shown to exert detrimental effects on mitochondrial lipid composition and function.,,Metabolite
+CHEBI:30879,alcohol,"A compound in which a hydroxy group, ‒OH, is attached to a saturated carbon atom.",,Metabolite
+CHEBI:30909,1-alkyl-sn-glycero-3-phosphocholine,A glycerophosphocholine that consists of <small>L</small>-α-glycerophosphocholine carrying an unspecified alkyl substituent at position 1.,,Metabolite
+CHEBI:31014,tetracosanoate,"A straight-chain saturated fatty acid anion that is the conjugate base of tetracosanoic acid (lignoceric acid), formed by deprotonation of the carboxy group.",,Metabolite
+CHEBI:31488,N-acylsphinganine,A ceramide consisting of sphinganine in which one of the amino hydrogens is substituted by a fatty acyl group.,,Metabolite
+CHEBI:32360,icosanoate,A long-chain fatty acid anion resulting from the removal of a proton from the carboxy group of icosanoic acid (arachidic acid).,,Metabolite
+CHEBI:32372,palmitoleate,A hexadec-9-enoate that is the conjugate base of palmitoleic acid; major species at pH 7.3.,,Metabolite
+CHEBI:32375,petroselinate,An unsaturated fatty acid anion resulting from the deprotonation of the carboxy group of petroselinic acid. The major species at pH 7.3.,,Metabolite
+CHEBI:32387,alpha-linolenate,"A linolenate that is the conjugate base of α-linolenic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:32392,(15Z)-tetracosenoate,"A tetracosenoate that is the conjugate base of nervonic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:32395,arachidonate,A long-chain fatty acid anion resulting from the removal of a proton from the carboxy group of arachidonic acid.,,Metabolite
+CHEBI:32426,gondoate,"A very long-chain fatty acid anion that is the conjugate base of gondoic acid, formed by deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:32551,L-lysinium(1+),An optically active form of lysinium having <small>L</small>-configuration.,,Metabolite
+CHEBI:32682,L-argininium(1+),The <small>L</small>-enantiomer of argininium(1+).,,Metabolite
+CHEBI:327995,tyraminium,An ammonium ion that is the conjugate acid of tyramine; major species at pH 7.3.,,Metabolite
+CHEBI:32955,epoxide,Any cyclic ether in which the oxygen atom forms part of a 3-membered ring.,,Metabolite
+CHEBI:32966,"beta-D-fructofuranose 1,6-bisphosphate(4-)","A <small>D</small>-fructofuranose 1,6-bisphosphate(4−) that is the conjugate base of β-<small>D</small>-fructofuranose 1,6-bisphosphate.",,Metabolite
+CHEBI:33019,diphosphate(3-),A trivalent inorganic anion obtained by removal of all three protons from diphosphoric acid.,,Metabolite
+CHEBI:33308,carboxylic ester,"An ester of a carboxylic acid, R<small><sup>1</small></sup>C(=O)OR<small><sup>2</small></sup>, where R<small><sup>1</small></sup> = H or organyl and R<small><sup>2</small></sup> = organyl.",,Metabolite
+CHEBI:33384,L-serine zwitterion,A serine zwitterion obtained by transfer of a proton from the carboxy to the amino group of <small>L</small>-serine.,,Ion
+CHEBI:33409,methylarsonate(1-),,,Metabolite
+CHEBI:33737,di-mu-sulfido-diiron(2+),,,Cofactor
+CHEBI:33738,di-mu-sulfido-diiron(1+),,,Cofactor
+CHEBI:33853,phenols,Organic aromatic compounds having one or more hydroxy groups attached to a benzene or other arene ring.,,Metabolite
+CHEBI:34071,1-arachidonoyl-sn-glycerol,A 1-acyl-sn-glycerol where arachidonoyl forms the 1-acyl group.,,Metabolite
+CHEBI:34133,11-oxotestosterone,A 3-oxo Δ<small><sup>4</small></sup>-steroid that is testosterone carrying an additional oxo substituent at position 11.,,Metabolite
+CHEBI:34134,11-Ketoandrosterone,,,Metabolite
+CHEBI:34310,(24S)-24-hydroxycholesterol,A 24-hydroxycholesterol that has <i>S</i> configuration at position 24. It is the major metabolic breakdown product of cholesterol in the brain.,,Metabolite
+CHEBI:34463,"5alpha-Androstane-3,11,17-trione",,,Ion
+CHEBI:34584,boldenone,"An  3-oxo-Δ<small><sup>1</small></sup>,Δ<small><sup>4</small></sup>-steroid substituted by an oxo group at position 3 and a β-hydroxy group at position 17. It is an  anabolic androgenic steroid that has been developed for veterinary use.",,Metabolite
+CHEBI:35020,tributyrin,A triglyceride obtained by formal acylation of the three hydroxy groups of glycerol by butyric acid.,,Metabolite
+CHEBI:350546,serotonin(1+),An ammonium ion that is the conjugate acid of serotonin; major species at pH 7.3.,,Neurotransmitter
+CHEBI:35177,2-oxohexanoate,A medium-chain fatty acid anion that is the conjugate base of 2-oxohexanoic acid.,,Metabolite
+CHEBI:35235,L-cysteine zwitterion,,,Ion
+CHEBI:35247,D-serine zwitterion,A serine zwitterion obtained by transfer of a proton from the carboxy to the amino group of <small>D</small>-serine.,,Ion
+CHEBI:35287,acylcholine,A choline ester formed from choline and a carboxylic acid.,,Metabolite
+CHEBI:35291,all-trans-retinoate,A retinoate that is the conjugate base of <i>all</i>-<i>trans</i>-retinoic acid.,,Metabolite
+CHEBI:35343,17beta-hydroxy steroid,A 17-hydroxy steroid in which the hydroxy group at position 17 has a β-configuration.,,Metabolite
+CHEBI:35489,organic disulfide,Compounds of structure RSSR in which R and R' are organic groups.,,Metabolite
+CHEBI:35491,L-cystine zwitterion,,,Ion
+CHEBI:35759,1-monoglyceride,A monoglyceride in which the acyl substituent is located at position 1.,,Metabolite
+CHEBI:35899,crotonate,The conjugate base of crotonic acid; used by some bacterial species as a carbon and energy source.,,Metabolite
+CHEBI:35924,peroxol,"Monosubstitution products of hydrogen peroxide HOOH, having the skeleton ROOH, in which R is any organyl group.",,Metabolite
+CHEBI:36234,chenodeoxycholate,Conjugate base of chenodeoxycholic acid; major species at pH 7.3.,,Metabolite
+CHEBI:36242,3-(4-hydroxyphenyl)pyruvate,A 2-oxo monocarboxylic acid anion obtained by removal of a proton from the carboxylic acid group of 3-(4-hydroxyphenyl)pyruvic acid.,,Metabolite
+CHEBI:36252,glycochenodeoxycholate,A <em>N</em>-acylglycinate that is the conjugate base of glycochenodeoxycholic acid.,,Metabolite
+CHEBI:36257,taurocholate,An organosulfonate oxoanion that is the conjugate base of taurocholic acid.,,Metabolite
+CHEBI:36261,taurodeoxycholate,An organosulfonate oxoanion that is the conjugate base of taurodeoxycholic acid.,,Metabolite
+CHEBI:36498,galactosylceramide,Any of the cerebrosides in which the monosaccharide head group is galactose.,,Metabolite
+CHEBI:36655,glyoxylate,The conjugate base of glyoxylic acid.,,Metabolite
+CHEBI:36707,2-acetyl-1-alkyl-sn-glycero-3-phosphocholine,"A 2-acyl-1-alkyl-<em>sn</em>-glycero-3-phosphocholine where the 2-<em>O</em>-acyl group is specified as acetyl; a potent phospholipid activator and mediator of many leukocyte functions, including platelet aggregation, inflammation, and anaphylaxis.",,Metabolite
+CHEBI:36713,"5alpha-androstane-3alpha,17beta-diol","The 5α-stereoisomer of androstane-3α,17β-diol.",,Metabolite
+CHEBI:36836,3beta-hydroxy steroid,A 3-hydroxy steroid in which the 3-hydroxy substituent is in the  β-position.,,Metabolite
+CHEBI:37257,phytanate,"A branched-chain saturated fatty acid anion that is the conjugate base of phytanic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:37448,2-dehydro-3-deoxy-L-fuconate,,,Metabolite
+CHEBI:37563,CTP(4-),A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of CTP; major species present at pH 7.3.,,Metabolite
+CHEBI:37565,GTP(4-),A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of GTP; major species present at pH 7.3.,,Cofactor
+CHEBI:37568,dTTP(4-),A 2'-deoxyribonucleoside 5'-triphosphate(4−) obtained by deprotonation of the four triphosphate OH groups of dTTP; major species at pH 7.3.,,Metabolite
+CHEBI:37575,thiamine(1+) monophosphate(2-),"An organophosphate oxoanion that is the conjugate base of thiamine(1+) monophosphate(1−), arising from the deprotonation of the phosphate group. Major microspecies at pH 7.3.",,Metabolite
+CHEBI:37721,D-fructofuranose,A fructofuranose that has <small>D</small> configuration.,,Metabolite
+CHEBI:38290,L-ascorbate,"The <small>L</small>-enantiomer of ascorbate and conjugate base of <small>L</small>-ascorbic acid, arising from selective deprotonation of the 3-hydroxy group. Required for a range of essential metabolic reactions in all animals and plants.",,Metabolite
+CHEBI:41509,cholesteryl linoleate,"The (9<i>Z</i>,12<i>Z</i>)-stereoisomer of cholesteryl octadeca-9,12-dienoate.",,Metabolite
+CHEBI:4167,D-glucopyranose,A glucopyranose having <small>D</small>-configuration.,,Metabolite
+CHEBI:41847,"1,2-dioctadecanoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol where both acyl groups are specified as octadecanoyl.",,Metabolite
+CHEBI:42534,epitestosterone,An androstanoid that is the <em>C</em>-17 epimer of testosterone.,,Metabolite
+CHEBI:42977,25-hydroxycholesterol,,,Metabolite
+CHEBI:43474,hydrogenphosphate,A phosphate ion that is the conjugate base of dihydrogenphosphate.,,Metabolite
+CHEBI:44811,2-O-acetyl-1-O-hexadecyl-sn-glycero-3-phosphocholine,"A 2-acetyl-1-alkyl-<em>sn</em>-glycero-3-phosphocholine betaine which has hexadecyl as the alkyl group. PAF is a potent phospholipid activator and mediator of many leukocyte functions, including platelet aggregation, inflammation, and anaphylaxis.",,Metabolite
+CHEBI:456215,adenosine 5'-monophosphate(2-),A nucleoside 5'-monophosphate(2−) that results from the removal of two protons from the phosphate group of adenosine 5'-monophosphate (AMP).,,Metabolite
+CHEBI:456216,ADP(3-),A nucleoside 5'-diphosphate(3−) arising from deprotonation of all three diphosphate OH groups of adenosine 5'-diphosphate (ADP); major species present at pH 7.3.,,Metabolite
+CHEBI:45815,N-octanoylsphingosine,An <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as octanoyl.,,Metabolite
+CHEBI:46398,UTP(4-),A nucleoside triphosphate(4−) obtained by global deprotonation of the triphosphate OH groups of UTP; major species present at pH 7.3.,,Metabolite
+CHEBI:46858,L-tyrosine residue,,,Metabolite
+CHEBI:46898,cholesteryl oleate,The (<i>Z</i>)-stereoisomer of  cholesteryl octadec-9-enoate.,,Metabolite
+CHEBI:46911,L-ornithinium(1+),A polar amino acid zwitterion of <small>L</small>-ornithine.,,Metabolite
+CHEBI:46979,N-acetylsphingosine,A <em>N</em>-acylsphingosine that has an acetamido group at position 2.,,Metabolite
+CHEBI:47777,"1,3-diglyceride",,,Metabolite
+CHEBI:47788,3-oxo steroid,Any oxo steroid where an oxo substituent is located at position 3.,,Metabolite
+CHEBI:48775,cadmium(2+),,,Metabolite
+CHEBI:48828,cobalt(2+),,,Metabolite
+CHEBI:48939,"(25R)-5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol",,,Metabolite
+CHEBI:48940,"(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al","The (25<i>R</i>)-diastereomer of 3α,7α,12α-trihydroxy-5β-cholestan-26-al.",,Metabolite
+CHEBI:49172,"1,2-diglyceride",,,Metabolite
+CHEBI:49547,caesium(1+),,,Metabolite
+CHEBI:49713,lithium(1+),,,Metabolite
+CHEBI:49786,nickel(2+),A nickel cation in which the nickel carries a double positive charge.,,Metabolite
+CHEBI:49847,rubidium(1+),,,Metabolite
+CHEBI:49883,tetra-mu3-sulfido-tetrairon,An Fe<small><sub>4</sub></small>S<small><sub>4</sub></small> iron-sulfur cluster in which each sulfur is attached to three of the iron atoms.,,Cofactor
+CHEBI:50004,cis-stilbene oxide,,,Metabolite
+CHEBI:50014,"(R,R)-hydrobenzoin",,,Metabolite
+CHEBI:50058,L-cystine residue,A cystine residue in which both stereocentres have <small>L</small> (= <i>R</i>) configuration.,,Metabolite
+CHEBI:50169,brexanolone,A 3-hydroxy-5α-pregnan-20-one in which the hydroxy group at position 3 has α-configuration. It is a metabolite of the sex hormone progesterone and used for the treatment of postpartum depression in women.,,Metabolite
+CHEBI:507393,taurine zwitterion,The zwitterion formed from taurine by transfer of a proton from the sulfonyl to the amino group.  It is the major species existing at physiological pH.,,Ion
+CHEBI:52323,"1,2-dioleoylglycerol",,,Metabolite
+CHEBI:52333,"1,2-dioleoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specified as oleoyl.",,Metabolite
+CHEBI:52392,2-arachidonoylglycerol,An endocannabinoid and an endogenous agonist of the cannabinoid receptors (CB1 and CB2). It is an ester formed from omega-6-arachidonic acid and glycerol.,,Metabolite
+CHEBI:52639,N-acylsphingosine,"The parent compounds of the ceramide family, composed of sphingosine having an unspecified fatty acyl group attached to the nitrogen.",,Metabolite
+CHEBI:52961,N-tetracosanoylsphinganine,"An <em>N</em>-(1,2-saturated acyl)sphinganine having a tetracosanoyl group attached to the nitrogen atom.",,Metabolite
+CHEBI:52962,N-hexacosanoylsphinganine,A dihydroceramide compound having a hexacosanoyl group attached to the nitrogen atom.,,Metabolite
+CHEBI:533015,"3,3',5-triiodo-L-thyronine zwitterion","The amino acid zwitterion formed from 3,3',5-triiodo-<small>L</small>-thyronine by tranfer of a proton from the carboxy group to the amino group. It is the major species at pH 7.3.",,Ion
+CHEBI:53604,O-(N-acetyl-alpha-D-galactosaminyl)-L-serine residue,An <small>L</small>-α-amino acid residue derived from <em>O</em>-(<em>N</em>-acetyl-α-<small>D</small>-galactosaminyl)-<small>L</small>-serine.,,Metabolite
+CHEBI:53753,triolein,A triglyceride formed by esterification of the three hydroxy groups of glycerol with oleic acid. Triolein is one of the two components of Lorenzo's oil.,,Metabolite
+CHEBI:566274,malonaldehyde,"A dialdehyde that is propane substituted by two oxo groups at the terminal carbon atoms respectively. A biomarker of oxidative damage to lipids caused by smoking, it exists <em>in vivo</em> mainly in the enol form.",,Metabolite
+CHEBI:57259,2-deoxy-alpha-D-ribose 1-phosphate(2-),Dianion of 2-deoxy-α-<small>D</small>-ribose 1-phosphate.,,Metabolite
+CHEBI:57261,"3,3',5'-triiodo-L-thyronine zwitterion","Zwitterionic form of 3,3',5'-triiodo-<small>L</small>-thyronine.",,Ion
+CHEBI:57262,3-sn-phosphatidyl-L-serine(1-),"A singly-charged anionic phospholipid that is the conjugate base of 1,2-diacyl-<em>sn</em>-glycero-3-phosphoserine, in which the carboxy and phosphate groups are anionic and the amino group is cationic; major species at pH 7.3.",,Metabolite
+CHEBI:57273,GDP-beta-L-fucose(2-),A nucleotide-sugar oxoanion resulting from the removal of both of the hydrogens from the diphosphate group of GDP-β-<small>L</small>-fucose.,,Metabolite
+CHEBI:57286,acetoacetyl-CoA(4-),A 3-oxoacyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of acetoacetyl-CoA.,,Metabolite
+CHEBI:57287,coenzyme A(4-),Tetraanion of coenzyme A.,,Cofactor
+CHEBI:57288,acetyl-CoA(4-),"An acyl-CoA(4−) that is the tetraanion of acetyl-CoA, arising from deprotonation of the phosphate and diphosphate OH groups.",,Metabolite
+CHEBI:57305,glycine zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of glycine.,,Neurotransmitter
+CHEBI:57312,"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA(4-)","An acyl-CoA(4−) that is the tetraanion of (2<i>S</i>,3<i>S</i>)-3-hydroxy-2-methylbutanoyl-CoA, arising from deprotonation of the phosphate and diphosphate OH groups.",,Metabolite
+CHEBI:57316,(S)-3-hydroxybutanoyl-CoA(4-),Tetraanion of (<i>S</i>)-3-hydroxybutanoyl-CoA arising from deprotonation of the phosphate and diphosphate OH groups.,,Metabolite
+CHEBI:57318,(S)-3-hydroxyacyl-CoA(4-),The tetraanion of an (<i>S</i>)-3-hydroxyacyl-CoA compound.,,Metabolite
+CHEBI:57330,trans-dodec-2-enoyl-CoA(4-),Tetraanion of <i>trans</i>-dodec-2-enoyl-CoA arising from deprotonation of phosphate and diphosphate functions.,,Metabolite
+CHEBI:57332,crotonoyl-CoA(4-),Tetraanion of crotonoyl-CoA arising from deprotonation of phosphate and diphosphate functions.,,Metabolite
+CHEBI:57335,2-methylacetoacetyl-CoA(4-),"An acyl-CoA(4−) that is the tetraanion of 2-methylacetoacetyl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57338,isobutyryl-CoA(4-),"A short chain fatty acyl-CoA(4−) that is the tetraanion of isobutyryl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57345,isovaleryl-CoA(4-),A short chain fatty acyl-CoA(4−) that is the tetraanion of isovaleryl-CoA arising from deprotonation of phosphate and diphosphate functions.,,Metabolite
+CHEBI:57349,3-oxopalmitoyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of 3-oxopalmitoyl-CoA.,,Metabolite
+CHEBI:57363,gamma-linolenoyl-CoA(4-),An octadecatrienoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of γ-linolenoyl-CoA.,,Metabolite
+CHEBI:57368,arachidonoyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of arachidonoyl-CoA.,,Metabolite
+CHEBI:57371,butyryl-CoA(4-),"An acyl-CoA(4−) that is the tetraanion of butyryl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57375,lauroyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of phosphate and diphosphate functions of lauroyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:57378,glutaryl-CoA(5-),"An acyl-CoA oxoanion that is the pentaanion of glutaryl-CoA arising from deprotonation of phosphate, diphosphate and carboxylic acid functions.",,Metabolite
+CHEBI:57379,palmitoyl-CoA(4-),A saturated fatty acyl-CoA(4−) that is palmitoyl-CoA in which the phosphate and diphosphate groups have been deprotonated to give the corresponding tetra-anion.,,Metabolite
+CHEBI:57380,icosanoyl-CoA(4-),Tetraanion of icosanoyl-CoA arising from deprotonation of phosphate and diphosphate functions.,,Metabolite
+CHEBI:57383,linoleoyl-CoA(4-),An octadecadienoyl-CoA(4−) resulting from the deprotonation of phosphate and diphosphate functions of linoleoyl-CoA.,,Metabolite
+CHEBI:57384,malonyl-CoA(5-),"Pentaanion of malonyl-CoA arising from deprotonation of phosphate, diphosphate and carboxylic acid functions.",,Metabolite
+CHEBI:57385,myristoyl-CoA(4-),"An acyl-CoA oxoanion that is the tetraanion of myristoyl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57386,octanoyl-CoA(4-),"An acyl-CoA(4−) that is the tetraanion of octanoyl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57387,oleoyl-CoA(4-),An octadecenoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of oleoyl-CoA.,,Metabolite
+CHEBI:57389,pentanoyl-CoA(4-),"An acyl-CoA(4−) that is the tetranion of pentanoyl-CoA, arising from deprotonation of phosphate and diphosphate functions.",,Metabolite
+CHEBI:57391,phytanoyl-CoA(4-),A multi-methyl-branched fatty acyl-CoA(4−) arising from deprotonation of phosphate and diphosphate functions of phytanoyl-CoA .,,Metabolite
+CHEBI:57394,stearoyl-CoA(4-),An acyl-CoA(4-) arising from deprotonation of phosphate and diphosphate functions of stearoyl-CoA.,,Metabolite
+CHEBI:57404,prostaglandin F2alpha(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin F<small><sub>2α</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:57405,prostaglandin H2(1-),Conjugate base of prostaglandin H<small><sub>2</sub></small>.,,Metabolite
+CHEBI:57406,prostaglandin D2(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin D<small><sub>2</sub></small>., obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:57409,15(S)-HETE(1-),A polyunsaturated hydroxy fatty acid anion that is the conjugate base of 15(<i>S</i>)-HETE.,,Metabolite
+CHEBI:57410,15-oxo-ETE(1-),A polyunsaturated oxo fatty acid anion that is the conjugate base of 15-oxo-ETE.,,Metabolite
+CHEBI:57427,L-leucine zwitterion,Zwitterionic form of <small>L</small>-leucine.,,Ion
+CHEBI:57445,thromboxane A2(1-),Conjugate base of thromboxane A<small><sub>2</sub></small> arising from deprotonation of the carboxylic acid function.,,Metabolite
+CHEBI:57446,15(S)-HPETE(1-),Conjugate base of 15(<i>S</i>)-HPETE arising from deprotonation of the carboxylic acid function.,,Metabolite
+CHEBI:57450,5(S)-HPETE(1-),Conjugate base of 5(<i>S</i>)-HPETE arising from deprotonation of the carboxylic acid function.,,Metabolite
+CHEBI:57453,"(6S)-5,6,7,8-tetrahydrofolate(2-)","Dianion of (6<i>S</i>)-5,6,7,8-tetrahydrofolic acid arising from deprotonation of both carboxylic acid functions.",,Metabolite
+CHEBI:57455,"(6R)-5,10-methenyltetrahydrofolate","A dicarboxylic acid anion arising from deprotonation of both carboxylic acid functions of (6<i>R</i>)-5,10-methenyltetrahydrofolic acid.",,Metabolite
+CHEBI:57463,leukotriene A4(1-),The leukotriene anion that is the conjugate base of leukotriene A<small><sub>4</sub></small> arising from deprotonation of the carboxylic acid group. Major microspecies at pH 7.3.,,Metabolite
+CHEBI:57476,L-homoserine zwitterion,Zwitterionic form of <small>L</small>-homoserine.,,Ion
+CHEBI:57499,2-oxoadipate(2-),Dianion of 2-oxoadipic acid arising from deprotonation of both carboxylic acid groups.,,Metabolite
+CHEBI:57502,nicotinate D-ribonucleotide(2-),Dianion of nicotinic acid <small>D</small>-ribonucleotide arising from deprotonation of carboxylic acid and phosphate functions.,,Metabolite
+CHEBI:57518,1-palmitoyl-sn-glycerol 3-phosphate(2-),Dianion of 1-palmitoyl-<em>sn</em>-glycerol 3-phosphate arising from deprotonation of both OH groups of the phosphate.,,Metabolite
+CHEBI:57524,O-phosphonato-L-serine(2-),An <em>O</em>-phosphonatooxyserine(2−) that is the conjugate base of <em>O</em>-phospho-<small>L</small>-serine.,,Metabolite
+CHEBI:57539,"1D-myo-inositol 3,4,5,6-tetrakisphosphate(8-)","Octaanion of 1<small>D</small>-<i>myo</i>-inositol 3,4,5,6-tetrakisphosphate arising from global deprotonation of the acidic phosphate OH groups.",,Metabolite
+CHEBI:57540,NAD(1-),An anionic form of nicotinamide adenine dinucleotide arising from deprotonation of the two OH groups of the diphosphate moiety.,,Cofactor
+CHEBI:57560,long-chain fatty acid anion,A fatty acid anion with a chain length of C<small><sub>13</sub></small> to C<small><sub>22</sub></small>.,,Ion
+CHEBI:57562,(R)-2-hydroxyoctadecanoate,A 2-hydroxyoctadecanoate that has <i>R</i> configuration. The conjugate base of (<i>R</i>)-2-hydroxyoctadecanoic acid.,,Metabolite
+CHEBI:57566,2'-deoxycytosine 5'-monophosphate(2-),A 2'-deoxyribonucleoside 5'-monophosphate(2−) obtained by deprotonation of the phosphate OH groups of 2'-deoxycytidine 5'-monophosphate (dCMP); major species at pH 7.3.,,Metabolite
+CHEBI:57595,L-histidine zwitterion,Zwitterionic form of <small>L</small>-histidine having an anionic carboxy group and a protonated α-amino group.,,Ion
+CHEBI:57603,ethanolaminium(1+),A primary aliphatic ammonium ion that is the conjugate acid of ethanolamine arising from protonation of the primary amino function.,,Metabolite
+CHEBI:57604,3-phosphonato-D-glyceroyl phosphate(4-),Tetraanion of 3-phospho-<small>D</small>-glyceroyl dihydrogen phosphate arising from deprotonation of both phosphate groups.,,Metabolite
+CHEBI:57618,FMNH2(2-),Dianion of reduced flavin mononucleotide arising from deprotonation of both phosphate OH groups.,,Metabolite
+CHEBI:57634,beta-D-fructofuranose 6-phosphate(2-),An organophosphate oxoanion that is the dianion of β-<small>D</small>-fructofuranose 6-phosphate arising from deprotonation of the phosphate OH groups.,,Metabolite
+CHEBI:57642,glycerone phosphate(2-),A dianionic form of glycerone phosphate arising from deprotonation of the phosphate OH groups; major species at pH 7.3.,,Metabolite
+CHEBI:57643,"1,2-diacyl-sn-glycero-3-phosphocholine","The conjugate base of a 1,2-diacyl-<em>sn</em>-glycero-3-phosphocholine compound formed by deprotonation of the phosphate OH group.",,Metabolite
+CHEBI:57652,chondroitin D-glucuronate anion,Anionic form of chondroitin <small>D</small>-glucuronate arising from deprotonation of the carboxylic acid groups of the repeating units; major species at pH 7.3.,,Ion
+CHEBI:57658,"1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate(5-)","An organophosphate oxoanion obtained via global deprotonation of the phosphate OH groups of 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4-bisphosphate.",,Metabolite
+CHEBI:57660,"myo-inositol 1,3,4,6-tetrakisphosphate(8-)","Octaanion of <i>myo</i>-inositol 1,3,4,6-tetrakisphosphate arising from global deprotonation of the phosphate OH groups; major species at pH 7.3.",,Metabolite
+CHEBI:57667,dADP(3-),A 2'-deoxyribonucleoside 5'-diphosphate obtained by deprotonation of the diphosphate OH groups of 2'-deoxyadenosine 5'-diphosphate (dADP); major species at pH 7.3.,,Metabolite
+CHEBI:57678,3-mercaptopyruvate,The conjugate base of 3-mercaptopyruvic acid.,,Metabolite
+CHEBI:57692,FAD(3-),Trianion of flavin adenine dinucleotide arising from deprotonation of the diphosphate OH groups and the imide nitrogen.,,Cofactor
+CHEBI:57705,UDP-N-acetyl-alpha-D-glucosamine(2-),Dianion of UDP-<em>N</em>-acetyl-α-<small>D</small>-glucosamine arising from deprotonation of both free diphosphate OH groups; major species at pH 7.3.,,Metabolite
+CHEBI:57720,alpha-D-ribose 1-phosphate(2-),Dianion of α-<small>D</small>-ribose 1-phosphate arising from deprotonation of both phosphate OH groups; major species at pH 7.3.,,Metabolite
+CHEBI:57733,"myo-inositol 1,3,4,5,6-pentakisphosphate(10-)","The anion obtained from global deprotonation of the phosphate OH groups of <i>myo</i>-inositol 1,3,4,5,6-pentakisphosphate; major species at pH 7.3.",,Metabolite
+CHEBI:57746,"3',5'-cyclic GMP(1-)","The conjugate base of guanosine 3',5'-cyclic phosphate arising from deprotonation of the free phosphate OH group; major species at pH 7.3.",,Metabolite
+CHEBI:57756,sphingosine(1+),The cationic sphingoid resulting from the protonation of the amino group of sphingosine.,,Metabolite
+CHEBI:57762,L-valine zwitterion,An <small>L</small>-α-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of <small>L</small>-valine; major species at pH 7.3.,,Ion
+CHEBI:57783,NADPH(4-),Tetraanion of NADPH arising from deprotonation of the diphosphate and phosphate OH groups; major species at pH 7.3.,,Cofactor
+CHEBI:57812,CMP-N-acetyl-beta-neuraminate(2-),Dianion of CMP-<em>N</em>-acetyl-β-neuraminate arising from deprotonation of carboxylic acid and phosphate functions; major species at pH 7.3.,,Metabolite
+CHEBI:57817,sphinganine(1+),A cationic sphingoid obtained by protonation of the amino group of sphinganine.,,Metabolite
+CHEBI:57834,spermidine(3+),"An ammonium ion that is the trication of spermidine, formed by protonation at all three nitrogens.",,Metabolite
+CHEBI:57836,"1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-)","The heptaanion of a 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4,5-trisphosphate; major species at pH 7.3.",,Metabolite
+CHEBI:57843,L-selenocysteine zwitterion,Zwitterionic form of <small>L</small>-selenocysteine having a anionic carboxy group and a cationic amino group; major species at pH 7.3.,,Ion
+CHEBI:57844,L-methionine zwitterion,Zwitterionic form of L-methionine having a anionic carboxy group and a cationic amino group; major species at pH 7.3.,,Ion
+CHEBI:57856,S-adenosyl-L-homocysteine zwitterion,Zwitterionic form of <em>S</em>-adenosyl-<small>L</small>-homocysteine arising from migration of a proton from the carboxy group to the α-amino group; major species at pH 7.3.,,Ion
+CHEBI:57867,nucleoside 5'-phosphate dianion,The conjugate base of a nucleoside 5'-phosphate.,,Ion
+CHEBI:57875,2-acyl-sn-glycero-3-phosphocholine,The ammonium betaine of a 2-acyl-<em>sn</em>-glycero-3-phosphocholine arising from deprotonation of the phosphate OH; major species at pH 7.3.,,Metabolite
+CHEBI:57880,1-phosphatidyl-1D-myo-inositol(1-),The conjugate base of a 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol; major species at pH 7.3.,,Metabolite
+CHEBI:57895,"1D-myo-inositol 1,3,4,5-tetrakisphosphate(8-)","Octaanion of 1<small>D</small>-<i>myo</i>-inositol 1,3,4,5-tetrakisphosphate arising from global deprotonation of the phosphate OH groups; major species at pH 7.3.",,Metabolite
+CHEBI:57905,dehydroepiandrosterone sulfate(1-),The conjugate base of 3β-hydroxyandrost-5-en-17-one 3-sulfate arising from deprotonation of the sulfate OH group; major species at pH 7.3.,,Metabolite
+CHEBI:57912,L-tryptophan zwitterion,An <small>L</small>-α-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of <small>L</small>-tryptophan; major species at pH 7.3.,,Ion
+CHEBI:57917,4-nitrophenolate,A phenolate anion that is the conjugate base of 4-nitrophenol; major species at pH 7.3.,,Metabolite
+CHEBI:57925,glutathionate(1-),A peptide anion obtained by deprotonation of both carboxy groups and protonation of the glutamyl amino group of glutathione; major species at pH 7.3.,,Ion
+CHEBI:57926,L-threonine zwitterion,Zwitterionic form of <small>L</small>-threonine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3.,,Ion
+CHEBI:57930,nucleoside 5'-diphosphate(3-),Trianion of nucleoside diphosphate arising from deprotonation of all three free OH groups of the diphosphate; major species at pH 7.3.,,Metabolite
+CHEBI:57939,sphinganine 1-phosphate(1-),The anion resulting from the addition of a proton to the amino group and the removal of the two acidic protons from the phosphate group of sphinganine 1-phosphate.,,Metabolite
+CHEBI:57945,NADH(2-),Dianion of NADH arising from deprotonation of the two diphosphate OH groups; major species at pH 7.3.,,Cofactor
+CHEBI:57947,creatine zwitterion,Zwitterionic form of creatine arising from transfer of a proton from the carboxy to the guanidino group; major species at pH 7.3.,,Ion
+CHEBI:57955,"6-O-phosphonato-D-glucono-1,5-lactone(2-)","Dianion of 6-<em>O</em>-phosphono-<small>D</small>-glucono-1,5-lactone arising from deprotonation of the phosphate OH groups; major species at pH 7.3.",,Metabolite
+CHEBI:57959,L-kynurenine zwitterion,Zwitterionic form of <small>L</small>-kynurenine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3.,,Ion
+CHEBI:57970,1-acyl-sn-glycerol 3-phosphate(2-),Dianion of a 1-acyl-<em>sn</em>-glycerol 3-phosphate arising from deprotonation of both phosphate OH groups; major species at pH 7.3.,,Metabolite
+CHEBI:57972,L-alanine zwitterion,Zwitterionic form of <small>L</small>-alanine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3.,,Ion
+CHEBI:57973,leukotriene C4(2-),The leukotriene anion that is the dianion of leukotriene C<small><sub>4</sub></small> arising from deprotonation of the three carboxy groups and protonation of the glutamyl α-amino group.,,Metabolite
+CHEBI:58017,5-O-phosphonato-alpha-D-ribofuranosyl diphosphate(5-),Pentaanion of 5-<em>O</em>-phosphono-α-<small>D</small>-ribofuranosyl diphosphate arising from deprotonation of the phosphate and diphosphate OH groups; major species at pH 7.3.,,Metabolite
+CHEBI:58043,nucleoside 5'-monophosphate(2-),The dianion of a nucleoside monophosphate: major species at pH 7.3.,,Metabolite
+CHEBI:58045,L-isoleucine zwitterion,An <small>L</small>-α-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of <small>L</small>-isoleucine; major species at pH 7.3.,,Ion
+CHEBI:58048,L-asparagine zwitterion,Zwitterionic form of <small>L</small>-asparagine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3.,,Ion
+CHEBI:58052,UDP-alpha-D-glucuronate(3-),A nucleotide-sugar oxoanion that is a trianion arising from deprotonation of the carboxy and diphosphate OH groups of UDP-α-<small>D</small>-glucuronic acid; major species at pH 7.3.,,Metabolite
+CHEBI:58053,IMP(2-),A nucleoside 5'-monophosphate(2−) that results from the removal of two protons from the phosphate group of IMP; major species at pH 7.3.,,Metabolite
+CHEBI:58066,L-glutamic 5-semialdehyde zwitterion,Zwitterionic form of homocysteine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3.,,Ion
+CHEBI:58069,CDP(3-),A nucleoside 5'-diphosphate(3−) arising from deprotonation of the three triphosphate OH groups of cytidine 5'-diphosphate (CDP); major species at pH 7.3.,,Metabolite
+CHEBI:58088,1-phosphatidyl-1D-myo-inositol 3-phosphate(3-),The trianion of a 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:58095,L-phenylalanine zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of <small>L</small>-phenylalanine; major species at pH 7.3.,,Ion
+CHEBI:58115,guanosine 5'-monophosphate(2-),A nucleoside 5'-monophosphate(2−) that results from the removal of two protons from the phosphate group of GMP.,,Metabolite
+CHEBI:58125,3-hydroxy-L-kynurenine zwitterion,Zwitterionic form of 3-hydroxy-<small>L</small>-kynurenine arising from transfer of a proton from the carboxy to the amino group; major species at pH 7.3,,Ion
+CHEBI:58161,L-cystathionine dizwitterion,Dizwitterionic form of <small>L</small>-cystathionine arising from transfer of two protons from the carboxy to the amino groups; major species at pH 7.3.,,Ion
+CHEBI:58165,"3',5'-cyclic AMP(1-)","An organophosphate oxoanion that is the conjugate base of 3',5'-cyclic AMP arising from deprotonation of the free phosphate OH group; major species at pH 7.3.",,Metabolite
+CHEBI:58168,1-O-acyl-sn-glycero-3-phosphocholine,The ammonium betaine of a 1-<em>O</em>-acyl-<em>sn</em>-glycero-3-phosphocholine arising from deprotonation of the phosphate OH; major species at pH 7.3.,,Metabolite
+CHEBI:58178,1-phosphatidyl-1D-myo-inositol 4-phosphate(3-),An organophosphate oxoanion arising from deprotonation of the phosphate OH groups of 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol-4-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:58189,GDP(3-),A nucleoside 5'-diphosphate(3−) obtained by deprotonation of the three diphosphate OH groups of guanosine 5'-diphosphate (GMP); major species at pH 7.3.,,Metabolite
+CHEBI:58190,O-phosphonatoethanaminium(1-),An organophosphate oxoanion that is the conjugate base of <em>O</em>-phosphoethanolamine arising from deprotonation of the phosphate OH groups and protonation of the amino group; major species at pH 7.3.,,Metabolite
+CHEBI:58199,L-homocysteine zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of <small>L</small>-homocysteine; major species at pH 7.3.,,Ion
+CHEBI:58210,FMN(3-),The trianion arising from deprotonation of the diphosphate hydroxy groups and the imide nitrogen of flavin mononucleotide (FMN). Major species at pH 7.3.,,Metabolite
+CHEBI:58223,UDP(3-),A nucleoside 5'-diphosphate(3−) arising from deprotonation of the diphosphate OH groups of uridine 5'-diphosphate (UDP); major species at pH 7.3.,,Metabolite
+CHEBI:58225,alpha-D-glucose 6-phosphate(2-),A <small>D</small>-glucopyranose 6-phosphate(2−) obtaned by deprotonation of the phosphate OH groups of α-<small>D</small>-glucose 6-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:58245,2'-deoxyadenosine 5'-monophosphate(2-),A 2'-deoxyribonucleoside 5'-monophosphate(2−) obtained by deprotonation of the phosphate OH groups of 2'-deoxyadenosine 5'-monophosphate (dAMP).,,Metabolite
+CHEBI:58247,beta-D-glucose 6-phosphate(2-),A doubly-charged organophosphate oxoanion arising from deprotonation of the phosphate OH groups of β-<small>D</small>-glucose 6-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:58248,"2,3-bisphosphonato-D-glycerate(5-)","An organophosphate oxoanion arising from deprotonation of the phospho and carboxy groups of 2,3-bisphospho-<small>D</small>-glyceric acid; major species at pH 7.3.",,Metabolite
+CHEBI:58263,N-acetylputrescinium,An ammonium ion that is the conjugate acid of <em>N</em>-acetylputrescine; major species at pH 7.3.,,Metabolite
+CHEBI:58272,3-phosphonato-D-glycerate(3-),An organophosphate oxoanion arising from deprotonation of the carboxy and phosphate OH groups of 3-phospho-<small>D</small>-glyceric acid; major species at pH 7.3.,,Metabolite
+CHEBI:58289,2-phosphonato-D-glycerate(3-),An organophosphate oxoanion arising from deprotonation of the phosphate OH and carboxy groups of 2-phospho-<small>D</small>-glyceric acid; major species at pH 7.3.,,Metabolite
+CHEBI:58297,glutathione disulfide(2-),A doubly-charged peptide anion arising from deprotonation of the four carboxy groups and protonation of the two amino groups of glutathione disulfide; major species at pH 7.3.,,Ion
+CHEBI:58299,3-dehydrosphinganinium(1+),A cationic sphingoid that is the conjugate acid of 3-dehydrosphinganine; major species at pH 7.3.,,Metabolite
+CHEBI:58301,taurolithocholic acid sulfate(2-),A steroid sulfate oxoanion arising from deprotonation of both sulfo groups of taurolithocholic acid sulfate; major species at pH 7.3.,,Metabolite
+CHEBI:58307,FADH2(2-),The organophosphate oxoanion obtained by deprotonation of the diphosphate hydroxy groups of the reduced form of flavin adenine dinucleotide (FADH<small><sub>2</sub></small>).,,Cofactor
+CHEBI:58315,L-tyrosine zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of <small>L</small>-tyrosine; major species at pH 7.3.,,Ion
+CHEBI:58339,3'-phosphonato-5'-adenylyl sulfate(4-),A quadruply-charged organophosphate oxoanion arising from deprotonation of the phosphate and sufate groups of 3'-phosphonato-5'-adenylyl sulfate; major species at pH 7.3.,,Metabolite
+CHEBI:58342,acyl-CoA(4-),An acyl-CoA oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of any acyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:58343,"adenosine 3',5'-bismonophosphate(4-)","An organophosphate oxoanion arising from deprotonation of the phosphate OH groups of adenosine 3',5'-bismonophosphate; major species at pH 7.3.",,Metabolite
+CHEBI:58349,NADP(3-),An organophosphate oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of NADP<small><sup>+</small></sup>; major species at pH 7.3.,,Cofactor
+CHEBI:58359,L-glutamine zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group of <small>L</small>-glutamine; major species at pH 7.3.,,Ion
+CHEBI:58369,dTDP(3-),An organophosphate oxoanion arising from deprotonation of the diphosphate OH groups of thymidine 5'-diphosphate; major species at pH 7.3.,,Metabolite
+CHEBI:58388,heparan sulfate alpha-D-glucosaminide polyanion,A carbohydrate acid derivative anion arising from deprotonation of the carboxylic acid and sulfate groups of the repeating units and protonation of the free amino group on the glucosamine of heparan sulfate α-<small>D</small>-glucosaminide; major species at pH 7.3.,,Ion
+CHEBI:58392,"alpha-D-glucose 1,6-bisphosphate(4-)","A quadruply-charged organophosphate oxoanion arising from deprotonation of the phosphate OH groups of α-<small>D</small>-glucose 1,6-bisphosphate; major species at pH 7.3.",,Metabolite
+CHEBI:58401,1D-myo-inositol 3-phosphate(2-),The dianion of 1<small>D</small>-<i>myo</i>-inositol 3-phosphate.,,Metabolite
+CHEBI:58409,alpha-D-mannose 1-phosphate(2-),An organophosphate oxoanion that is the dianion of α-<small>D</small>-mannose 1-phosphate.,,Metabolite
+CHEBI:58414,"1D-myo-inositol 1,3,4-trisphosphate(6-)","The hexaanion of 1<small>D</small>-<i>myo</i>-inositol 1,3,4-trisphosphate.",,Metabolite
+CHEBI:58422,chondroitin 4'-sulfate anion,The organosulfate oxoanion that is the conjugate base of chondroitin 4'-sulfate.,,Ion
+CHEBI:58433,1D-myo-inositol 1-phosphate(2-),An organophosphate oxoanion that is the dianion of 1<small>D</small>-<i>myo</i>-inositol 1-phosphate.,,Metabolite
+CHEBI:58437,deamido-NAD(2-),Dianion of deamido-NAD<small><sup>+</small></sup> arising from deprotonation of phosphate and carboxylic acid functions.,,Cofactor
+CHEBI:58441,L-2-aminopentanoic acid zwitterion,An <small>L</small>-α-amino acid zwitterion obtained from <small>L</small>-2-aminopentanoic acid by transfer of a proton from the carboxy group to the amino group. It is the major species at pH 7.3.,,Ion
+CHEBI:58448,L-thyroxine zwitterion,Zwitterionic form of <small>L</small>-thyroxine.,,Ion
+CHEBI:58454,kynurenate,A quinolinemonocarboxylate that is the conjugate base of kynurenic acid,,Metabolite
+CHEBI:58455,L-2-aminohexanoic acid zwitterion,An <small>L</small>-α-amino acid zwitterion obtained from <small>L</small>-2-aminohexanoic acid by transfer of a proton from the carboxy group to the amino group. It is the major species at pH 7.3.,,Ion
+CHEBI:58456,"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate(5-)","The pentaanion of a 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 4,5-bisphosphate.",,Metabolite
+CHEBI:58464,"nucleoside 3',5'-cyclic phosphate anion","The conjugate base of a nucleoside 3',5'-cyclic phosphate.",,Ion
+CHEBI:58506,Ile(5)-angiotensin II dizwitterion,An amino acid zwitterion that is the dizwitterionic form of Ile<small><sup>5</small></sup>-angiotensin II having both carboxy groups deprotonated and the aspartyl amino group and arginine side-chain protonated.,,Ion
+CHEBI:58535,N(8)-acetylspermidinium(2+),The dication of <em>N</em><small><sup>8</small></sup>-acetylspermidine.,,Metabolite
+CHEBI:58539,L-dehydroascorbate,"An organic anion and the conjugate base of <small>L</small>-dehydroascorbic acid, arising from deprotonation of the acidic C2-position.",,Metabolite
+CHEBI:58562,"all-cis-5,8,11,14,17-icosapentaenoate","An icosapentaenoate that is the conjugate base of <i>all</i>-<i>cis</i>-5,8,11,14,17-icosapentaenoic acid, arising from deprotonation of the carboxylic acid group.",,Metabolite
+CHEBI:58593,dCDP(3-),A 2'-deoxyribonucleoside 5'-diphosphate obtained by deprotonation of the diphosphate OH groups of 2'-deoxycytidine 5'-diphosphate (dCDP).,,Metabolite
+CHEBI:58595,dGDP(3-),A 2'-deoxyribonucleoside 5'-diphosphate obtained by deprotonation of the diphosphate OH groups of dGDP.,,Metabolite
+CHEBI:58601,alpha-D-glucose 1-phosphate(2-),"An organophosphate oxoanion that is the dianion of α-<small>D</small>-glucose 1-phosphate, obtained by deprotonation of the phosphate OH groups.",,Metabolite
+CHEBI:58608,"1,2-diacyl-sn-glycerol 3-phosphate(2-)","The conjugate base of a 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate compound.",,Metabolite
+CHEBI:58672,L-2-aminoadipate(1-),Conjugate base of <small>L</small>-2-aminoadipic acid.,,Metabolite
+CHEBI:58680,O-phosphonatooxy-D-serine(2-),An <em>O</em>-phosphonatooxyserine(2−) that is the dianion of <em>O</em>-phospho-<small>D</small>-serine.,,Metabolite
+CHEBI:58702,phosphonatoenolpyruvate,An organophosphate oxoanion obtained by deprotonation of the carboxy and phosphate groups of phospho<em>enol</em>pyruvic acid.,,Metabolite
+CHEBI:58717,S-substituted L-cysteine zwitterion,The zwitterionic form of an <em>S</em>-substituted <small>L</small>-cysteine.,,Ion
+CHEBI:58734,"(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oate","Conjugate base of (25<i>R</i>)-3α,7α,12α-trihydroxy-5β-cholestan-26-oic acid.",,Metabolite
+CHEBI:58735,D-mannopyranose 6-phosphate(2-),A <small>D</small>-hexopyranose 6-phosphate(2−) that is the dianion of <small>D</small>-mannopyranose 6-phosphate arising from deprotonation of the phosphate function.,,Metabolite
+CHEBI:58759,6-phosphonatooxy-D-gluconate,An organophosphate oxoanion that is a trianion arising from deprotonation of phosphate and carboxylic acid functions of 6-phospho-<small>D</small>-gluconic acid.,,Metabolite
+CHEBI:58796,"(9S,10S)-10-hydroxy-9-(phosphonatooxy)octadecanoate","Trianion of (9<i>S</i>,10<i>S</i>)-10-hydroxy-9-(phosphonooxy)octadecanoic acid arising from deprotonation of carboxylic acid and phosphate functions.",,Metabolite
+CHEBI:58797,"(S,S)-9,10-dihydroxyoctadecanoate","A hydroxy fatty acid anion that is the conjugate base of (<i>S</i>,<i>S</i>)-9,10-dihydroxyoctadecanoic acid.",,Metabolite
+CHEBI:58855,secondary aliphatic ammonium ion,A secondary aliphatic amine protonated on nitrogen.,,Ion
+CHEBI:58937,thiamine(1+) diphosphate(3-),Dianion of thiamine(1+) diphosphate arising from deprotonation of the three OH groups of the diphosphate.,,Metabolite
+CHEBI:58938,thiamine(1+) triphosphate(4-),Trianion of thiamine(1+) diphosphate arising from deprotonation of the four OH groups of the triphosphate.,,Metabolite
+CHEBI:59002,N-arachidonoylglycinate,Conjugate base of <em>N</em>-arachidonoylglycine.,,Metabolite
+CHEBI:59338,methylammonium,The conjugate acid of methylamine; major species at pH 7.3.,,Metabolite
+CHEBI:59720,HPETE anion,An anion arising from deprotonation of the carboxylic acid function of any mono-hydroperoxy (e)icosatetraenoic acid (HPETE),,Ion
+CHEBI:597326,pyridoxal 5'-phosphate(2-),The dianion resulting from the removal of two protons from the phosphate group of pyridoxal 5'-phosphate.,,Metabolite
+CHEBI:59776,D-glyceraldehyde 3-phosphate(2-),Dianion of <small>D</small>-glyceraldehyde 3-phosphate arising from deprotonation of both OH groups of the phosphate.,,Metabolite
+CHEBI:59789,S-adenosyl-L-methionine zwitterion,A zwitterionic tautomer of <em>S</em>-adenosyl-<small>L</small>-methionine arising from shift of the proton from the carboxy group to the amino group.,,Ion
+CHEBI:59869,L-alpha-amino acid zwitterion,Zwitterionic form of an <small>L</small>-α-amino acid having an anionic carboxy group and a protonated amino group.,,Ion
+CHEBI:59874,N-acyl-L-alpha-amino acid anion,A carboxylic acid anion that is the conjugate base of an <em>N</em>-acyl-<small>L</small>-α-amino acid arising from deprotonation of the C-1 carboxy group.,,Ion
+CHEBI:59888,gamma-aminobutyric acid zwitterion,Zwitterionic form of γ-aminobutyric acid having an anionic carboxy group and a protonated amino group.,,Ion
+CHEBI:59905,dopaminium(1+),An ammonium ion that is the conjugate acid of dopamine; major species at pH 7.3.,,Metabolite
+CHEBI:59996,"1,2-diacyl-sn-glycerol 3-diphosphate(3-)","Trianion of 1,2-diacyl-<em>sn</em>-glycerol 3-diphosphate arising from deprotonation of the diphosphate OH groups.",,Metabolite
+CHEBI:60000,1-acyl-2-linoleoyl-sn-glycero-3-phosphocholine betaine,The conjugate base of a 1-acyl-2-linoleoyl-<em>sn</em>-glycero-3-phosphocholine compound formed by deprotonation of the phosphate OH group.,,Metabolite
+CHEBI:60007,sulfoglycolithocholate(2-),A steroid sulfate oxoanion and <em>N</em>-acylglycinate that is the dianion of sulfoglycolithocholic acid arising from deprotonation of carboxylic acid and sulfate functions; major species at pH 7.3.,,Metabolite
+CHEBI:60008,glycolithocholate,A <em>N</em>-acylglycinate that is the conjugate base of glycolithocholic acid; major species at pH 7.3.,,Metabolite
+CHEBI:60039,L-proline zwitterion,The zwitterion formed from <small>L</small>-proline by proton transfer from the carboxy group to the ring nitrogen. It is the predominant species at physiological pH.,,Ion
+CHEBI:60050,estrone 3-sulfate(1-),The conjugate base of estrone 3-sulfate; major species at pH 7.3.,,Metabolite
+CHEBI:60065,alpha-N-acetylneuraminosyl-(2->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-N-acylsphingosine(1-),A carbohydrate acid derivative anion that is the conjugate base of α-<em>N</em>-acetylneuraminosyl-(2→3)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-glucosylceramide arising from deprotonation of the neuraminosyl carboxy group; major species at pH 7.3.,,Metabolite
+CHEBI:60119,sphingosine 1-phosphate(1-),The conjugate base of sphingosine 1-phosphate having an anionic phosphate group and a protonated amino group; major species at pH 7.3.,,Metabolite
+CHEBI:60240,divalent metal cation,A metal cation with a valence of two.,,Ion
+CHEBI:60332,alpha-D-mannose 6-phosphate(2-),Dianion of α-<small>D</small>-mannose 6-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:60344,ferroheme b(2-),Dicarboxylate anion of ferroheme <em>b</em>; major species at pH 7.3.,,Cofactor
+CHEBI:60377,cytidine 5'-monophosphate(2-),A pyrimidine nucleoside 5'-monophosphate(2−) that results from the removal of two protons from the phosphate group of cytidine 5'-monophosphate; major species at pH 7.3.,,Metabolite
+CHEBI:606564,prostaglandin E2(1-),The conjugate base of prostaglandin E<small><sub>2</sub></small>; major species at pH 7.3.,,Metabolite
+CHEBI:60837,"2',3'-cyclic GMP(1-)","A 2',3'-cyclic nucleotide(1−) which is obtained from 2',3'-cyclic GMP by removal of a proton from the cyclic phosphate group.",,Metabolite
+CHEBI:61085,3-sulfino-L-alanine(1-),"An α-amino-acid anion that is the conjugate base of 3-sulfino-<small>L</small>-alanine, arising from deprotonation of the sulfino and carboxy groups and protonation of the amino group; major species at pH 7.3.",,Metabolite
+CHEBI:61404,dATP(4-),"A 2'-deoxyribonucleoside 5'-triphosphate(4−) that is the tetraanion of 2'-deoxyadenosine 5'-triphosphate (dATP), arising from deprotonation of the four triphosphate OH groups; major species at pH 7.3.",,Cofactor
+CHEBI:61405,trans-tetradec-2-enoyl-CoA(4-),An acyl-CoA oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of <i>trans</i>-tetradec-2-enoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:61406,trans-dec-2-enoyl-CoA(4-),An acyl-CoA oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of <i>trans</i>-dec-2-enoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:61429,dGTP(4-),"A 2'-deoxyribonucleoside 5'-triphosphate(4−) that is the tetraanion of 2'-deoxyguanosine 5'-triphosphate (dGTP), arising from deprotonation of the four triphosphate OH groups; major species at pH 7.3.",,Cofactor
+CHEBI:61430,decanoyl-CoA(4-),An acyl-CoA(4−) species arising from deprotonation of the phosphate and diphosphate OH groups of decanoyl-CoA.,,Metabolite
+CHEBI:61481,dCTP(4-),A 2'-deoxyribonucleoside 5'-triphosphate(4−) arising from deprotonation of the triphosphate OH groups of 2'-deoxycytidine 5'-triphosphate (dCTP); major species at pH 7.3.,,Metabolite
+CHEBI:61526,(E)-hexadec-2-enoyl-CoA(4-),A hexadecenoyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (<i>E</i>)-hexadec-2-enoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:61540,palmitoleoyl-CoA(4-),A hexadecenoyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of palmitoleyl-CoA.,,Metabolite
+CHEBI:61548,D-glucopyranose 6-phosphate(2-),An organophosphate oxoanion resulting from deprotonation of the phosphate OH groups of <small>D</small>-glucopyranose 6-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:61557,nucleoside 5'-triphoshate(4-),A ribonucleoside triphosphate oxoanion arising from global deprotonation of the  triphosphate groups of any nucleoside triphosphate; major species at pH 7.3.,,Metabolite
+CHEBI:61560,2'-deoxyribonucleoside 5'-triphosphate(4-),A 2'-deoxyribonucleoside triphosphate oxoanion being the tetraanion formed by global deprotonation of the triphosphate group.,,Metabolite
+CHEBI:61694,L-cysteinylglycine zwitterion,The zwitterion of <small>L</small>-cysteinylglycine resulting from the transfer of a proton from the hydroxy group of glycine to the amino group of cysteine. Major microspecies at pH 7.3.,,Neurotransmitter
+CHEBI:61930,N(6)-acetyl-L-lysine residue,An α-amino-acid residue derived from <em>N</em><small><sup>6</small></sup>-acetyl-<small>L</small>-lysine.,,Metabolite
+CHEBI:61963,3-disulfanyl-L-alanine residue,An α-amino-acid residue derived from 3-disulfanyl-<small>L</small>-alanine.,,Metabolite
+CHEBI:61976,"N(6),N(6)-dimethyl-L-lysine(1+) residue","An α-amino-acid residue cation derived from <em>N</em><small><sup>6</small></sup>,<em>N</em><small><sup>6</small></sup>-dimethyl-<small>L</small>-lysine(1+).",,Metabolite
+CHEBI:61977,O-phosphonato-L-threonine(2-) residue,An α-amino-acid residue anion derived from <em>O</em>-phosphonato-<small>L</small>-threonine(2−).,,Metabolite
+CHEBI:61978,O(4)-phosphonato-L-tyrosine(2-) residue,An α-amino-acid residue anion obtained by deprotonation of the phosphate OH groups of <em>O</em><small><sup>4</small></sup>-phospho-<small>L</small>-tyrosine residue; major speices at pH 7.3.,,Metabolite
+CHEBI:62077,trans-hex-2-enoyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of <i>trans</i>-hex-2-enoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:62226,L-selenocystathionine zwitterion,An amino acid zwitterion arising from transfer of two protons from the carboxy to the amino groups of <small>L</small>-selenocystathionine; major species at pH 7.3.,,Ion
+CHEBI:62242,trans-oct-2-enoyl-CoA(4-),"A <i>trans</i>-2,3-didehydroacyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of <i>trans</i>-oct-2-enoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:62613,(S)-3-hydroxypalmitoyl-CoA(4-),An acyl-CoA oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of (<i>S</i>)-3-hydroxypalmitoyl-CoA; principal microspecies at pH 7.3.,,Metabolite
+CHEBI:62617,(S)-3-hydroxyoctanoyl-CoA(4-),An (<i>S</i>)-3-hydroxyacyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of (<i>S</i>)-3-hydroxyoctanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:62619,3-oxooctanoyl-CoA(4-),An acyl-CoA(4−) oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of 3-oxooctanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:62620,hexanoyl-CoA(4-),An acyl-CoA(4−) oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of hexanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:63410,all-trans-retinyl ester,A retintinyl ester in which all double bonds of the retinyl side-chain have <i>trans</i>-configuration.,,Metabolite
+CHEBI:63727,cis-4-hydroxy-L-proline zwitterion,An amino acid zwitterion arising from transfer of a proton from the carboxy to the amino group <i>cis</i>-4-hydroxy-<small>L</small>-proline; major species at pH 7.3.,,Ion
+CHEBI:63867,N-(hexanoyl)sphing-4-enine,An <em>N</em>-acylsphingosine consisting of sphing-4-enine bearing a hexanoyl group on nitrogen.,,Metabolite
+CHEBI:64124,phytosphingosine(1+),"A cationic sphingoid that is the conjugate acid of phytosphingosine, obtained by protonation of the primary amino function; major species at pH 7.3.",,Metabolite
+CHEBI:64294,7-ketocholesterol,A cholestanoid that consists of cholesterol bearing an oxo substituent at position 7.,,Metabolite
+CHEBI:64379,1-acyl-sn-glycero-3-phosphoserine(1-),"A singly-charged anionic phospholipid that is the conjugate base of 1-acyl-<em>sn</em>-glycero-3-phosphoserine, in which the carboxy and phosphate groups are anionic and the amino group is cationic; major species at pH 7.3.",,Metabolite
+CHEBI:64381,1-acyl-sn-glycero-3-phosphoethanolamine zwitterion,A zwitterion obtained by transfer of a proton from the amino to the phosphate group of a 1-acyl-<em>sn</em>-glycero-3-phosphoethanolamine.,,Ion
+CHEBI:64428,H group,An inorganic group that is the substituent group from molecular hydrogen.,,Metabolite
+CHEBI:64489,1-myristoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 14:0 in which the acyl group specified is myristoyl. The major species at pH 7.3.,,Metabolite
+CHEBI:64496,lysophosphatidylcholine O-16:0/0:0,A lysophosphatidylcholine O-16:0e in which the hexadecyl group at C-1 contains 16 carbons of which none are unsaturated.,,Metabolite
+CHEBI:64563,lysophosphatidylcholine 16:0,A lysophosphatidylcholine in which the acyl group has a fully saturated C<small><sub>16</sub></small> chain and is attached to the glycero moiety at either position 1 or 2.,,Metabolite
+CHEBI:64612,"1,2-diacyl-sn-glycero-3-phosphoethanolamine zwitterion",An optically active phosphatidylethanolamine zwitterion having <i>R</i>-configuration,,Ion
+CHEBI:64683,1-acyl-sn-glycerol,A 1-monoglyceride in which the glycerol moiety has <em>sn</em> stereochemistry.,,Metabolite
+CHEBI:64718,L-alaniniumyl group,"The organic cationic group formed from <small>L</small>-alaninium; the major structure at pH 7.3 of the <small>L</small>-alanyl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:64722,L-glutaminiumyl group,"The organic cationic group formed from <small>L</small>-glutaminium; the major structure at pH 7.3 of the <small>L</small>-glutaminyl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:64723,glyciniumyl group,"The organic cationic group formed from glycinium; the major structure at pH 7.3 of the glycyl group, formed by protonation of the amino group.",,Metabolite
+CHEBI:64738,L-seriniumyl group,"The organic cationic group formed from <small>L</small>-serinium; the major structure at pH 7.3 of the <small>L</small>-seryl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:64739,L-threoniniumyl group,"The organic cationic group formed from <small>L</small>-threoninium; the major structure at pH 7.3 of the <small>L</small>-threonyl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:64741,L-valiniumyl group,"The organic cationic group formed from <small>L</small>-valinium; the major structure at pH 7.3 of the <small>L</small>-valyl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:64765,sn-glycero-3-phosphoserine(1-),A glycerol 1-phosphoserine(1−) in which the glycero portion has <i>R</i>-configuration and the serine moiety has <small>L</small>-configuration.,,Metabolite
+CHEBI:64795,phytosphingosine 1-phosphate(1-),An anionic phospholipid obtained by deprotonation of the phosphate OH groups and protonation of the amino group of phytosphingosine 1-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:64839,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphate(2-),An anionic phospholipid obtained by deprotonation of the phosphate OH groups of 1-palmitoyl-2-oleoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:64868,hexacosanoyl-CoA(4-),A saturated fatty acyl-CoA(4−) oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of hexacosanoyl-CoA; the major species at pH 7.3.,,Metabolite
+CHEBI:65052,tetracosanoyl-CoA(4-),A saturated fatty acyl-CoA(4−) oxoanion arising from deprotonation of the phosphate and diphosphate OH groups of tetracosanoyl-CoA. The major species at pH 7.3.,,Metabolite
+CHEBI:65059,docosanoyl-CoA(4-),A saturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of docosanoyl-CoA (behenoyl-CoA); major species at pH 7.3.,,Metabolite
+CHEBI:65073,C20 3-dehydrosphinganine(1+),"A cationic sphingoid that is the conjugate acid of C<small><sub>20</sub></small> 3-dehydrosphinganine, obtained by protonation of the primary amino function; major species at pH 7.3.",,Metabolite
+CHEBI:65211,"1,2-dilauroyl-sn-glycero-3-phosphocholine",A phosphatidylcholine 24:0 in which the acyl groups at positions 1 and 2 are specified as lauroyl (dodecanoyl).,,Metabolite
+CHEBI:65250,L-cysteiniumyl group,"The organic cationic group formed from <small>L</small>-cysteinium; the major structure at pH 7.3 of the <small>L</small>-cystyl group, formed by protonation of the α-amino group.",,Metabolite
+CHEBI:65280,N(omega)-methyl-argininium(1+) residue,An α-amino-acid residue cation residue derived from <em>N</em><small><sup>ω</small></sup>-methyl-arginine.,,Metabolite
+CHEBI:65286,L-tyrosine-O-sulfate(1-) residue,An α-amino-acid residue anion obtained by removal of a proton form the sulfate group of <small>L</small>-tyrosine-<em>O</em>-sulfate residue.,,Metabolite
+CHEBI:65296,primary ammonium ion,An ammonium ion derivative resulting from the protonation of the nitrogen atom of a primary amino compound. Major species at pH 7.3.,,Ion
+CHEBI:65341,5-HETE(1-),"An unsaturated fatty acid anion that is the conjugate base of 5-hydroxy-6<i>E</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>-icosatetraenoic acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:66914,UDP-alpha-D-galactose(2-),A UDP-<small>D</small>-galactose(2−) in which the anomeric centre of the galactose moiety has α-configuration.,,Metabolite
+CHEBI:66954,"2',3'-cyclic nucleotide(1-)","An organophosphate oxoanion obtained by deprotonation of the phosphate OH group of any 2',3'-cyclic nucleotide.",,Metabolite
+CHEBI:67021,N-docosanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as docosanoyl (behenoyl).,,Metabolite
+CHEBI:67027,N-eicosanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as eicosanoyl,,Metabolite
+CHEBI:67033,N-octodecanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as octadecanoyl (stearoyl).,,Metabolite
+CHEBI:67042,N-hexadecanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as hexadecanoyl (palmitoyl).,,Metabolite
+CHEBI:67045,N-tetradecanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as tetradecanoyl (myristoyl).,,Metabolite
+CHEBI:67111,N-acyl-1-deoxysphinganine,A ceramide which consists of 1-deoxysphinganine in which one of the hydrogens of the amino group is substituteby a fatty acyl group.,,Metabolite
+CHEBI:67138,UDP-N-acetyl-alpha-D-galactosamine(2-),A UDP-<em>N</em>-acetyl-<small>D</small>-galactosamine(2−) in which the anomeric centre of the galactosamine moiety has α-configuration; major species at pH 7.3.,,Metabolite
+CHEBI:67143,pppA2'p5'A2'p5'A,An oligonucleotide comprised of three adenosine residues linked 2'→5' and with a triphosphate group at the 5' terminus.,,Metabolite
+CHEBI:68688,"alpha-D-ribose 1,5-bisphosphate(4-)","A <small>D</small>-ribose 1,5-diphosphate(4−) in which the anomeric centre has α-configuration.",,Metabolite
+CHEBI:70975,heparan sulfate alpha-D-glucosaminide 3-sulfate polyanion,A carbohydrate acid derivative anion arising from deprotonation of the carboxylic acid and sulfate groups of the repeating units of heparan sulfate α-<small>D</small>-glucosaminide 3-sulfate; major species at pH 7.3.,,Ion
+CHEBI:71007,3-dehydrohexadecasphinganine(1+),"A cationic sphingoid that is the conjugate acid of 3-dehydrohexadecasphinganine, obtained by protonation of the primary amino function; major species at pH 7.3.",,Metabolite
+CHEBI:71008,3-dehydrotetradecasphinganine(1+),"A cationic sphingoid that is the conjugate acid of 3-dehydrotetradecasphinganine, obtained by protonation of the primary amino function; major species at pH 7.3.",,Metabolite
+CHEBI:71009,hexadecasphinganine(1+),"A cationic sphingoid that is the conjugate acid of hexadecasphinganine, obtained by protonation of the primary amino function; major species at pH 7.3.",,Metabolite
+CHEBI:71201,xanthurenate,"A quinolinemonocarboxylate that is the conjugate base of xanthurenic acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:71406,(R)-adrenaline(1+),"An organic cation that is the conjugate acid of (<i>R</i>)-adrenaline, obtained by protonation of the amino group; major species at pH 7.3.",,Metabolite
+CHEBI:71464,palmitoyl ethanolamide,An <em>N</em>-(long-chain-acyl)ethanolamine that is the ethanolamide of palmitic (hexadecanoic) acid.,,Metabolite
+CHEBI:71465,palmitoleoyl ethanolamide,An <em>N</em>-acylethanolamine 16:1 that is the ethanolamide of palmitoleic acid.,,Metabolite
+CHEBI:71466,oleoyl ethanolamide,An <em>N</em>-(long-chain-acyl)ethanolamine that is the ethanolamide of oleic acid. The monounsaturated analogue of the endocannabinoid anandamide.,,Metabolite
+CHEBI:71489,"(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA(4-)","An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of (6<i>Z</i>,9<i>Z</i>,12<i>Z</i>,15<i>Z</i>)-octadecatetraenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:71589,"all-cis-icosa-8,11,14-trienoate","An unsaturated fatty acid anion that is the conjugate base of <i>all</i>-<i>cis</i>-icosa-8,11,14-trienoic acid arising from deprotonation of the carboxy group.",,Metabolite
+CHEBI:72587,(R)-noradrenaline(1+),"An organic cation that is the conjugate acid of (<i>R</i>)-noradrenaline, obtained by protonation of the primary amino group; major species at pH 7.3.",,Metabolite
+CHEBI:72683,1-myristoyl-sn-glycerol 3-phosphate(2-),An anionic phospholipid obtained by deprotonation of the phosphate OH groups of 1-myristoyl-<em>sn</em>-glycerol 3-phosphate.,,Metabolite
+CHEBI:72745,(E)-hexadec-2-enoate,"A straight-chain unsaturated fatty acid anion that is the conjugate base of (<i>E</i>)-hexadec-2-enoic acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:72859,"1,2-dihexadecanoyl-sn-glycerol-3-phosphate(2-)",A 1-acyl-2-hexadecanoyl-<em>sn</em>-glycero-3-phosphate(2−) in which the 1-acyl group is also hexadecanoyl; major species at pH 7.3.,,Metabolite
+CHEBI:72860,"1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and 9<i>Z</i>,12<i>Z</i>-octadecadienoyl (linoleoyl) respectively; major species at pH 7.3.",,Metabolite
+CHEBI:72864,"1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and 5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>-eicosatetraenoyl (arachidonoyl) respectively; major species at pH 7.3.",,Metabolite
+CHEBI:72956,N-dodecanoylsphingosine,A <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as dodecanoyl (lauroyl).,,Metabolite
+CHEBI:72957,N-tetradecanoylsphingosine,A <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as tetradecanoyl (myristoyl).,,Metabolite
+CHEBI:72959,N-hexadecanoylsphingosine,A <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as hexadecanoyl (palmitoyl).,,Metabolite
+CHEBI:72961,N-octadecanoylsphingosine,A <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as octadecanoyl (stearoyl).,,Metabolite
+CHEBI:72998,1-hexadecanoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 16:0 in which a hexadecanoyl (palmitoyl) group is attached to the glycero moiety at position 1.,,Metabolite
+CHEBI:72999,"1,2-dihexadecanoyl-sn-glycero-3-phosphocholine",A phosphatidylcholine 32:0 in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl). A synthetic phospholipid used in liposomes and lipid bilayers to study biological membranes. It is also a major constituent of pulmonary surfactants.,,Metabolite
+CHEBI:73000,1-hexadecanoyl-2-octadecanoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 34:0 in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and octadecanoyl (stearoyl) respectively.,,Metabolite
+CHEBI:73001,1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine,A phosphatidylcholine 34:1 in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and 9Z-octadecenoyl (oleoyl) respectively.,,Metabolite
+CHEBI:73002,"1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphocholine","A phosphatidylcholine 34:2 in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and 9<i>Z</i>,12<i>Z</i>-octadecadienoyl (linoleoyl) respectively.",,Metabolite
+CHEBI:73003,1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,"A phosphatidylcholine 36:4 in which the 1- and 2-acyl groups are specified as hexadecanoyl (palmitoyl) and 5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>-eicosatetraenoyl (arachidonoyl) respectively.",,Metabolite
+CHEBI:73004,1-hexadecanoyl-sn-glycero-3-phosphoethanolamine zwitterion,A lysophosphatidylethanolamine zwitterion 16:0 obtained by transfer of a proton from the phosphate to the amino group of 1-hexadecanoyl-<em>sn</em>-glycero-3-phosphoethanolamine.,,Ion
+CHEBI:73009,"1-hexadecanoyl-2-(5Z,8Z,11Z,14Z-icosatetraenoyl)-sn-glycero-3-phosphoethanolamine zwitterion","A phosphatidylethanolamine 36:4 zwitterion obtained by transfer of a proton from the phosphate to the amino group of 1-hexadecanoyl-2-(5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>-eicosatetraenoyl)-<em>sn</em>-glycero-3-phosphoethanolamine.",,Ion
+CHEBI:732,5beta-dihydrocortisol,A 17α-hydroxy-C<small><sub>21</sub></small>-steroid that is cortisol in which the 4-5 double bond has undergone formal hydrogenation to give the corresponding 5β- steroid.,,Metabolite
+CHEBI:73316,2'-deoxyribonucleoside 5'-diphosphate(3-),An organophosphate oxoanion formed by deprotonation of the diphosphate OH groups of any 2'-deoxynucleoside 5'-diphosphate.,,Metabolite
+CHEBI:73852,"(7Z,10Z,13Z,16Z)-3-oxodocosatetraenoyl-CoA(4-)","A 3-oxo-fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>)-3-oxodocosatetraenoyl-CoA.",,Metabolite
+CHEBI:73856,"(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>)-docosatetraenoyl-CoA; Major species at pH 7.3.",,Metabolite
+CHEBI:73857,"(9Z,12Z,15Z,18Z)-3-oxotetracosatetraenoyl-CoA(4-)","A 3-oxo-fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (9<i>Z</i>,12<i>Z</i>,15<i>Z</i>,18<i>Z</i>)-3-oxotetracosatetraenoyl-CoA.",,Metabolite
+CHEBI:73858,1-stearoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 18:0 in which the acyl substituent is located at position 1 and is specified as stearoyl.,,Metabolite
+CHEBI:7386,4-acetamidobutanal,,,Metabolite
+CHEBI:73862,"(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA(4-)","An acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>,17<i>Z</i>)-icosapentaenoyl-CoA.",,Metabolite
+CHEBI:73863,"(7Z,10Z,13Z,16Z,19Z)-3-oxodocosapentaenoyl-CoA(4-)","A 3-oxo-fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-3-oxodocosapentaenoyl-CoA.",,Metabolite
+CHEBI:73870,"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosapentaenoyl-CoA.",,Metabolite
+CHEBI:73871,"(9Z,12Z,15Z,18Z,21Z)-3-oxotetracosapentaenoyl-CoA(4-)","A 3-oxo-fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (9<i>Z</i>,12<i>Z</i>,15<i>Z</i>,18<i>Z</i>,21<i>Z</i>)-3-oxotetracosapentaenoyl-CoA.",,Metabolite
+CHEBI:73990,2-oleoylglycerol,A 2-monoglyceride where the acyl group is (9<i>Z</i>)-octadecenoyl.,,Metabolite
+CHEBI:74000,1-palmitoyl-2-palmitoleoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 32:1 in which the acyl groups at C-1 and C-2 are hexadecanoyl and (9<i>Z</i>)-hexadec-9-enoyl respectively.,,Metabolite
+CHEBI:74034,alpha-linolenoyl-CoA(4-),An octadecatrienoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of α-linolenoyl-CoA.,,Metabolite
+CHEBI:74083,"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (9<i>Z</i>,12<i>Z</i>,15<i>Z</i>,18<i>Z</i>,21<i>Z</i>)-tetracosapentaenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:74086,"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA(4-)","An acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (6<i>Z</i>,9<i>Z</i>,12<i>Z</i>,15<i>Z</i>,18<i>Z</i>,21<i>Z</i>)-tetracosahexaenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:74151,S-palmitoyl-L-cysteine residue,An α-amino-acid residue derived from <em>S</em>-palmitoyl-<small>L</small>-cysteine.,,Metabolite
+CHEBI:74264,"(8Z,11Z,14Z)-icosatrienoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (8<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-icosatrienoyl-CoA.",,Metabolite
+CHEBI:74265,"(8Z,11Z,14Z,17Z)-icosatetraenoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (8<i>Z</i>,11<i>Z</i>,14<i>Z</i>,17<i>Z</i>)-icosatetraenoyl-CoA.",,Metabolite
+CHEBI:74296,(11E)-octadecenoyl-CoA(4-),An octadecenoyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (11<i>E</i>)-octadecenoyl-CoA.,,Metabolite
+CHEBI:74328,"(11Z,14Z,17Z)-icosatrienoyl-CoA(4-)","A polyunsaturated fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of (11<i>Z</i>,14<i>Z</i>,17<i>Z</i>)-icosatrienoyl-CoA.",,Metabolite
+CHEBI:74339,(6Z)-hexadecenoyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of (6<i>Z</i>)-hexadecenoyl-CoA.,,Metabolite
+CHEBI:74359,L-alpha-aminobutyrate zwitterion,An <small>L</small>-α-amino acid zwitterion that is <small>L</small>-α-aminobutyric acid in which a proton has been transferred from the carboxy group to the amino group. It is the major species at pH 7.3.,,Ion
+CHEBI:74450,N-(15Z)-tetracosenoylsphingosine,An <em>N</em>-tetracosenoylsphingosine in which the double bond in the ceramide acyl group is located at position 15 (the <i>Z</i>-geoisomer.,,Metabolite
+CHEBI:74475,hexadecanamide,A fatty amide that is the carboxamide derived from palmitic acid.,,Metabolite
+CHEBI:74544,1-oleoyl-sn-glycero-3-phosphate(2-),A 1-acyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-oleoyl-<em>sn</em>-glycero-3-phosphate.,,Metabolite
+CHEBI:74546,"1,2-dioleoyl-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1,2-dioleoyl-<em>sn</em>-glycero-3-phosphate.",,Metabolite
+CHEBI:74551,1-oleoyl-2-palmitoyl-sn-glycero-3-phosphate(2-),A 1-acyl-2-hexadecanoyl-<em>sn</em>-glycero-3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-oleoyl-2-palmitoyl-<em>sn</em>-glycero-3-phosphate.,,Metabolite
+CHEBI:74560,1-stearoyl-2-oleoyl-sn-glycero-3-phosphate(2-),"A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-2-oleoyl-<em>sn</em>-glycero-3-phosphate.",,Metabolite
+CHEBI:74563,1-oleoyl-2-linoleoyl-sn-glycero-3-phosphate(2-),"A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-oleoyl-2-linoleoyl-<em>sn</em>-glycero-3-phosphate.",,Metabolite
+CHEBI:74565,1-stearoyl-sn-glycero-3-phosphate(2-),A 1-acyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-<em>sn</em>-glycero-3-phosphate.,,Metabolite
+CHEBI:74617,1-oleoyl-sn-glycero-3-phosphoserine(1-),A 1-acyl-sn-glycero-3-phosphoserine(1−) that is the conjugate base of 1-oleoyl-<em>sn</em>-glycero-3-phosphoserine.,,Metabolite
+CHEBI:7466,nandrolone,A 3-oxo Δ<small><sup>4</small></sup>-steroid that is estr-4-en-3-one substituted by a β-hydroxy group at position 17.,,Metabolite
+CHEBI:74667,1-oleoyl-2-palmitoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 34:1 in which the two acyl substituents at positions 1 and 2 are specified as oleoyl and palmitoyl respectively.,,Metabolite
+CHEBI:74669,"1,2-dioleoyl-sn-glycero-3-phosphocholine",A phosphatidylcholine 36:2 in which the phosphatidyl acyl groups at positions 1 and 2 are both oleoyl.,,Metabolite
+CHEBI:74670,1-oleoyl-2-linoleoyl-sn-glycero-3-phosphocholine,A  phosphatidylcholine 36:3 in which the two acyl substituents at positions 1 and 2 are specified as oleoyl and linoleoyl respectively.,,Metabolite
+CHEBI:74671,1-oleoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 38:5 in which the two acyl substituents at positions 1 and 2 are specified as oleoyl and arachidonoyl respectively.,,Metabolite
+CHEBI:74892,1-oleoyl-2-linoleoyl-sn-glycero-3-phospho-L-serine(1-),"A phosphatidylserine 36:3 that is the conjugate base of 1-oleoyl-2-linoleoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:74897,1-oleoyl-2-arachidonoyl-sn-glycero-3-phospho-L-serine(1-),"A phosphatidylserine 38:5 that is the conjugate base of 1-oleoyl-2-arachidonoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:74905,"1,2-dioleoyl-sn-glycero-3-phospho-L-serine(1-)","A phosphatidylserine 36:2 that is the conjugate base of 1,2-dioleoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:74928,1-oleoyl-2-arachidonoyl-sn-glycero-3-phosphate(2-),,,Metabolite
+CHEBI:74938,1-arachidonoyl-sn-glycerol 3-phosphate(2-),A 1-acyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-arachidonoyl-<em>sn</em>-glycero-3-phosphate.,,Metabolite
+CHEBI:74965,1-stearoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 38:4 in which the two acyl substituents at positions 1 and 2 are specified as stearoyl and arachidonoyl respectively.,,Metabolite
+CHEBI:74966,1-lauroyl-sn-glycero-3-phosphocholine,A 1-<em>O</em>-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as lauroyl (dodecanoyl),,Metabolite
+CHEBI:74967,1-lauroyl-2-arachidonoyl-sn-glycero-3-phosphocholine,"A 1,2-diacyl-<em>sn</em>-glycero-3-phosphocholine in which the two acyl substituents at positions 1 and 2 are specified as lauroyl and arachidonoyl respectively.",,Metabolite
+CHEBI:74968,1-icosanoyl-sn-glycero-3-phosphocholine,A 1-<em>O</em>-acyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl group is specified as icosanoyl.,,Metabolite
+CHEBI:74970,1-icosanoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 40:4 in which the two acyl substituents at positions 1 and 2 are specified as icosanoyl and arachidonoyl respectively.,,Metabolite
+CHEBI:74971,1-oleoyl-sn-glycero-3-phosphoethanolamine zwitterion,A 1-acyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion obtained by transfer of a proton from the amino to the phosphate group of 1-oleoyl-<em>sn</em>-glycero-3-phosphoethanolamine.,,Ion
+CHEBI:74975,1-oleoyl-2-arachidonoyl-sn-glycerol-3-phosphoethanolamine zwitterion,A phosphatidylethanolamine 38:5 obtained by transfer of a proton from the amino to the phosphate group of 1-oleoyl-2-arachidonoyl-<em>sn</em>-glycerol-3-phosphoethanolamine.,,Ion
+CHEBI:74977,1-oleoyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine zwitterion,A phosphatidylethanolamine 36:3 obtained by transfer of a proton from the amino to the phosphate group of 1-oleoyl-2-linoleoyl-<em>sn</em>-glycerol-3-phosphoethanolamine.,,Ion
+CHEBI:75017,1-lauroyl-2-palmitoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 28:0 in which the two acyl substituents at positions 1 and 2 are specified as lauroyl and palmitoyl respectively.,,Metabolite
+CHEBI:75018,1-palmitoyl-2-lauroyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 28:0 in which the two acyl substituents at positions 1 and 2 are specified as palmitoyl and lauroyl respectively.,,Metabolite
+CHEBI:75020,1-palmitoyl-sn-glycero-3-phosphoserine(1-),A 1-acyl-<em>sn</em>-glycero-3-phosphoserine(1−) that is the conjugate base of 1-palmitoyl-<em>sn</em>-glycero-3-phosphoserine.,,Metabolite
+CHEBI:75026,1-stearoyl-2-palmitoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 34:0 in which the two acyl substituents at positions 1 and 2 are specified as stearoyl and palmitoyl respectively.,,Metabolite
+CHEBI:75029,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoserine(1-),"A phosphatidylserine 34:1 that is the conjugate base of 1-palmitoyl-2-oleoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:75031,1-palmitoyl-2-linoleoyl-sn-glycero-3-phosphoserine(1-),"A phosphatidylserine 34:2 that is the conjugate base of 1-palmitoyl-2-linoleoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:75032,1-palmitoyl-2-arachidonoyl-sn-glycero3-phosphoserine(1-),"A phosphatidylserine 36:4 that is the conjugate base of 1-palmitoyl-2-arachidonoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:75062,1-myristoyl-2-palmitoyl-sn-glycero-3-phosphocholine,A phosphatidylcholine 30:0 in which the phosphatidyl acyl groups at positions 1 and 2 are myristoyl (tetradecanoyl) and palmitoyl (hexadecanoyl) respectively.,,Metabolite
+CHEBI:75063,1-acyl-2-arachidonoyl-sn-glycero-3-phosphocholine,"A 1,2-diacyl-<em>sn</em>-glycero 3-phosphocholine in which the acyl group at position 1 is unspecified while that at position 2 is specified as arachidonoyl",,Metabolite
+CHEBI:75065,1-acyl-2-arachidonoyl-sn-glycero-3-phosphoserine(1-),"A 3-<em>sn</em>-phosphatidyl-<small>L</small>-serine(1−) that is the conjugate base of 1-acyl-2-arachidonoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:75066,1-acyl-2-linoleoyl-sn-glycero-3-phosphoserine(1-),"A 3-<em>sn</em>-phosphatidyl-<small>L</small>-serine(1−) that is the conjugate base of 1-acyl-2-linoleoyl-<em>sn</em>-glycero-3-phospho-<small>L</small>-serine, in which the carboxy and phosphate groups are anionic and the amino group is cationic.",,Metabolite
+CHEBI:75067,1-acyl-2-arachidonoyl-sn-glycero-3-phosphoethanolamine zwitterion,"1,2-diacyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion in which the acyl group at position 1 is unspecified while that at position 2 is specified as arachidonoyl",,Ion
+CHEBI:75069,1-acyl-2-linoleoyl-sn-glycero-3-phosphoethanolamine zwitterion,"A 1,2-diacyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion in which the acyl group at position 1 is unspecified while that at position 2 is specified as linoleoyl",,Ion
+CHEBI:75342,1-oleoylglycerol,A 1-monoglyceride where the acyl group is oleoyl.,,Metabolite
+CHEBI:75448,1-oleoyl-2-stearoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol where oleoyl and stearoyl are the 1- and 2-acyl groups respectively.",,Metabolite
+CHEBI:75449,1-oleoyl-2-arachidonoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol where oleoyl and arachidonoyl are the 1- and 2-acyl groups respectively.",,Metabolite
+CHEBI:75450,1-oleoyl-2-linoleoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol where oleoyl and linoleoyl are the 1- and 2-acyl groups respectively.",,Metabolite
+CHEBI:75456,2-stearoylglycerol,A 2-monoglyceride where the acyl group is octadecanoyl (stearoyl).,,Metabolite
+CHEBI:75457,2-linoleoylglycerol,A 2-monoglyceride where linoleoyl forms the 2-acyl group.,,Metabolite
+CHEBI:75466,1-palmitoyl-2-oleoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol with palmitoyl as the 1-acyl group and oleoyl as the 2-acyl group.",,Metabolite
+CHEBI:75468,1-octadecanoyl-2-[(9Z)-octadecenoyl]-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol that has stearoyl and oleoyl as the 1- and 2-acyl groups respectively.",,Metabolite
+CHEBI:75536,1-myristoyl-sn-glycerol,A 1-acyl-<em>sn</em>-glycerol that is the <i>S</i>-enantiomer of 1-myristoyl glycerol.,,Metabolite
+CHEBI:75542,1-hexadecanoyl-sn-glycerol,A 1-acyl-<em>sn</em>-glycerol that has hexadecanoyl (palmitoyl) as the 1-acyl group.,,Metabolite
+CHEBI:75550,1-stearoyl-sn-glycerol,A 1-acyl-<em>sn</em>-glycerol that has octadecanoyl (stearoyl) as the 1-acyl group.,,Metabolite
+CHEBI:75728,1-stearoyl-2-arachidonoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specifed as stearoyl and arachidonoyl respectively.",,Metabolite
+CHEBI:75735,"1,3-dioleoylglycerol","A 1,3-diglyceride with both acyl groups specified as oleoyl.",,Metabolite
+CHEBI:75757,1-oleoyl-sn-glycerol,A 1-acyl-<em>sn</em>-glycerol in which the acyl group is specified as oleoyl.,,Metabolite
+CHEBI:75824,"2,3-dioleoyl-sn-glycerol","A 2,3-diacyl-<em>sn</em>-glycerol in which the 2- and 3-acyl groups are both specified as oleoyl.",,Metabolite
+CHEBI:75913,2-arachidonyl glyceryl ether,"A monoalkylglycerol that is glycerol which is substituted by a (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-icosa-5,8,11,14-tetraen-1-yl group at position 2.",,Metabolite
+CHEBI:75914,1-oleoyl-2-O-arachidonyl-sn-glycerol,A monoglyceride that is 1-oleoyl-<em>sn</em>-glycerol in which the hydroxyl hydrogen at position 2 is replaced by an arachidonyl group.,,Metabolite
+CHEBI:75927,(R)-2-hydroxyhexadecanoate,The <i>R</i>-enantiomer of 2-hydroxyhexadecanoate.,,Metabolite
+CHEBI:75935,(R)-2-hydroxylignocerate,"A hydroxy fatty acid anion that is the conjugate base of (<i>R</i>)-2-hydroxylignoceric acid, obtained by deprotonation of the carboxy group.",,Metabolite
+CHEBI:75938,3-oleoyl-sn-glycerol,A 3-acyl-<em>sn</em>-glycerol in which the acyl group is (9<i>Z</i>)-octadec-9-enoyl.,,Metabolite
+CHEBI:75945,dioleoylglycerol,"A diglyceride in which both groups are oleoyl with their positions of acylation unspecified. Formula C<small><sub>39</sub></small>H<small><sub>72</sub></small>O<small><sub>5</sub></small>. For the structure shown, either R1 = H and R2 = oleoyl or R1 = oleoyl and R2 = H.",,Metabolite
+CHEBI:76078,2-palmitoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 16:0 in which the acyl group is specified as palmitoyl (hexadecanoyl) and is located at position 2.,,Metabolite
+CHEBI:76079,2-arachidonoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 20:4 in which the acyl group is specified as arachidonoyl and is located at position 2.,,Metabolite
+CHEBI:76083,oleoyl-sn-glycero-3-phosphocholine,A lysophosphatidylcholine 18:1 in which the acyl group is specified as oleoyl and is located at either position 1 or 2.,,Metabolite
+CHEBI:76091,2-arachidonoyl-sn-glycero-3-phosphoethanolamine zwitterion,A 2-acyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion obtained by transfer of a proton from the phosphate to the amino group of 2-arachidonoyl-<em>sn</em>-glycero-3-phosphoethanolamine; major species at pH 7.3.,,Ion
+CHEBI:76177,(2R)-2-hydroxy fatty acid anion,A 2-hydroxy fatty acid anion obtained by deprotonation of the carboxy group of any (<i>R</i>)-2-hydroxy fatty acid.,,Ion
+CHEBI:76202,"riboflavin cyclic 4',5'-phosphate(2-)","An organophosphate oxoanion obtained by deprotonation of the phosphate and imido groups of riboflavin cyclic-4',5'-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:76410,"(11Z,14Z)-icosadienoyl-CoA(4-)","A polyunsaturated fatty acyl CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of (11<i>Z</i>,14<i>Z</i>)-icosadienoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:76478,dibutyrin,"A diglyceride resulting from the formal condensation of any two of the hydroxy groups of glycerol with the carboxy groups of two molecules of butanoic acid (either R1 = H and R2 = butanoyl, or R1 = butanoyl and R2 = H). A 'closed class'.",,Metabolite
+CHEBI:76591,"(25R)-cholest-5-ene-3beta,26-diol",A 26-hydroxycholesterol in which the 25-position has <i>R</i>-configuration.,,Metabolite
+CHEBI:76625,"11,12-EET(1-)","A polyunsaturated fatty acid anion that is the conjugate base of 11,12-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:76722,2-hydroxybehenate,"A 2-hydroxy fatty acid anion that is the conjugate base of 2-hydroxybehenic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:76941,sphingoid 1-phosphate(1-),"A generic class of anionic phospholipids, encompassing phosphorylated derivatives of sphinganine, its homologues and stereoisomers, as well as the hydroxy and unsaturated derivatives of these compounds.",,Metabolite
+CHEBI:76979,"1,2-dioctanoyl-sn-glycerol","1,2-diacyl-<em>sn</em>-glycerol in which both the 1- and 2-acyl groups are specified as octanoyl. Formula C<small><sub>19</sub></small>H<small><sub>36</sub></small>O<small><sub>5</sub></small>.",,Metabolite
+CHEBI:77016,"(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoate","A polyunsaturated fatty acid anion that is the conjugate base of (4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:77091,1-stearoyl-2-arachidonoyl-sn-glycero-3-phosphate(2-),A  1-acyl-2-arachidonoyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-2-arachidonoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:77096,1-palmitoyl-2-arachidonoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specified as palmitoyl and arachidonoyl respectively.",,Metabolite
+CHEBI:77097,1-stearoyl-2-linoleoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specified as stearoyl and linoleoyl respectively.",,Metabolite
+CHEBI:77098,1-stearoyl-2-linoleoyl-sn-glycero-3-phosphate(2-),A 1-acyl-2-linoleoyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-2-linoleoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:77125,"1,2-diarachidonoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which both the acyl groups are specified as arachidonoyl.",,Metabolite
+CHEBI:77126,"1,2-diarachidonoyl-sn-glycero-3-phosphate(2-)","A 1-acyl-2-arachidonoyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1,2-diarachidonoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:77127,"1,2-dilinoleoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which both acyl groups are specified as linoleoyl.",,Metabolite
+CHEBI:77128,"1,2-dilinoleoyl-sn-glycero-3-phosphate(2-)","A 1-acyl-2-linoleoyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1,2-dilinoleoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:77129,"1-stearoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specified as stearoyl and (4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoyl respectively.",,Metabolite
+CHEBI:77130,"1-stearoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-2-(4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:77137,"1-stearoyl-2-arachidonoyl-sn-glycero-3-phospho-1D-myo-inositol 4,5-biphosphate(5-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 4,5-bisphosphate(5−) obtained by deprotonation of the phosphate OH groups of 1-stearoyl-2-arachidonoyl-<em>sn</em>-glycero-3-phospho-1<small>D</small>-<em>myo</em>-inositol 4,5-bisphosphate; major species at pH 7.3.",,Metabolite
+CHEBI:77220,"(11Z,14Z)-icosadienoate","A polyunsaturated fatty acid anion that is the conjugate base of (11<i>Z</i>,14<i>Z</i>)-icosadienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:77223,"(11Z,14Z,17Z)-icosatrienoate","A polyunsaturated fatty acid anion that is the conjugate base of (11<i>Z</i>,14<i>Z</i>,17<i>Z</i>)-icosatrienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:77224,"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoate","A polyunsaturated fatty acid anion that is the conjugate base of (7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosapentaenoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:77250,pristanoyl-CoA(4-),A multi-methyl-branched fatty acyl-CoA(4-) oxanion arising from deprotonation of the phosphate and diphosphate OH groups of pristanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:77268,pristanate,"A methyl-branched fatty acid anion that is the conjugate base of pristanic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:77288,1-(Z)-alk-1-enyl-sn-glycero-3-phosphoethanolamine zwitterion,A 1-(alk-1-enyl)-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion in which the alkenyl group has <i>Z</i> geochemistry.,,Ion
+CHEBI:77295,1-(Z)-alk-1-enyl-2-arachidonoyl-sn-glycero-3-phosphoethanolamine zwitterion,A 1-(alk-1-enyl)-2-arachidonoyl-<em>sn</em>-glycero-3-phosphoethanolamine zwitterion in which the alk-1-enyl group has <i>Z</i> geochemistry.,,Ion
+CHEBI:77537,trans-9-octadecenoyl-CoA(4-),An octadecenoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate functions of <i>trans</i>-9-octadecenoyl-CoA; major species at p 7.3.,,Metabolite
+CHEBI:77580,1-hexadecyl-sn-glycero-3-phosphate(2-),A 1-alkyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-hexadecyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:77636,fatty acyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of any fatty acyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:77717,"2,2'-lysobisphosphatidate",A lysobisphosphatidate carrying the fatty acyl groups at positions <em>sn</em>-3 and <em>sn</em>-3' of glycerol.,,Metabolite
+CHEBI:77786,1-hexadecyl-2-ammonio-2-deoxy-sn-glycerol,An organic cation obtained by protonation of the amino group of 1-hexadecyl-2-amino-2-deoxy-<em>sn</em>-glycerol; major species at pH 7.3.,,Metabolite
+CHEBI:77787,1-O-palmityl-2-desoxy-2-amino-sn-glycero-3-phosphate(1-),An anionic phospholipid that is the conjugate base of 1-<em>O</em>-palmityl-2-desoxy-2-amino-<em>sn</em>-glycero-3-phosphate.,,Metabolite
+CHEBI:77852,9(S)-HODE(1-),A hydroxy fatty acid anion obtained by deprotonation of the carboxy group of 9(<i>S</i>)-HODE; major species at pH 7.3.,,Metabolite
+CHEBI:77891,"N-[omega-(9R,10R)-epoxy-(13R)-hydroxy-(11E)-octadecenoyloxy]sphing-4-enine","An <em>N</em>-[ω-(acylyloxy)]acylsphin-4-enine in which the ω-<em>O</em>-acyl group is specified as  (9<i>R</i>,10<i>R</i>)-epoxy-(13<i>R</i>)-hydroxy-(11<i>E</i>)-octadecenoyl (R represents a very long chain acyl group).",,Metabolite
+CHEBI:77892,"N-[omega-(9R,10R)-epoxy-13-keto-(11E)-octadecenoyloxy]sphing-4-enine","An <em>N</em>-[ω-(acylyloxy)]acylsphin-4-enine in which the ω-<em>O</em>-acyl group is specified as (9<i>R</i>,10<i>R</i>)-epoxy-13-keto-(11<i>E</i>)-octadecenoyl (R represents a very long chain acyl group).",,Metabolite
+CHEBI:77895,9(R)-HODE(1-),A hydroxy fatty acid anion obtained by deprotonation of the carboxy group of 9(<i>R</i>)-HODE; major species at pH 7.3.,,Metabolite
+CHEBI:77996,N-oleoylsphingosine,A <em>N</em>-acylsphingosine in which the ceramide <em>N</em>-acyl group is specified as oleoyl.,,Metabolite
+CHEBI:78001,N-dodecanoylphytosphingosine,A phytoceramide in which the ceramide <em>N</em>-acyl group is specified as dodecanoyl.,,Metabolite
+CHEBI:78033,methyl arachidonate,A fatty acid methyl ester resulting from the formal condensation of the carboxy group of arachidonic acid with methanol.,,Metabolite
+CHEBI:78084,hepoxilin B3(1-),"A hepoxilin anion that is the conjugate base of hepoxilin B<small><sub>3</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78099,trioxilin B3(1-),The trioxilin anion that is the anion formed from trioxilin B<small><sub>3</sub></small> by deprotonation of its carboxylic acid moiety; major microspecies present at pH 7.3.,,Metabolite
+CHEBI:78100,trioxilin A3(1-),The trioxilin anion that is the anion formed from trioxilin A<small><sub>3</sub></small> by deprotonation of its carboxylic acid moiety; major microspecies present at pH 7.3.,,Metabolite
+CHEBI:78228,"1,2-dioctanoyl-sn-glycero-3-phosphocholine","A 1,2-diacyl-<em>sn</em>-glycero-3-phosphocholine in which the acyl groups at positions 1 and 2 are specified as octanoyl.",,Metabolite
+CHEBI:78229,"1,2-dioctanoyl-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1,2-dioctanoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:78385,1-palmityl-2-acetyl-sn-glycero-3-phosphate(2-),A 1-alkyl-2-acyl-<em>sn</em>-glycero-3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1-palmityl-2-acetyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.,,Metabolite
+CHEBI:78436,ganglioside GD3(2-),A carbohydrate acid derivative dianion that is the conjugate base of the ganglioside GD3 arising from deprotonation of the neuraminosyl carboxy groups; major species at pH 7.3.,,Metabolite
+CHEBI:78442,AMP 3'-end(1-) residue,A 3'-end ribonucleotide(1−) residue obtained by deprotonation of the phosphate OH group of 3'-end AMP residue; major species at pH 7.3.,,Metabolite
+CHEBI:78528,3'-(L-isoleucyl)adenylyl zwitterionic group,A zwitterionic group obtained by transfer of a proton from the phosphate to the amino group of 3'-(<small>L</small>-isoleucyl)adenylyl group,,Ion
+CHEBI:78531,3'-(L-phenylalanyl)adenylyl(1-) group,An organic anionic group obtained by deprotonation of the phosphate group of 3'-(<small>L</small>-phenylalanyl)adenylyl group. It is the major structure at pH 7.3 (according to Marvin v 6.2.0.).,,Metabolite
+CHEBI:78536,3'-(L-tyrosyl)adenylyl(1-) group,An organic anionic group obtained by deprotonation of the phosphate group of 3'-(<small>L</small>-tyrosyl)adenylyl group. It is the major structure at pH 7.3 (according to Marvin v 6.2.0.).,,Metabolite
+CHEBI:78552,ribonucleoside 2'-monophosphate(2-),An organophosphate oxoanion obtained by deprotonation of the phosphate OH groups of any ribonucleoside 2'-monophosphate; major species at pH 7.3.,,Metabolite
+CHEBI:78594,5alpha-pregan-20beta-ol-3-one,A 3-oxo-5α- steroid that is 5α-pregane-3-one carrying an additional hydroxy substituent at the 20β-position.,,Metabolite
+CHEBI:78595,21-dehydrocortisol,A C<small><sub>21</sub></small>-steroid that is cortisol in which the 21-hydroxy group has been oxidised to the corresponding aldehyde.,,Metabolite
+CHEBI:78596,21-dehydrocortisone,A C<small><sub>21</sub></small>-steroid that is cortisone in which the 21-hydroxy group has been oxidised to the corresponding aldehyde.,,Metabolite
+CHEBI:78600,11-dehydrocorticosterone,An 11-oxo steroid that is corticosterone in which the hydroxy substituent at the 11β position has been oxidised to give the corresponding ketone.,,Metabolite
+CHEBI:78601,"11,21-dioxoprogesterone",A C<small><sub>21</sub></small>-steroid that is progesterone carrying two additional oxo substituents at positions 11 and 21,,Metabolite
+CHEBI:78602,isoursodeoxycholate,"A steroid acid anion that is the conjugate base of isoursodeoxycholic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78603,3beta-hydroxy-7-oxo-5beta-cholan-24-oate,"A steroid acid anion that is the conjugate base of 3β-hydroxy-7-oxo-5β-cholan-24-oic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78604,ursodeoxycholate,"A bile acid anion that is the conjugate base of ursodeoxycholic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78605,7-oxolithocholate,"A bile acid anion that is the conjugate base of 7-oxolithocholic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78611,3-hydroxybutanoyl-CoA(4-),An acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of 3-hydroxybutanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:78832,"(5Z,8Z,11Z,13E)-15-HETE(1-)","An icosanoid anion that is the conjugate base of 15-HETE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78836,11(R)-HETE(1-),"An 11-HETE(1−) that is the conjugate base of 11(<i>R</i>)-HETE(1−), obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:78837,15(R)-HETE(1-),"A 15-HETE(1−) that is the conjugate base of 15(<i>R</i>)-HETE(1−), obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:7896,hexadecanoate,A long-chain fatty acid anion that is the conjugate base of hexadecanoic acid (palmitic acid); major species at pH 7.3.,,Metabolite
+CHEBI:79007,tricosanoate,"A very long-chain fatty acid anion that is the conjugate base of tricosanoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:79210,alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide(1-),An anionic ganglioside that is the conjugate base of α-<em>N</em>-acetylneuraminyl-(2→3)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-glucosyl-(1↔1)-ceramide arising from deprotonation of the neuraminosyl carboxy group; major species at pH 7.3.,,Metabolite
+CHEBI:79214,alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide(2-),An anionic ganglioside obtained by deprotonation of the neuraminosyl carboxy groups of α-<em>N</em>-acetylneuraminyl-(2→8)-α-<em>N</em>-acetylneuraminyl-(2→3)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-glucosyl-(1↔1)-ceramide; major species at pH 7.3.,,Metabolite
+CHEBI:799,"3,17-dioxoandrost-4-en-19-al",An androstanoid that is androst-4-en-19-al substituted by oxo groups at positions 3 and 17.,,Metabolite
+CHEBI:82626,15(R)-HPETE(1-),"A hydroperoxy fatty acid anion that is the conjugate base of 15(<i>R</i>)-HPETE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:82628,11(R)-HPETE(1-),"A hydroperoxy fatty acid anion that is the conjugate base of 11(<i>R</i>)-HPETE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:82629,prostaglandin G2(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin G<small><sub>2</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:82765,"1,2-dioctanoyl-sn-glycerol 3-diphosphate(3-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-diphosphate(3−) arising from deprotonation of the diphosphate OH groups of 1,2-dioctanoyl-sn-glycerol 3-diphosphate.",,Metabolite
+CHEBI:82810,N-palmitoylhexadecasphinganine,An <em>N</em>-acylhexadecasphinganine in which the acyl group is specified as palmitoyl (hexadecanoyl).,,Metabolite
+CHEBI:82811,N-stearoylhexadecasphinganine,An <em>N</em>-acylhexadecasphinganine in which the acyl group is specified as stearoyl (octadecanoyl).,,Metabolite
+CHEBI:82921,"1,2-dioctadecanoyl-sn-glycerol-3-phosphate(2-)",A 1-acyl-2-octadecanoyl-<em>sn</em>-glycerol-3-phosphate(2−) in which the 1-acyl group is also octadecanoyl; major species at pH 7.3.,,Metabolite
+CHEBI:82924,"1,2-di[(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl]-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycero-3-phosphate(2−) obtained by deprotonation of the phosphate OH groups of 1,2-di[(4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)]-docosahexaenoyl-<em>sn</em>-glycero-3-phosphate; major species at pH 7.3.",,Metabolite
+CHEBI:82925,"1,2-di[(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl]-sn-glycerol","A 1,2-diacyl-sn-glycerol in which both the acyl groups are specified as (4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoyl.",,Metabolite
+CHEBI:82927,1-palmitoyl-2-linoleoyl-sn-glycerol,"A 1,2-diacyl-<em>sn</em>-glycerol in which the 1- and 2-acyl groups are specified as palmitoyl and linoleoyl respectively.",,Metabolite
+CHEBI:82928,"1-palmitoyl-2-[(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl]-sn-glycero-3-phosphate(2-)","A 1,2-diacyl-<em>sn</em>-glycerol 3-phosphate(2−) in which the 1- and 2-acyl substituent are specified as palmitoyl and (4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoyl respectively; major species at pH 7.3.",,Metabolite
+CHEBI:82929,"1,2-dipalmitoyl-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which both acyl groups are specified as palmitoyl (hexadecanoyl).",,Metabolite
+CHEBI:82949,"1-palmitoyl-2-[(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl]-sn-glycerol","A 1,2-diacyl-<em>sn</em>-glycerol in which the acyl groups at positions 1 and 2 are specified as palmitoyl and (4<i>Z</i>,7<i>Z</i>,10<i>Z</i>,13<i>Z</i>,16<i>Z</i>,19<i>Z</i>)-docosahexaenoyl respectively.",,Metabolite
+CHEBI:82961,17beta-estradiol 17-glucosiduronate,A monocarboxylic acid anion resulting from the deprotonation of the carboxy group of 17β-estradiol 17-glucosiduronic acid.,,Metabolite
+CHEBI:82982,glycodeoxycholate,A <em>N</em>-acylglycinate that is the  conjugate base of glycodeoxycholic acid.,,Metabolite
+CHEBI:82984,linoleamide,A fatty amide obtained from  linoleic acid.,,Metabolite
+CHEBI:83088,(R)-lipoate,"A lipoate that is the conjugate base of (<i>R</i>)-lipoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:83099,N(6)-[(R)-lipoyl]-L-lysine residue,An <em>N</em><small><sup>6</small></sup>-lipoyl-<small>L</small>-lysine residue in which the lipoyl group has <i>R</i>-configuration.,,Metabolite
+CHEBI:83100,N(6)-[(R)-dihydrolipoyl]-L-lysine residue,An <em>N</em><small><sup>6</small></sup>-dihydrolipoyl-<small>L</small>-lysine residue in which the dihydrolipoyl group has <i>R</i>-configuration.,,Metabolite
+CHEBI:83111,N(6)-[(R)-S(8)-acetyldihydrolipoyl]-L-lysine residue,An <em>N</em><small><sup>6</small></sup>-(<em>S</em><small><sup>8</small></sup>-acetyldihydrolipoyl)-<small>L</small>-lysine residue in which the dihydrolipoyl group has <i>R</i>-configuration.,,Metabolite
+CHEBI:83139,long-chain fatty acyl-CoA(4-),A fatty acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of any long-chain fatty acyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:83142,N(6)-[(R)-S(8)-isobutyryldihydrolipoyl]-L-lysine residue,An α-amino-acid residue derived from <em>N</em><small><sup>6</small></sup>-[(<i>R</i>)-<em>S</em><small><sup>8</small></sup>-isobutyryldihydrolipoyl]-<small>L</small>-lysine.,,Metabolite
+CHEBI:83148,glycino(1-) group,An α-amino-acid residue anion obtained by deprotonation of the carboxy group of glycino group; major species at pH 7.3.,,Metabolite
+CHEBI:83228,L-alpha-amino acid residue,An α-amino-acid residue derived from an <small>L</small>-α-amino acid.,,Metabolite
+CHEBI:83243,"1-stearoyl-2-arachidonoyl-sn-glycero-3-phospho-(1D-myo-inositol 3,4,5-triphosphate)(7-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4,5-trisphosphate(7−) in which the phosphatidyl acyl groups at positions 1 and 2 are specified as stearoyl and arachidonoyl respectively.",,Metabolite
+CHEBI:83244,N-(2-hydroxyhexanoyl)sphingosine,A 2-<em>N</em>-(2-hydroxyacyl)sphingosine in which the ceramide <em>N</em>-acyl group is specified as 2-hydroxyhexanoyl.,,Metabolite
+CHEBI:83246,N-(2-hydroxyhexanoyl)-beta-D-galactosylsphingosine,A <em>N</em>-(2-hydroxyacyl)-β-<small>D</small>-galactosylsphingosine in which the ceramide <em>N</em>-acyl group is specified as 2-hydroxyhexanoyl.,,Metabolite
+CHEBI:83248,N-(2-hydroxyhexanoyl)sphinganine,An <em>N</em>-(2-hydroxyacyl)sphinganine in which the ceramide <em>N</em>-acyl group is specified as 2-hydroxyhexanoyl.,,Metabolite
+CHEBI:83257,N-(2-hydroxyhexanoyl)-beta-D-galactosylsphinganine,A <em>N</em>-(2-hydroxyacyl)-β-<small>D</small>-galactosylsphinganine in which the ceramide <em>N</em>-acyl group is specified as 2-hydroxyhexanoyl.,,Metabolite
+CHEBI:83273,N-acylsphingoid,A ceramide consisting of an undefined sphingoid base linked to an undefined fatty acid via an amide bond.,,Metabolite
+CHEBI:83397,L-citrulline residue,An <small>L</small>-α-amino acid residue derived from <small>L</small>-citrulline.,,Metabolite
+CHEBI:83414,alkyl sulfate(1-),An organosulfate oxoanion obtained by deprotonation of the sulfo group of any alkyl sulfate; major species at pH 7.3.,,Metabolite
+CHEBI:83416,"1,2-dioctanoyl-sn-glycero-3-phospho-(1D-myo-inositol-3,4,5-trisphosphate)(7-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4,5-trisphosphate(7−) in which the phosphatidyl acyl groups at positions 1 and 2 are both specified as octanoyl.",,Metabolite
+CHEBI:83417,"1,2-dioctanoyl-sn-glycero-3-phospho-(1D-myo-inositol-3,4-bisphosphate)(5-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4-bisphosphate(5−) in which the phosphatidyl acyl groups at positions 1 and 2 are both specified as octanoyl.",,Metabolite
+CHEBI:83419,"1,2-dioctanoyl-sn-glycero-3-phospho-(1D-myo-inositol-4,5-bisphosphate)(5-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 4,5-bisphosphate(5−) in which the phosphatidyl acyl groups at positions 1 and 2 are both specified as octanoyl.",,Metabolite
+CHEBI:83420,"1,2-dihexadecanoyl-sn-glycero-3-phospho-(1D-myo-inositol-3,4,5-trisphosphate)(7-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4,5-trisphosphate(7−) in which the phosphatidyl acyl groups at positions 1 and 2 are both specified as hexadecanoyl (palmitoyl).",,Metabolite
+CHEBI:83421,O-phospho-L-serine(2-) residue,An α-amino-acid residue anion obtained by deprotonation of the phosphate OH groups of <em>O</em>-phospho-<small>L</small>-serine residue; major speices at pH 7.3.,,Metabolite
+CHEBI:83422,"1,2-dihexadecanoyl-sn-glycero-3-phospho-(1D-myo-inositol-3,4-bisphosphate)(5-)","A 1-phosphatidyl-1<small>D</small>-<i>myo</i>-inositol 3,4-bisphosphate(5−) in which the phosphatidyl acyl groups at positions 1 and 2 are both specified as hexadecanoyl (palmitoyl).",,Metabolite
+CHEBI:83568,"sphinga-4E,14Z-dienine(1+)","A cationic sphingoid obtained by the protonation of the amino group of sphinga-4<i>E</i>,14<i>Z</i>-dienine; major species at pH 7.3.",,Metabolite
+CHEBI:83683,N-terminal N-acetyl-L-alanine residue,An N-terminal α-amino-acid residue derived from <em>N</em>-terminal <em>N</em>-acetyl-<small>L</small>-alanine.,,Metabolite
+CHEBI:83690,N-terminal N-acetyl-L-serine residue,An N-terminal α-amino-acid residue derived from N-terminal <em>N</em>-acetyl-<small>L</small>-serine.,,Metabolite
+CHEBI:83723,medium-chain 3-substituted propanoyl-CoA(4-),A 3-substituted propionyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of any medium-chain 3-substituted propionyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:83726,"medium-chain 2,3-trans-enoyl CoA(4-)","A 2,3-<i>trans</i>-enoyl CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of any medium-chain 2,3-<i>trans</i>-enoyl CoA (medium-chain = chain length between C<small><sub>6</sub></small> and C<small><sub>12</sub></small>); major species at pH 7.3.",,Metabolite
+CHEBI:83833,peptidylproline (omega=0) residue,The organodiyl group derived from peptidylproline (ω=0).,,Metabolite
+CHEBI:83834,peptidylproline (omega=180) residue,The organodiyl group derived from peptidylproline (ω=180),,Metabolite
+CHEBI:83955,2-saturated fatty acid anion,A fatty acid anion obtained by deprotonation of the carboxy group of any 2-saturated fatty acid.,,Ion
+CHEBI:83992,beta-D-glucosylsphingosine(1+),A <small>D</small>-glucosylsphingosine(1+) obtained by protonation of the amino group of any β-<small>D</small>-glucosylsphingosine; major species at pH 7.3.,,Metabolite
+CHEBI:84023,9(10)-EpOME(1-),"A monounsaturated fatty acid anion that is the conjugate base of 9(10)-EpOME, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84024,"14,15-EET(1-)","An icosanoid anion that is the conjugate base of 14,15-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84025,"8,9-EET(1-)","An icosanoid anion that is the conjugate base of 8,9-EET, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84027,"9,10-DiHOME(1-)","A monounsaturated fatty acid anion that is the conjugate base of 9,10-DiHOME, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84029,"(5Z,8Z,11Z)-14,15-dihydroxyicosatrienoate","A polyunsaturated fatty acid anion that is the conjugate base of (5<i>Z</i>,8<i>Z</i>,11<i>Z</i>)-14,15-dihydroxyicosatrienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84031,"(5Z,8Z,14Z)-11,12-dihydroxyicosatrienoate","A polyunsaturated fatty acid anion that is the conjugate base of (5<i>Z</i>,8<i>Z</i>,14<i>Z</i>)-11,12-dihydroxyicosatrienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84032,"(5Z,11Z,14Z)-8,9-dihydroxyicosatrienoate","A polyunsaturated fatty acid anion that is the conjugate base of (5<i>Z</i>,11<i>Z</i>,14<i>Z</i>)-8,9-dihydroxyicosatrienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84201,12-hydroxyoctadecanoate,"A hydroxy saturated fatty acid anion that is the conjugate base of 12-hydroxyoctadecanoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:84410,sphingoid base(1+),"A cationic sphingoid obtained by protonation of the amino group of any 2-amino-1,3-dihydroxysphingoid base.",,Metabolite
+CHEBI:84813,4-oxo-L-proline zwitterion,An amino acid zwitterion resulting from a transfer of a proton from the carboxy to the amino group of 4-oxo-<small>L</small>-proline; major species at pH 7.3.,,Ion
+CHEBI:84824,aromatic L-alpha-amino acid zwitterion,An <small>L</small>-α-amino acid zwitterion resulting from a transfer of a proton from the carboxy to the amino group of any aromatic <small>L</small>-α-amino acid; major species at pH 7.3.,,Ion
+CHEBI:85134,12-(phosphonooxy)octadecanoate(3-),An organophosphate oxoanion obtained by deprotonation of the carboxy and phosphate OH groups of 12-(phosphonooxy)octadecanoic acid; major species at pH 7.3.,,Metabolite
+CHEBI:85137,(9E)-12-(phosphonooxy)octadecenoate(3-),An organophosphate oxoanion obtained by deprotonation of the carboxy and phosphate OH groups of 12-phosphonooxy-(9<i>E</i>)-octadecenoic acid; major species at pH 7.3.,,Metabolite
+CHEBI:85141,(9Z)-12-(phosphonooxy)octadecenoate(3-),An organophosphate oxoanion obtained by deprotonation of the carboxy and phosphate OH groups of (9<i>Z</i>)-12-(phosphonooxy)octadecenoic acid; major species at pH 7.3.,,Metabolite
+CHEBI:85150,(9Z)-12-hydroxyoctadec-9-enoate,"A hydroxy fatty acid anion that is the conjugate base of (9<i>Z</i>)-12-hydroxyoctadec-9-enoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:85152,(9E)-12-hydroxyoctadec-9-enoate,"A hydroxy fatty acid anion that is the conjugate base of (9<i>E</i>)-12-hydroxyoctadec-9-enoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:85165,prostaglandin G2 2-glyceryl ester,A 2-monoglyceride obtained by formal condensation of the carboxy group of prostaglandin G<small><sub>2</sub></small> with the 2-hydroxy group of glycerol.,,Metabolite
+CHEBI:85166,prostaglandin H2 2-glyceryl ester,A 2-monoglyceride obtained by formal condensation of the carboxy group of prostaglandin H<small><sub>2</sub></small> with the 2-hydroxy group of glycerol.,,Metabolite
+CHEBI:85236,"15-deoxy-Delta(12,14)-prostaglandin J2(1-)","A prostaglandin carboxylic acid anion that is the conjugate base of 15-deoxy-Δ<small><sup>12,14</small></sup>-prostaglandin J<small><sub>2</sub></small>. obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:85261,N-dodecanoylsphinganine,A dihydroceramide in which the ceramide <em>N</em>-acyl group is specified as dodecanoyl (lauroyl).,,Metabolite
+CHEBI:85263,N-(dodecanoyl)ethanolamine,An <em>N</em>-(long-chain-acyl)ethanolamine resulting from the formal condensation of the carboxy group of dodecanoic acid (myristic acid) with the amino group of ethanolamine.,,Metabolite
+CHEBI:85299,N-(octadecanoyl)ethanolamine,An <em>N</em>-acylethanolamine 18:0 that is the ethanolamide of octadecanoic acid.,,Metabolite
+CHEBI:85621,L-3-oxoalanine residue,An <small>L</small>-α-amino acid residue derived from <small>L</small>-3-oxoalanine.,,Metabolite
+CHEBI:85650,"(11E,13Z)-octadecadienoyl-CoA(4-)","An octadecadienoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of (11<i>E</i>,13<i>Z</i>)-octadecadienoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:85651,"(5Z,11E)-octadecadienoyl-CoA(4-)","An octadecadienoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of (5<i>Z</i>,11<i>E</i>)-octadecadienoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:85652,"(6Z,11E)-octadecadienoyl-CoA(4-)","An octadecadienoyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of (6<i>Z</i>,11<i>E</i>)-octadecadienoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:85778,4beta-hydroxycholesterol,"A oxysterol that is cholesterol in which the hydrogen at the 4β position has been replaced by a hydroxy group. A metabolite of cholesterol formed by the drug-metabolizing enzyme cytochrome P450 3A4, it is one of the major oxysterols in the human circulation.",,Metabolite
+CHEBI:86096,(25R)-3beta-hydroxycholest-5-en-26-al,A 3β-hydroxycholest-5-en-26-al in which the stereocentre at position 25 has <i>R</i>-configuration.,,Metabolite
+CHEBI:86098,(25R)-3beta-hydroxycholest-5-en-26-oate,A 3β-hydroxycholest-5-en-26-oate in which the stereocentre at position 25 has <i>R</i>-configuration.,,Metabolite
+CHEBI:86113,"(25R)-4beta,26-dihydroxycholesterol",An oxysterol that is cholesterol which is substituted by hydroxy groups at 4β and 26 positions and has <i>R</i>-configuration at position 25.,,Metabolite
+CHEBI:86115,"(25R)-3beta,4beta-dihydroxycholest-5-en-26-al","A 26-oxo steroid resulting from the oxidation of the terminal methyl group of 4β,26-dihydroxycholesterol to the corresponding aldehyde.",,Metabolite
+CHEBI:86116,"(25R)-3beta,4beta-dihydroxycholest-5-en-26-oate(1-)","A steroid acid anion that is the conjugate base of (25<i>R</i>)-3β,4β-dihydroxycholest-5-en-26-oic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:86160,(2E)-pentenoyl-CoA(4-),"A 2,3-<i>trans</i>-enoyl CoA(4−) obtained by deprotonation of phosphate and diphosphate functions of (2<i>E</i>)-pentenoyl-CoA; major species at pH 7.3.",,Metabolite
+CHEBI:86377,5beta-dihydroepitestosterone,An androstanoid with a 5β-configuration formed by reduction across the C4-C5 double bond of epitestosterone.,,Metabolite
+CHEBI:86381,5beta-dihydrocorticosterone,A 3-oxo-5β-steroid formed from corticosterone by reduction across the C4-C5 double bond.,,Metabolite
+CHEBI:86384,5beta-dihydrodeoxycorticosterone,A 3-oxo-5β-steroid formed from 11-deoxycorticosterone by reduction across the C4-C5 double bond.,,Metabolite
+CHEBI:86389,5beta-dihydroaldosterone,A 3-oxo-5β-steroid formed from aldosterone by reduction across the C4-C5 double bond.,,Metabolite
+CHEBI:86570,(5alpha)-cholestan-3beta-ol,A cholestanoid that is (5α)-cholestane substituted by a β-hydroxy group at position 3.,,Metabolite
+CHEBI:87075,O-(N-acetyl-alpha-D-galactosaminyl)-L-threonine residue,An <small>L</small>-α-amino acid residue derived from <em>O</em>-(<em>N</em>-acetyl-α-<small>D</small>-galactosaminyl)-<small>L</small>-threonine.,,Metabolite
+CHEBI:87215,N-terminal 5-oxo-L-proline residue,An N-terminal α-amino-acid residue derived from 5-oxo-<small>L</small>-proline.,,Metabolite
+CHEBI:87331,17beta-hydroxy-5beta-androst-1-en-3-one,"A 3-oxo Δ<small><sup>1</small></sup>-steroid with 5β-configuration formed from 17β-hydroxyandrosta-1,4-dien-3-one by reduction across the C4-C5 double bond.",,Metabolite
+CHEBI:87333,17beta-hydroxy-5beta-estran-3-one,A C18 steroid with 5β-configuration formed from nandrolone by reduction across the C4-C5 double bond.,,Metabolite
+CHEBI:87653,"(25R)-3beta,26-dihydroxycholest-5-en-7-one",An oxysterol that is 7-ketocholesterol which is substituted by a hydroxy group at position 26 and has <i>R</i>-configuration at position 25.,,Metabolite
+CHEBI:87677,(25R)-3beta-hydroxycholest-5-en-7-one-26-al,"A 26-oxo steroid resulting from the oxidation of (25<i>R</i>)-3β,26-dihydroxycholest-5-en-7-one to the corresponding aldehyde.",,Metabolite
+CHEBI:87678,(25R)-3beta-hydroxycholest-5-en-7-one-26-oate,"A steroid acid anion that is the conjugate base of (25<i>R</i>)-3β-hydroxycholest-5-en-7-one-26-oic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:88154,alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide,A glycotriaosylceramide having α-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-galactosyl-(1→4)-β-<small>D</small>-glucosyl component attached to the primary hydroxy function of a ceramide with undefined sphingoid base.,,Metabolite
+CHEBI:88166,(S)-2-methylbutanoyl-CoA(4-),A 2-methylbutanoyl-CoA(4−) obtained by deprotonation of phosphate and diphosphate functions of (<i>S</i>)-2-methylbutanoyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:88221,"N(omega),N('omega)-dimethyl-L-arginine(1+) residue","An α-amino-acid residue cation obtained by protonation of the guanidino group of <em>N</em><small><sup>ω</small></sup>,<em>N</em><small><sup>'ω</small></sup>-dimethyl-<small>L</small>-arginine residue.",,Metabolite
+CHEBI:90230,prostaglandin E2 1-glyceryl ester,A 1-monoglyceride resulting from the condensation of the carboxy group of prostaglandin E<small><sub>2</sub></small> with the 1-hydroxy group of glycerol.,,Metabolite
+CHEBI:90233,prostaglandin F2alpha 1-glyceryl ester,A 1-monoglyceride resulting from the condensation of the carboxy group of prostaglandin F<small><sub>2α</sub></small> with the 1-hydroxy group of glycerol.,,Metabolite
+CHEBI:90596,L-beta-isoaspartate residue,An anionic amino-acid residue formed following deamidation of <small>L</small>-asparagine or dehydration of <small>L</small>-aspartate residue.,,Metabolite
+CHEBI:90598,L-isoaspartate alpha-methyl ester residue,An amino acid residue derived from <small>L</small>-isoaspartic acid α-methyl ester.,,Metabolite
+CHEBI:90632,5(S)-HETE(1-),"An icosanoid anion that is the conjugate base of 5(<i>S</i>)-HETE, obtained by deprotonation of the hydroxy group; major species at pH 7.3.",,Metabolite
+CHEBI:90694,12(S)-HHTrE(1-),"A polyunsaturated fatty acid anion that is the conjugate base of 12(<i>S</i>)-HHTrE, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:90718,12-HETE(1-),An icosanoid anion that is the conjugate base of 12-HETE arising from deprotonation of the carboxylic acid function; major species at pH 7.3.,,Metabolite
+CHEBI:90725,very long-chain 3-oxoacyl-CoA(4-),A 3-oxoacyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of any very long-chain 3-oxoacyl-CoA (very long-chain = chain length greater than C<small><sub>22</sub></small>); major species at pH 7.3.,,Metabolite
+CHEBI:90726,3-oxoacyl-CoA(4-),An acyl-CoA(4−) arising from deprotonation of the phosphate and diphosphate OH groups of any 3-oxoacyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:90736,very long-chain acyl-CoA(4-),An acyl-CoA(4−) obtained by deprotonation of the phosphate and diphosphate OH groups of a very-long-chain acyl-CoA; major species at pH 7.3.,,Metabolite
+CHEBI:90779,S-substituted glutathione(1-),A peptide anion obtained by deprotonation of the carboxy groups and concomitant protonation of the amino group of any <em>S</em>-substituted glutathione. Major structure at pH 7.3,,Ion
+CHEBI:90793,prostaglandin H1(1-),"A prostaglandin carboxylic acid anion that is the conjugate base of prostaglandin H<small><sub>1</sub></small>, obtained by deprotonation of the carboxy group; major species at pH 7.3.",,Metabolite
+CHEBI:90810,"5(S),11(R)-DiHETE(1-)","An icosanoid anion that is the conjugate base of 5(<i>S</i>),11(<i>R</i>)-DiHETE arising from deprotonation of the carboxylic acid function; major species at pH 7.3.",,Metabolite
+CHEBI:90812,"5(S),15(R)-DiHETE(1-)","An icosanoid anion that is the conjugate base of 5(<i>S</i>),15(<i>R</i>)-DiHETE arising from deprotonation of the carboxylic acid function; major species at pH 7.3.",,Metabolite
+CHEBI:90813,"5(S),15(S)-DiHETE(1-)","An icosanoid anion that is the conjugate base of 5(<i>S</i>),15(<i>S</i>)-DiHETE, arising from deprotonation of the carboxylic acid function; major species at pH 7.3.",,Metabolite
+CHEBI:90814,17(R)-HDoHE(1-),A hydroxy polyunsaturated fatty acid anion that is the conjugate base of 17(<i>R</i>)-HDoHE arising from deprotonation of the carboxylic acid function; major species at pH 7.3.,,Metabolite
+CHEBI:90815,"(4Z,7Z,10Z,14E,16Z,19Z)-13-hydroxydocosahexaenoate",A hydroxy polyunsaturated fatty acid anion that is the conjugate base of 13-HDoHE arising from deprotonation of the carboxylic acid function; major species at pH 7.3.,,Metabolite
+CHEBI:90818,18(R)-HEPE(1-),An icosanoid anion that is the conjugate base of 18(<i>R</i>)-HEPE arising from deprotonation of the carboxylic acid group; major species at pH 7.3.,,Metabolite
+CHEBI:90819,15(R)-HEPE(1-),An icosanoid anion that is the conjugate base of 15(<i>R</i>)-HEPE arising from deprotonation of the carboxylic acid group; major species at pH 7.3.,,Metabolite
+CHEBI:90820,11(R)-HEPE(1-),An icosanoid anion that is the conjugate base of 11(<i>R</i>)-HEPE arising from deprotonation of the carboxylic acid group; major species at pH 7.3.,,Metabolite
+CHEBI:90824,"(7Z,10Z,13R,14E,16Z,19Z)-13-hydroxydocosapentaenoate","A polyunsaturated fatty acid anion that is the conjugate base of (13<i>R</i>)-hydroxy-(7<i>Z</i>,10<i>Z</i>,14<i>E</i>,16<i>Z</i>,19<i>Z</i>)-docosapentaenoic acid, arising from deprotonation of the carboxylic acid group; major species at pH 7.3. It is an intermediate in 13-series resolvins biosynthesis from DPA (ω-3).",,Metabolite
+CHEBI:90838,O-(N-acetyl-beta-D-glucosaminyl)-L-serine residue,The <small>L</small>-α-amino acid residue formed from <em>O</em>-(<em>N</em>-acetyl-β-<small>D</small>-glucosaminyl)-<small>L</small>-serine.,,Metabolite
+CHEBI:90840,O-(N-acetyl-beta-D-glucosaminyl)-L-threonine residue,The <small>L</small>-α-amino acid residue formed from <em>O</em>-(<em>N</em>-acetyl-β-<small>D</small>-glucosaminyl)-<small>L</small>-threonine.,,Metabolite
+CHEBI:90850,13(S)-HODE(1-),"A hydroxy fatty acid anion that is the conjugate base of 13(<i>S</i>)-HODE, arising from deprotonation of the carboxylic acid function; major species at pH 7.3.",,Metabolite
+CHEBI:9407,taurochenodeoxycholate,An organosulfonate oxoanion that is the conjugate base of taurochenodeoxycholic acid arising from deprotonation of the sulfonate OH group; major species at pH 7.3.,,Metabolite

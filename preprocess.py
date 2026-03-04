@@ -60,30 +60,29 @@ def _safe_text(value) -> str:
 
 def _extract_go_terms(entry: dict, aspect: str) -> str:
     """
-    Extract GO terms for a given aspect key (go_p / go_f / go_c).
-    The UniProt JSON stores them under uniProtKBCrossReferences or
-    as pre-formatted strings in the requested fields.
+    Extract GO terms for a given aspect (go_p -> P:, go_f -> F:, go_c -> C:).
+    UniProt JSON stores GO terms in the uniProtKBCrossReferences array.
     """
-    # In the JSON response the GO terms appear under a dedicated key
-    # that matches the field name. They come as list of objects.
-    raw = entry.get(aspect)
-    if raw is None:
-        return ""
-    if isinstance(raw, list):
-        terms = []
-        for item in raw:
-            if isinstance(item, dict):
-                props = item.get("properties", [])
-                term_name = ""
-                for prop in props:
-                    if prop.get("key") == "GoTerm":
-                        term_name = prop.get("value", "")
-                go_id = item.get("id", "")
-                terms.append(f"{go_id}:{term_name}" if term_name else go_id)
-            elif isinstance(item, str):
-                terms.append(item)
-        return "; ".join(terms)
-    return str(raw)
+    prefix = {"go_p": "P:", "go_f": "F:", "go_c": "C:"}.get(aspect, "")
+    terms = []
+    
+    for xref in entry.get("uniProtKBCrossReferences", []):
+        if xref.get("database") == "GO":
+            props = xref.get("properties", [])
+            go_id = xref.get("id", "")
+            term_name = ""
+            for prop in props:
+                if prop.get("key") == "GoTerm":
+                    term_name = prop.get("value", "")
+                    break
+            
+            # GO terms in UniProt are prefixed with F:, P:, or C:
+            if term_name.startswith(prefix):
+                # Clean prefix from name for better visualization
+                display_name = term_name[len(prefix):].strip()
+                terms.append(f"{go_id}:{display_name}" if display_name else go_id)
+                
+    return "; ".join(terms)
 
 
 def _extract_comments(entry: dict, comment_type: str) -> str:
@@ -465,10 +464,10 @@ def run_pipeline():
     links_path = os.path.join(PROCESSED_DIR, "protein_chemical_links.csv")
     pathway_path = os.path.join(PROCESSED_DIR, "protein_pathway_map.csv")
 
-    proteins_df.to_csv(proteins_path, index=False)
-    chemicals_df.to_csv(chemicals_path, index=False)
-    links_df.to_csv(links_path, index=False)
-    pathway_df.to_csv(pathway_path, index=False)
+    proteins_df.fillna("").to_csv(proteins_path, index=False)
+    chemicals_df.fillna("").to_csv(chemicals_path, index=False)
+    links_df.fillna("").to_csv(links_path, index=False)
+    pathway_df.fillna("").to_csv(pathway_path, index=False)
 
     print("Saved processed datasets:")
     print(f"  ✓ {proteins_path}")

@@ -1,0 +1,239 @@
+
+=================================================================
+  RANDOM FOREST - Alzheimer's Disease Pathway Prediction
+=================================================================
+Loaded 1133 proteins, 6302 pathway mappings, 2786 chemical links.
+
+Class distribution:
+  Other                                                  :  655 proteins
+  No Pathway                                             :  273 proteins
+  Neutrophil degranulation                               :   66 proteins
+  Mitochondrial translation termination                  :   30 proteins
+  RAC1 GTPase cycle                                      :   26 proteins
+  Platelet degranulation                                 :   23 proteins
+  Clathrin-mediated endocytosis                          :   21 proteins
+  Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models:   20 proteins
+  Mitochondrial protein degradation                      :   19 proteins
+
+Feature matrix: 1133 proteins x 221 features
+Number of classes: 9
+Classes: ['Clathrin-mediated endocytosis', "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models", 'Mitochondrial protein degradation', 'Mitochondrial translation termination', 'Neutrophil degranulation', 'No Pathway', 'Other', 'Platelet degranulation', 'RAC1 GTPase cycle']
+
+Train samples : 906
+Test  samples : 227
+
+[1/3] Running RandomizedSearchCV …
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+
+  Best CV accuracy  : 0.6942
+  Best parameters   : {'max_depth': 20, 'max_features': 0.5, 'min_samples_leaf': 1, 'n_estimators': 330}
+  Search time       : 18.5s
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\rf_cv_results.png
+
+[2/3] Evaluating on test set …
+
+=================================================================
+  Random Forest  -  Evaluation Results
+=================================================================
+  Accuracy          : 0.7093  (70.93%)
+  Macro F1          : 0.3111
+  Weighted F1       : 0.6618
+-----------------------------------------------------------------
+                                                                                             precision    recall  f1-score   support
+
+                                                              Clathrin-mediated endocytosis       0.00      0.00      0.00         4
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models       0.00      0.00      0.00         4
+                                                          Mitochondrial protein degradation       0.00      0.00      0.00         4
+                                                      Mitochondrial translation termination       1.00      0.83      0.91         6
+                                                                   Neutrophil degranulation       0.50      0.08      0.13        13
+                                                                                 No Pathway       0.67      0.67      0.67        55
+                                                                                      Other       0.72      0.89      0.80       131
+                                                                     Platelet degranulation       0.50      0.20      0.29         5
+                                                                          RAC1 GTPase cycle       0.00      0.00      0.00         5
+
+                                                                                   accuracy                           0.71       227
+                                                                                  macro avg       0.38      0.30      0.31       227
+                                                                               weighted avg       0.65      0.71      0.66       227
+
+
+[3/3] Saving visualisations …
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\rf_feature_importances.png
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\rf_confusion_matrix.png
+  Results saved -> C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\results\results_summary.csv
+
+[OK] Random Forest training complete.
+
+=================================================================
+  XGBOOST - Alzheimer's Disease Pathway Prediction
+=================================================================
+Loaded 1133 proteins, 6302 pathway mappings, 2786 chemical links.
+
+Class distribution:
+  Other                                                  :  655 proteins
+  No Pathway                                             :  273 proteins
+  Neutrophil degranulation                               :   66 proteins
+  Mitochondrial translation termination                  :   30 proteins
+  RAC1 GTPase cycle                                      :   26 proteins
+  Platelet degranulation                                 :   23 proteins
+  Clathrin-mediated endocytosis                          :   21 proteins
+  Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models:   20 proteins
+  Mitochondrial protein degradation                      :   19 proteins
+
+Feature matrix: 1133 proteins x 221 features
+Number of classes: 9
+Classes: ['Clathrin-mediated endocytosis', "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models", 'Mitochondrial protein degradation', 'Mitochondrial translation termination', 'Neutrophil degranulation', 'No Pathway', 'Other', 'Platelet degranulation', 'RAC1 GTPase cycle']
+
+Train samples       : 815
+Early-stop eval set : 91
+Test  samples       : 227
+Number of classes   : 9
+
+[1/3] Running RandomizedSearchCV …
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+
+  Best CV accuracy : 0.5240
+  Best parameters : {'colsample_bytree': np.float64(0.5701975341512912), 'learning_rate': np.float64(0.05871254182522992), 'max_depth': 7, 'n_estimators': 299, 'reg_alpha': 1.0, 'reg_lambda': 5.0, 'subsample': np.float64(0.8278109655320984)}
+  Search time     : 101.0s
+
+  Refitting best model with early stopping …
+
+[2/3] Evaluating on test set …
+
+=================================================================
+  XGBoost  -  Evaluation Results
+=================================================================
+  Accuracy          : 0.6256  (62.56%)
+  Macro F1          : 0.4617
+  Weighted F1       : 0.6171
+-----------------------------------------------------------------
+                                                                                             precision    recall  f1-score   support
+
+                                                              Clathrin-mediated endocytosis       0.75      0.75      0.75         4
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models       0.00      0.00      0.00         4
+                                                          Mitochondrial protein degradation       0.29      0.50      0.36         4
+                                                      Mitochondrial translation termination       1.00      1.00      1.00         6
+                                                                   Neutrophil degranulation       0.29      0.15      0.20        13
+                                                                                 No Pathway       0.49      0.71      0.58        55
+                                                                                      Other       0.74      0.67      0.70       131
+                                                                     Platelet degranulation       0.25      0.20      0.22         5
+                                                                          RAC1 GTPase cycle       1.00      0.20      0.33         5
+
+                                                                                   accuracy                           0.63       227
+                                                                                  macro avg       0.53      0.46      0.46       227
+                                                                               weighted avg       0.63      0.63      0.62       227
+
+
+[3/3] Saving visualisations …
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\xgb_training_curve.png
+  Computing SHAP values (this may take ~30s) …
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\xgb_shap_summary.png
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\xgb_confusion_matrix.png
+  Results saved -> C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\results\results_summary.csv
+
+[OK] XGBoost training complete.
+
+=================================================================
+  NEURAL NETWORK (MLP) - Alzheimer's Disease Pathway Prediction
+=================================================================
+
+Using device: cpu
+Loaded 1133 proteins, 6302 pathway mappings, 2786 chemical links.
+
+Class distribution:
+  Other                                                  :  655 proteins
+  No Pathway                                             :  273 proteins
+  Neutrophil degranulation                               :   66 proteins
+  Mitochondrial translation termination                  :   30 proteins
+  RAC1 GTPase cycle                                      :   26 proteins
+  Platelet degranulation                                 :   23 proteins
+  Clathrin-mediated endocytosis                          :   21 proteins
+  Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models:   20 proteins
+  Mitochondrial protein degradation                      :   19 proteins
+
+Feature matrix: 1133 proteins x 221 features
+Number of classes: 9
+Classes: ['Clathrin-mediated endocytosis', "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models", 'Mitochondrial protein degradation', 'Mitochondrial translation termination', 'Neutrophil degranulation', 'No Pathway', 'Other', 'Platelet degranulation', 'RAC1 GTPase cycle']
+
+Train samples       : 815
+Validation samples  : 91
+Test  samples       : 227
+Feature dimensions  : 221
+Number of classes   : 9
+
+Model parameters    : 99,011
+
+Architecture:
+PathwayMLP(
+  (input_bn): BatchNorm1d(221, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (network): Sequential(
+    (0): Linear(in_features=221, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.3, inplace=False)
+    (3): Linear(in_features=256, out_features=128, bias=True)
+    (4): ReLU()
+    (5): Dropout(p=0.3, inplace=False)
+    (6): Linear(in_features=128, out_features=64, bias=True)
+    (7): ReLU()
+    (8): Dropout(p=0.2, inplace=False)
+    (9): Linear(in_features=64, out_features=9, bias=True)
+  )
+)
+
+
+[1/3] Training for up to 150 epochs (patience=20) …
+  Epoch   1/150 | train_loss=2.1892 val_loss=2.1628 val_acc=0.330 lr=0.001000
+  Epoch   2/150 | train_loss=2.0767 val_loss=2.0464 val_acc=0.330 lr=0.001000
+  Epoch   3/150 | train_loss=1.8468 val_loss=1.8374 val_acc=0.209 lr=0.000999
+  Epoch   4/150 | train_loss=1.5891 val_loss=1.6378 val_acc=0.275 lr=0.000998
+  Epoch   5/150 | train_loss=1.3302 val_loss=1.4391 val_acc=0.297 lr=0.000997
+  Epoch  11/150 | train_loss=0.4698 val_loss=1.1127 val_acc=0.451 lr=0.000987
+  Epoch  21/150 | train_loss=0.2254 val_loss=1.5383 val_acc=0.527 lr=0.000952
+
+  Early stopping at epoch 28 (best epoch = 8)
+
+[2/3] Evaluating on test set …
+
+=================================================================
+  Neural Network (MLP)  -  Evaluation Results
+=================================================================
+  Accuracy          : 0.5154  (51.54%)
+  Macro F1          : 0.4355
+  Weighted F1       : 0.5263
+-----------------------------------------------------------------
+                                                                                             precision    recall  f1-score   support
+
+                                                              Clathrin-mediated endocytosis       1.00      0.50      0.67         4
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models       0.00      0.00      0.00         4
+                                                          Mitochondrial protein degradation       0.33      1.00      0.50         4
+                                                      Mitochondrial translation termination       0.56      0.83      0.67         6
+                                                                   Neutrophil degranulation       0.18      0.46      0.26        13
+                                                                                 No Pathway       0.54      0.89      0.67        55
+                                                                                      Other       0.90      0.36      0.51       131
+                                                                     Platelet degranulation       0.06      0.20      0.10         5
+                                                                          RAC1 GTPase cycle       0.50      0.60      0.55         5
+
+                                                                                   accuracy                           0.52       227
+                                                                                  macro avg       0.45      0.54      0.44       227
+                                                                               weighted avg       0.71      0.52      0.53       227
+
+
+[3/3] Saving visualisations …
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\nn_loss_curves.png
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\nn_accuracy_curve.png
+  Saved: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\visualizations\nn_confusion_matrix.png
+  Results saved -> C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\results\results_summary.csv
+
+[OK] Neural Network training complete.
+
+=================================================================
+  MODEL COMPARISON SUMMARY
+=================================================================
+               model  accuracy  macro_f1  weighted_f1
+       Random Forest    0.7093    0.3111       0.6618
+             XGBoost    0.6256    0.4617       0.6171
+Neural Network (MLP)    0.5154    0.4355       0.5263
+=================================================================
+
+Full results saved to: C:\Users\milam\OneDrive - ALS Bobi\Desktop\disease pathway inference\data\results\results_summary.csv
+
+Total wall-clock time: 134.4s

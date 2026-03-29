@@ -125,3 +125,15 @@ After running, the following files are created:
 - `nn_loss_curves.png` - train/validation cross-entropy per epoch
 - `nn_accuracy_curve.png` - train/validation accuracy per epoch
 - `nn_confusion_matrix.png`
+
+### Results
+
+| Model | Accuracy | Macro F1 | Weighted F1 |
+|---|---|---|---|
+| **Random Forest** | 70.93% | 0.3111 | 0.6618 |
+| **XGBoost** | 62.56% | 0.4617 | 0.6171 |
+| **Neural Network (MLP)** | 51.54% | 0.4355 | 0.5263 |
+
+- **Random Forest** achieves the highest overall accuracy (70.93%) but the lowest Macro F1 (0.3111), indicating it favors majority classes ("Other", "No Pathway") at the expense of rare pathways.
+- **XGBoost** achieves the best Macro F1 (0.4617), demonstrating the most balanced classification across all pathway classes, including minority ones.
+- **Neural Network (MLP)** shows competitive Macro F1 (0.4355) but lower accuracy, likely due to the limited dataset size (~906 training samples) relative to its 99,011 parameters.

@@ -3,15 +3,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Set aesthetic style for research publication
 sns.set_theme(style="whitegrid", palette="muted")
 plt.rcParams.update({'font.size': 12, 'figure.autolayout': True, 'font.family': 'sans-serif'})
-
-# Setup directories
 base_dir = os.path.dirname(__file__)
 data_dir = os.path.join(base_dir, "data", "processed")
 output_dir = os.path.join(base_dir, "data", "visualizations")
 os.makedirs(output_dir, exist_ok=True)
+
 
 def generate_charts():
     print("Loading datasets...")
@@ -23,8 +21,6 @@ def generate_charts():
     except FileNotFoundError as e:
         print(f"Error: Could not find processed data files. Ensure preprocess.py has been run. {e}")
         return
-
-    # 1. Dataset Overview (Proteins vs Chemicals)
     print("Generating Dataset Composition chart...")
     plt.figure(figsize=(8, 6))
     counts = pd.Series({"Proteins": len(proteins), "Chemicals": len(chemicals)})
@@ -35,22 +31,17 @@ def generate_charts():
         plt.text(i, v + 20, str(v), ha='center', fontweight='bold')
     plt.savefig(os.path.join(output_dir, "dataset_composition.png"), dpi=300)
     plt.close()
-
-    # 2. Etiological Markers Highlights
     print("Generating Etiological Markers chart...")
     markers = ["APP", "MAPT", "PSEN1", "PSEN2", "APOE", "BACE1"]
     marker_data = proteins[proteins['gene_name'].isin(markers)].copy()
     if not marker_data.empty:
         plt.figure(figsize=(10, 6))
-        
         sns.barplot(data=marker_data, x="gene_name", y="interaction_count", palette="viridis", hue="gene_name", legend=False)
         plt.title("Protein-Protein Connectivity of Known AD Etiological Markers", pad=20)
         plt.ylabel("Number of Interacting Proteins (IntAct)")
         plt.xlabel("Key Etiological Genes")
         plt.savefig(os.path.join(output_dir, "etiological_markers.png"), dpi=300)
     plt.close()
-
-    # 3. Top 15 Pathways by Protein Count
     print("Generating Pathway Distribution chart...")
     plt.figure(figsize=(12, 7))
     pathway_counts = pathways['pathway_name'].replace('', pd.NA).dropna().astype(str)
@@ -61,36 +52,30 @@ def generate_charts():
         plt.xlabel("Number of Associated Proteins")
         plt.savefig(os.path.join(output_dir, "top_pathways.png"), dpi=300)
     plt.close()
-
-    # 4. Pathway Source Distribution
     print("Generating Pathway Sources chart...")
     plt.figure(figsize=(8, 8))
     source_counts = pathways['pathway_source'].value_counts()
     if not source_counts.empty:
-        plt.pie(source_counts.values, labels=source_counts.index, autopct='%1.1f%%', 
+        plt.pie(source_counts.values, labels=source_counts.index, autopct='%1.1f%%',
                 startangle=140, colors=sns.color_palette("pastel"), wedgeprops={'edgecolor': 'white'})
         plt.title("Distribution of Integrated Pathway Databases", pad=20)
         plt.savefig(os.path.join(output_dir, "pathway_sources.png"), dpi=300)
     plt.close()
-
-    # 5. Distribution of Interaction Types
     print("Generating Interaction Types chart...")
     plt.figure(figsize=(8, 8))
     type_counts = links['link_type'].value_counts()
     if not type_counts.empty:
-        plt.pie(type_counts.values, labels=type_counts.index, autopct='%1.1f%%', 
+        plt.pie(type_counts.values, labels=type_counts.index, autopct='%1.1f%%',
                 startangle=140, colors=sns.color_palette("Set3"), wedgeprops={'edgecolor': 'white'})
         plt.title("Protein-Chemical Interaction Categories", pad=20)
         plt.savefig(os.path.join(output_dir, "interaction_types.png"), dpi=300)
     plt.close()
-
-    # 6. Top GO Molecular Functions
     print("Generating GO Molecular Functions chart...")
     plt.figure(figsize=(12, 7))
+
     def clean_go(x):
         if not x or pd.isna(x): return []
         return [term.split(':', 1)[1] if ':' in term else term for term in str(x).split('; ')]
-    
     all_go_mf = proteins['go_mf'].apply(clean_go).explode().dropna()
     all_go_mf = all_go_mf[all_go_mf != '']
     top_go_mf = all_go_mf.value_counts().head(12)
@@ -100,8 +85,6 @@ def generate_charts():
         plt.xlabel("Frequency across Dataset")
         plt.savefig(os.path.join(output_dir, "top_go_mf.png"), dpi=300)
     plt.close()
-
-    # 7. Top GO Biological Processes
     print("Generating GO Biological Processes chart...")
     plt.figure(figsize=(12, 7))
     all_go_bp = proteins['go_bp'].apply(clean_go).explode().dropna()
@@ -113,8 +96,6 @@ def generate_charts():
         plt.xlabel("Frequency across Dataset")
         plt.savefig(os.path.join(output_dir, "top_go_bp.png"), dpi=300)
     plt.close()
-
-    # 8. Protein Length Distribution
     print("Generating Protein Length Distribution...")
     plt.figure(figsize=(10, 6))
     sns.histplot(proteins['length'].dropna(), kde=True, color='skyblue')
@@ -123,8 +104,6 @@ def generate_charts():
     plt.ylabel("Frequency")
     plt.savefig(os.path.join(output_dir, "protein_lengths.png"), dpi=300)
     plt.close()
-
-    # 9. Chemical Mass Distribution
     print("Generating Chemical Mass Distribution...")
     plt.figure(figsize=(10, 6))
     if 'mass' in chemicals.columns:
@@ -136,8 +115,6 @@ def generate_charts():
             plt.ylabel("Frequency")
             plt.savefig(os.path.join(output_dir, "chemical_masses.png"), dpi=300)
     plt.close()
-
-    # 10. Top Hub Proteins
     print("Generating Hub Proteins chart...")
     plt.figure(figsize=(12, 7))
     hub_counts = links['uniprot_id'].value_counts().head(12)
@@ -149,8 +126,6 @@ def generate_charts():
         plt.xlabel("Number of Small-Molecule Interactions")
         plt.savefig(os.path.join(output_dir, "hub_proteins.png"), dpi=300)
     plt.close()
-
     print(f"\nSuccess! Total 10 visualizations saved to: {output_dir}")
-
 if __name__ == "__main__":
     generate_charts()

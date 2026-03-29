@@ -1,4 +1,4 @@
 model,accuracy,macro_f1,weighted_f1,best_cv_accuracy,training_time_s,best_n_estimators,best_max_depth,best_min_samples_leaf,best_max_features,best_learning_rate,best_subsample,best_colsample_bytree,best_epoch,n_parameters
-Random Forest,0.7093,0.3111,0.6618,0.6942,26.9,330.0,20.0,1.0,0.5,,,,,
-XGBoost,0.6256,0.4617,0.6171,0.524,351.8,,7.0,,,0.0587,0.828,0.57,,
-Neural Network (MLP),0.5154,0.4355,0.5263,,2.1,,,,,,,,8.0,99011.0
+Random Forest,0.7093,0.3111,0.6618,0.6942,18.5,330.0,20.0,1.0,0.5,,,,,
+XGBoost,0.6256,0.4617,0.6171,0.524,105.5,,7.0,,,0.0587,0.828,0.57,,
+Neural Network (MLP),0.5154,0.4355,0.5263,,1.1,,,,,,,,8.0,99011.0
